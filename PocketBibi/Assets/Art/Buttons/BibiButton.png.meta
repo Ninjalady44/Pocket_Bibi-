@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: a0ef2455cea9354468d3a7208f60dd44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7790501889093850156
+    second: BibiButton_0
+  - first:
+      213: -1493126575034768188
+    second: BibiButton_1
+  - first:
+      213: 8257888576363807486
+    second: BibiButton_2
+  - first:
+      213: 2548194927557694546
+    second: BibiButton_3
+  - first:
+      213: 5162774864906665910
+    second: BibiButton_4
+  - first:
+      213: 6115942066756745192
+    second: BibiButton_5
+  - first:
+      213: 1699911136377492219
+    second: BibiButton_6
+  - first:
+      213: 3577421100980956574
+    second: BibiButton_7
+  - first:
+      213: -8225131122187531341
+    second: BibiButton_8
+  - first:
+      213: -5145700513545408628
+    second: BibiButton_9
+  - first:
+      213: -7558493557328130906
+    second: BibiButton_10
+  - first:
+      213: -4859143477163021950
+    second: BibiButton_11
+  - first:
+      213: -6453962407218583081
+    second: BibiButton_12
+  - first:
+      213: -8690512472888344071
+    second: BibiButton_13
+  - first:
+      213: 4905346305347641413
+    second: BibiButton_14
+  - first:
+      213: 8225988806020341885
+    second: BibiButton_15
+  - first:
+      213: -5565430856915103856
+    second: BibiButton_16
+  - first:
+      213: -4883044620744990411
+    second: BibiButton_17
+  - first:
+      213: 7417978792335599631
+    second: BibiButton_18
+  - first:
+      213: -8499649083014652459
+    second: BibiButton_19
+  - first:
+      213: 4726700754010740747
+    second: BibiButton_20
+  - first:
+      213: -8146353377353211651
+    second: BibiButton_21
+  - first:
+      213: 1190061550606308379
+    second: BibiButton_22
+  - first:
+      213: -9181148178453479687
+    second: BibiButton_23
+  - first:
+      213: 7580755867254804674
+    second: BibiButton_24
+  - first:
+      213: -2762177918850580133
+    second: BibiButton_25
+  - first:
+      213: 3159818022151665742
+    second: BibiButton_26
+  - first:
+      213: 3106419868011537962
+    second: BibiButton_27
+  - first:
+      213: 7289994159023183302
+    second: BibiButton_28
+  - first:
+      213: 1530527117293401601
+    second: BibiButton_29
+  - first:
+      213: 70598655980305995
+    second: BibiButton_30
+  - first:
+      213: -4522799285421613857
+    second: BibiButton_31
+  - first:
+      213: -2653258721198115104
+    second: BibiButton_32
+  - first:
+      213: -2469137101305095683
+    second: BibiButton_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BibiButton_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 1494
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db2d86cec392e390800000000000000
+      internalID: -7790501889093850156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 741
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c46b5a7a49574be0800000000000000
+      internalID: -1493126575034768188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_2
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 745
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2cbe478e9e99270800000000000000
+      internalID: 8257888576363807486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_3
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 724
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254578329c10d5320800000000000000
+      internalID: 2548194927557694546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_4
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 719
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfb316d26cd5a740800000000000000
+      internalID: 5162774864906665910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_5
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 719
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e777e3f7e030e450800000000000000
+      internalID: 6115942066756745192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_6
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 719
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2d2890c2c479710800000000000000
+      internalID: 1699911136377492219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_7
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 725
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9de4ff898d85a130800000000000000
+      internalID: 3577421100980956574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_8
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 727
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb800fa2d67add80800000000000000
+      internalID: -8225131122187531341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_9
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 719
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fa49165acc698b0800000000000000
+      internalID: -5145700513545408628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_10
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 634
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acc06ef726da1790800000000000000
+      internalID: -7558493557328130906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_11
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 552
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289aa0b90cad09cb0800000000000000
+      internalID: -4859143477163021950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_12
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 510
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9e20c926bee66a0800000000000000
+      internalID: -6453962407218583081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 491
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1836143f8156780800000000000000
+      internalID: -8690512472888344071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_14
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 465
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540658e997a431440800000000000000
+      internalID: 4905346305347641413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 464
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70ae256c35982270800000000000000
+      internalID: 8225988806020341885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_16
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 441
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fc39f5f1e93c2b0800000000000000
+      internalID: -5565430856915103856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_17
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 411
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531ec16f9c0fb3cb0800000000000000
+      internalID: -4883044620744990411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_18
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 309
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f086b84d864f1f660800000000000000
+      internalID: 7417978792335599631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_19
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 308
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dddf6b213e2b0a80800000000000000
+      internalID: -8499649083014652459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_20
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 305
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08916aea4d989140800000000000000
+      internalID: 4726700754010740747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_21
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 304
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0ee08b3c652fe80800000000000000
+      internalID: -8146353377353211651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_22
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 303
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b145db0dca2f38010800000000000000
+      internalID: 1190061550606308379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_23
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 295
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe3e012062069080800000000000000
+      internalID: -9181148178453479687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_24
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 308
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c05ea4fb41443960800000000000000
+      internalID: 7580755867254804674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_25
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 299
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51cb7441d5caa9d0800000000000000
+      internalID: -2762177918850580133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_26
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 306
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e483a3defbde9db20800000000000000
+      internalID: 3159818022151665742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_27
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 303
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a262b0459683c1b20800000000000000
+      internalID: 3106419868011537962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_28
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 297
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5df3740134b2560800000000000000
+      internalID: 7289994159023183302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_29
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 297
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1063069dd468d3510800000000000000
+      internalID: 1530527117293401601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_30
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 296
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e73538a11daf000800000000000000
+      internalID: 70598655980305995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_31
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 290
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcdd02430acb31c0800000000000000
+      internalID: -4522799285421613857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_32
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 283
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e677c9204bbd2bd0800000000000000
+      internalID: -2653258721198115104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BibiButton_33
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 283
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9d8fe63ecdbbdd0800000000000000
+      internalID: -2469137101305095683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BibiButton_0: -7790501889093850156
+      BibiButton_1: -1493126575034768188
+      BibiButton_10: -7558493557328130906
+      BibiButton_11: -4859143477163021950
+      BibiButton_12: -6453962407218583081
+      BibiButton_13: -8690512472888344071
+      BibiButton_14: 4905346305347641413
+      BibiButton_15: 8225988806020341885
+      BibiButton_16: -5565430856915103856
+      BibiButton_17: -4883044620744990411
+      BibiButton_18: 7417978792335599631
+      BibiButton_19: -8499649083014652459
+      BibiButton_2: 8257888576363807486
+      BibiButton_20: 4726700754010740747
+      BibiButton_21: -8146353377353211651
+      BibiButton_22: 1190061550606308379
+      BibiButton_23: -9181148178453479687
+      BibiButton_24: 7580755867254804674
+      BibiButton_25: -2762177918850580133
+      BibiButton_26: 3159818022151665742
+      BibiButton_27: 3106419868011537962
+      BibiButton_28: 7289994159023183302
+      BibiButton_29: 1530527117293401601
+      BibiButton_3: 2548194927557694546
+      BibiButton_30: 70598655980305995
+      BibiButton_31: -4522799285421613857
+      BibiButton_32: -2653258721198115104
+      BibiButton_33: -2469137101305095683
+      BibiButton_4: 5162774864906665910
+      BibiButton_5: 6115942066756745192
+      BibiButton_6: 1699911136377492219
+      BibiButton_7: 3577421100980956574
+      BibiButton_8: -8225131122187531341
+      BibiButton_9: -5145700513545408628
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
