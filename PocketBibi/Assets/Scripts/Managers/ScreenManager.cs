@@ -53,6 +53,7 @@ namespace PocketBibi
         private void Start()
         {
             _currentScreen = _screens[0];
+            _currentScreen.SetActive(true);
 
             for (int i = 1; i < _screens.Length; i++)
             {
