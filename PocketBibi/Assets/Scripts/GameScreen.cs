@@ -1,9 +1,9 @@
 /****************************************************************************************
  * Copyright: Ninja Lady Game Development
- * Script: BibiEnums.cs
- * Date Created: January 30 2026
+ * Script: GameScreen.cs
+ * Date Created: February 06 2026
  * Created By: Richard Als
- * Description: Holds the enum definitions
+ * Description: 
  ****************************************************************************************
  * Modified By: Richard Als
  * Date Last Modified: February 06 2026
@@ -12,8 +12,12 @@
  * Known Bugs:
  ****************************************************************************************/
 
+using UnityEngine;
+
 namespace PocketBibi
 {
-    public enum Screen { SPLASH, MENU, GAME}
-    public enum EvolutionState { EGG, BABY, TODDLER, TEEN, ADULT}
+    public class GameScreen : MonoBehaviour
+    {
+
+    }
 }

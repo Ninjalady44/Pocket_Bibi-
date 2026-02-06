@@ -13,7 +13,9 @@
  ****************************************************************************************/
 
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 namespace PocketBibi
 {
@@ -27,11 +29,16 @@ namespace PocketBibi
         [SerializeField] private GameObject _nameSelection = null;
         [SerializeField] private GameObject _confirmSelection = null;
 
+        [SerializeField] private TMP_InputField _nameInputField = null;
+        [SerializeField] private TextMeshProUGUI _nameText = null;
+        [SerializeField] private Image _image = null;
+
         #endregion
 
         #region Private Variables/Fields used in this Class Only
 
         private List<GameObject> _menuPanels;
+        private int _egg;
 
         #endregion
 
@@ -92,17 +99,21 @@ namespace PocketBibi
 
         public void EggButton(int egg)
         {
+            _egg = egg;
             NextMenuPanel(_nameSelection);
         }
 
         public void ConfirmButton()
         {
+            _nameText.text = _nameInputField.text;
+            _image.sprite = PlayerManager.Instance.Eggs[_egg].BibiSprite;
             NextMenuPanel(_confirmSelection);
         }
 
         public void YesButton()
         {
-
+            PlayerManager.Instance.SpawnBibi();
+            PlayerManager.Instance.PlayerBibi.BibiInit(PlayerManager.Instance.Eggs[_egg], _nameInputField.text);
         }
 
         public void NoButton()

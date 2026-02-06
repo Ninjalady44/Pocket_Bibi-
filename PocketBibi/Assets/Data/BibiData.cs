@@ -19,6 +19,12 @@ namespace PocketBibi
     [CreateAssetMenu(fileName = "BibiData", menuName = "ScriptableObjects/BibiData")]
     public class BibiData : ScriptableObject
     {
+        [SerializeField] private EvolutionState _eEvolutionState;
+        [SerializeField] private Sprite _bibiSprite = null;
+        [SerializeField] private BibiData[] _bibiEvolutionsConfig = null;
 
+        public EvolutionState eEvolutionState => _eEvolutionState;
+        public Sprite BibiSprite => _bibiSprite;
+        public BibiData[] BibiEvolutionsConfig => _bibiEvolutionsConfig;
     }
 }

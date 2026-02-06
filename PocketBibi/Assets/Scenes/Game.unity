@@ -1004,6 +1004,55 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 232290834}
   m_CullTransparentMesh: 1
+--- !u!1 &267167171
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 267167173}
+  - component: {fileID: 267167172}
+  m_Layer: 0
+  m_Name: PlayerManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &267167172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 267167171}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b72a2416766c2046985418050e72671, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PocketBibi.PlayerManager
+  _eggs:
+  - {fileID: 11400000, guid: ec1f99cc14653bf46af5f09f799d5035, type: 2}
+  - {fileID: 11400000, guid: 974d1e8de1503614082abbde8ce2b088, type: 2}
+  - {fileID: 11400000, guid: 6af5e8ad393a73041a55c267640b12c0, type: 2}
+  _bibiPrefab: {fileID: 838859887213402997, guid: 66634dfa06e75f24cacd4b8dba13cbb8, type: 3}
+--- !u!4 &267167173
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 267167171}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.29394, y: -0.3878, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &274165434
 GameObject:
   m_ObjectHideFlags: 0
@@ -2531,6 +2580,9 @@ MonoBehaviour:
   _eggSelection: {fileID: 1956912581}
   _nameSelection: {fileID: 932654769}
   _confirmSelection: {fileID: 1731483613}
+  _nameInputField: {fileID: 876488451}
+  _nameText: {fileID: 59787098}
+  _image: {fileID: 1603334171}
 --- !u!1 &876488449
 GameObject:
   m_ObjectHideFlags: 0
@@ -3005,8 +3057,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 963f999fa0afad54dbe66aeed361b7ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PocketBibi.NameSelection
-  _nameInputField: {fileID: 0}
-  _confirmButton: {fileID: 0}
+  _nameInputField: {fileID: 876488451}
+  _confirmButton: {fileID: 1227747025}
 --- !u!1 &934256157
 GameObject:
   m_ObjectHideFlags: 0
@@ -3156,7 +3208,7 @@ GameObject:
   - component: {fileID: 974433252}
   - component: {fileID: 974433251}
   m_Layer: 5
-  m_Name: YesButton (1)
+  m_Name: YesButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3225,7 +3277,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 974433252}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 869812912}
+        m_TargetAssemblyTypeName: PocketBibi.MainMenu, Assembly-CSharp
+        m_MethodName: YesButton
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &974433252
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3696,7 +3760,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1151224068}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 869812912}
+        m_TargetAssemblyTypeName: PocketBibi.MainMenu, Assembly-CSharp
+        m_MethodName: NoButton
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1151224068
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5907,3 +5983,4 @@ SceneRoots:
   - {fileID: 1689674660}
   - {fileID: 684545375}
   - {fileID: 580064516}
+  - {fileID: 267167173}
