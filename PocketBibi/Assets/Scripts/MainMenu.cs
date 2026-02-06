@@ -25,6 +25,7 @@ namespace PocketBibi
         [SerializeField] private GameObject _gameSelection = null;
         [SerializeField] private GameObject _eggSelection = null;
         [SerializeField] private GameObject _nameSelection = null;
+        [SerializeField] private GameObject _confirmSelection = null;
 
         #endregion
 
@@ -44,6 +45,7 @@ namespace PocketBibi
             _gameSelection.SetActive(false);
             _eggSelection.SetActive(false);
             _nameSelection.SetActive(false);
+            _confirmSelection.SetActive(false);
         }
 
         #endregion
@@ -91,6 +93,21 @@ namespace PocketBibi
         public void EggButton(int egg)
         {
             NextMenuPanel(_nameSelection);
+        }
+
+        public void ConfirmButton()
+        {
+            NextMenuPanel(_confirmSelection);
+        }
+
+        public void YesButton()
+        {
+
+        }
+
+        public void NoButton()
+        {
+            NextMenuPanel(_eggSelection);
         }
 
         #endregion

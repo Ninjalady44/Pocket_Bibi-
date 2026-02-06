@@ -3,7 +3,7 @@
  * Script: BibiData.cs
  * Date Created: February 4 2026
  * Created By: Richard Als
- * Description: ScriptableObject to hold default game information.
+ * Description: ScriptableObject to hold default Bibi information.
  ****************************************************************************************
  * Modified By: Richard Als
  * Date Last Modified: February 4 2026
@@ -14,8 +14,11 @@
 
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "BibiData", menuName = "ScriptableObjects/BibiData")]
-public class BibiData : ScriptableObject
+namespace PocketBibi
 {
-    
+    [CreateAssetMenu(fileName = "BibiData", menuName = "ScriptableObjects/BibiData")]
+    public class BibiData : ScriptableObject
+    {
+
+    }
 }
