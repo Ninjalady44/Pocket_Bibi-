@@ -28,7 +28,9 @@ namespace PocketBibi
         [SerializeField] private GameObject _eggSelection = null;
         [SerializeField] private GameObject _nameSelection = null;
         [SerializeField] private GameObject _confirmSelection = null;
+        [SerializeField] private GameObject _eggHatchingScreen = null;
 
+        [SerializeField] private GameScreen _gameScreen = null;
         [SerializeField] private TMP_InputField _nameInputField = null;
         [SerializeField] private TextMeshProUGUI _nameText = null;
         [SerializeField] private Image _image = null;
@@ -114,6 +116,8 @@ namespace PocketBibi
         {
             PlayerManager.Instance.SpawnBibi();
             PlayerManager.Instance.PlayerBibi.BibiInit(PlayerManager.Instance.Eggs[_egg], _nameInputField.text);
+            NextMenuPanel(_eggHatchingScreen);
+            _gameScreen.SpawnEgg();
         }
 
         public void NoButton()

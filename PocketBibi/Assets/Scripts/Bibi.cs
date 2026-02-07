@@ -21,6 +21,7 @@ namespace PocketBibi
         #region Private Variables/Fields Exposed to Inspector for Editing
 
         [SerializeField] private SpriteRenderer _spriteRenderer = null;
+        [SerializeField] private Animator _animator = null;
 
         #endregion
 
@@ -35,13 +36,42 @@ namespace PocketBibi
 
         #endregion
 
+        #region Private Functions/Methods
+
+        private void OnEnable()
+        {
+            Actions.evolve += EvolveBibi;
+        }
+
+        private void OnDisable()
+        {
+            Actions.evolve -= EvolveBibi;
+        }
+
+        #endregion
+
         #region Public Functions/Methods
-        
+
         public void BibiInit(BibiData _selectedBibiConfig, string name)
         {
             _currentBibiConfig = _selectedBibiConfig;
             _spriteRenderer.sprite = _currentBibiConfig.BibiSprite;
+            _animator.runtimeAnimatorController = _currentBibiConfig.AnimController;
             _name = name;
+        }
+
+        public void EvolveBibi()
+        {
+            if (_currentBibiConfig.eEvolutionState == EvolutionState.EGG)
+            {
+                _currentBibiConfig = _currentBibiConfig.BibiEvolutionsConfig[0];
+                _animator.runtimeAnimatorController = _currentBibiConfig.AnimController;
+                _spriteRenderer.sprite = _currentBibiConfig.BibiSprite;
+            }
+            else
+            {
+
+            }
         }
 
         #endregion

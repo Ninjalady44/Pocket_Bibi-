@@ -10,10 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6f6b445cb72cf1f49921ab0c264ad591, type: 3}
-  m_Name: BibiData_BlueEgg
+  m_Name: BibiData_Baby1
   m_EditorClassIdentifier: Assembly-CSharp::PocketBibi.BibiData
-  _eEvolutionState: 0
-  _bibiSprite: {fileID: 8050141450825388392, guid: 298ad25063e71454a96a5446aa9a1f1e, type: 3}
-  _animController: {fileID: 9100000, guid: eefdc0ec1fa4c094abdef6df037b8224, type: 2}
-  _bibiEvolutionsConfig:
-  - {fileID: 11400000, guid: 43fec6e9d5fe396428b53b2f73a30df8, type: 2}
+  _eEvolutionState: 1
+  _bibiSprite: {fileID: -8945438146341193663, guid: e1047239991600540b1fc32dae3c9df9, type: 3}
+  _animController: {fileID: 9100000, guid: b6b9f8f59e1996d4d889e554757c7342, type: 2}
+  _bibiEvolutionsConfig: []
