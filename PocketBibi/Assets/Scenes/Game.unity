@@ -2327,7 +2327,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &351980524
 Transform:
   m_ObjectHideFlags: 0
@@ -4480,7 +4480,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &869812908
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6900,7 +6900,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1155330446
 Transform:
   m_ObjectHideFlags: 0
@@ -9880,6 +9880,7 @@ MonoBehaviour:
   - {fileID: 2086156024}
   - {fileID: 2009206098}
   - {fileID: 2141465584}
+  _menuBG: {fileID: 1391072919}
   _eggSpawnLoc: {fileID: 2097027596}
 --- !u!1 &1691898372
 GameObject:
@@ -10297,7 +10298,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1782886277
 RectTransform:
   m_ObjectHideFlags: 0

@@ -13,6 +13,7 @@
  ****************************************************************************************/
 
 using UnityEngine;
+using UnityEngine.UI;
 
 namespace PocketBibi
 {
@@ -21,6 +22,7 @@ namespace PocketBibi
         #region Private Variables/Fields Exposed to Inspector for Editing
 
         [SerializeField] private GameObject[] _screens = null;
+        [SerializeField] private Image _menuBG = null;
         [SerializeField] private Transform _eggSpawnLoc = null;
 
         #endregion
@@ -37,7 +39,10 @@ namespace PocketBibi
         {
             foreach (var screen in _screens)
             {
-                screen.gameObject.SetActive(false);
+                if(screen != _screens[0])
+                {
+                    screen.gameObject.SetActive(false);
+                }
             }
         }
 
@@ -58,6 +63,7 @@ namespace PocketBibi
             player.transform.position = _eggSpawnLoc.transform.position;
             player.gameObject.SetActive(true);
             ChangeScreen(_screens[0]);
+            _menuBG.enabled = false;
             gameObject.SetActive(true);
         }
 
