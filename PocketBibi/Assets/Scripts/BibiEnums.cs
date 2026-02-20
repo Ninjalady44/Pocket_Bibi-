@@ -16,4 +16,25 @@ namespace PocketBibi
 {
     public enum Screen { SPLASH, MENU, GAME}
     public enum EvolutionState { EGG, BABY, TODDLER, TEEN, ADULT}
+    public enum GameScreens
+    {
+        EGG_HATCHING,
+        TOY_STORE,
+        SCHOOL,
+        RESTAURANT,
+        HOME,
+        COOK_JOB,
+        LEISURE,
+        REVIVE_WATERS,
+        BACKYARD,
+        CITY,
+        BEACH,
+        RUINS,
+        ARCADE,
+        INFOMATION_ROOM,
+        FISH_STORE,
+        LAWYER,
+        BABY_SITTER_ROOM,
+        VEGGIE_ROOM
+    }
 }

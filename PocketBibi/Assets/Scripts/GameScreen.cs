@@ -19,11 +19,14 @@ namespace PocketBibi
 {
     public class GameScreen : MonoBehaviour
     {
+        private readonly string BUTTONS_ON = "ButtonsOn";
+
         #region Private Variables/Fields Exposed to Inspector for Editing
 
         [SerializeField] private GameObject[] _screens = null;
         [SerializeField] private Image _menuBG = null;
         [SerializeField] private Transform _eggSpawnLoc = null;
+        [SerializeField] private Animator _careButtonAnimator = null;
 
         #endregion
 
@@ -39,11 +42,21 @@ namespace PocketBibi
         {
             foreach (var screen in _screens)
             {
-                if(screen != _screens[0])
+                if(screen != _screens[(int)GameScreens.EGG_HATCHING])
                 {
                     screen.gameObject.SetActive(false);
                 }
             }
+        }
+
+        public void OnEnable()
+        {
+            Actions.evolveScreenFinished += FinishHatching;
+        }
+
+        public void OnDisable()
+        {
+            Actions.evolveScreenFinished -= FinishHatching;
         }
 
         public void ChangeScreen(GameObject screen)
@@ -62,14 +75,25 @@ namespace PocketBibi
             var player = PlayerManager.Instance.PlayerBibi;
             player.transform.position = _eggSpawnLoc.transform.position;
             player.gameObject.SetActive(true);
-            ChangeScreen(_screens[0]);
+            ChangeScreen(_screens[(int)GameScreens.EGG_HATCHING]);
             _menuBG.enabled = false;
             gameObject.SetActive(true);
+        }
+
+        public void FinishHatching()
+        {
+            ChangeScreen(_screens[(int)GameScreens.HOME]);
+            _careButtonAnimator.SetBool(BUTTONS_ON, true);
         }
 
         #endregion
 
         #region Public Functions/Methods for use with Buttons
+
+        public void OutSideButton()
+        {
+            _careButtonAnimator.SetBool(BUTTONS_ON, false);
+        }
 
         #endregion
     }
