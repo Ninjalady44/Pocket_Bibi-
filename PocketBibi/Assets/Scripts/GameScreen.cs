@@ -24,6 +24,7 @@ namespace PocketBibi
         #region Private Variables/Fields Exposed to Inspector for Editing
 
         [SerializeField] private GameObject[] _screens = null;
+        [SerializeField] private GameObject _locationMenu = null;
         [SerializeField] private Image _menuBG = null;
         [SerializeField] private Transform _eggSpawnLoc = null;
         [SerializeField] private Animator _careButtonAnimator = null;
@@ -86,6 +87,11 @@ namespace PocketBibi
             _careButtonAnimator.SetBool(BUTTONS_ON, true);
         }
 
+        public void InSideButton()
+        {
+            _careButtonAnimator.SetBool(BUTTONS_ON, true);
+        }
+
         #endregion
 
         #region Public Functions/Methods for use with Buttons
@@ -93,6 +99,7 @@ namespace PocketBibi
         public void OutSideButton()
         {
             _careButtonAnimator.SetBool(BUTTONS_ON, false);
+            _locationMenu.SetActive(true);
         }
 
         #endregion
