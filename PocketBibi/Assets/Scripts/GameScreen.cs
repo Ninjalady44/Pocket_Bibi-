@@ -6,7 +6,7 @@
  * Description: 
  ****************************************************************************************
  * Modified By: Richard Als
- * Date Last Modified: February 06 2026
+ * Date Last Modified: March 17 2026
  ****************************************************************************************
  * TODO: 
  * Known Bugs:
@@ -25,6 +25,7 @@ namespace PocketBibi
 
         [SerializeField] private GameObject[] _screens = null;
         [SerializeField] private GameObject _locationMenu = null;
+        [SerializeField] private GameObject _statusSettingButton = null;
         [SerializeField] private Image _menuBG = null;
         [SerializeField] private Transform _eggSpawnLoc = null;
         [SerializeField] private Animator _careButtonAnimator = null;
@@ -37,17 +38,21 @@ namespace PocketBibi
 
         #endregion
 
+        public GameObject[] Screens => _screens;
+
         #region Public Functions/Methods
 
         public void Start()
         {
             foreach (var screen in _screens)
             {
-                if(screen != _screens[(int)GameScreens.EGG_HATCHING])
+                if (screen != _screens[(int)GameScreens.EGG_HATCHING] && screen != _screens[(int)GameScreens.BEDROOM])
                 {
                     screen.gameObject.SetActive(false);
                 }
             }
+
+            _screens[(int)GameScreens.BEDROOM].SetActive(true);
         }
 
         public void OnEnable()
@@ -100,6 +105,12 @@ namespace PocketBibi
         {
             _careButtonAnimator.SetBool(BUTTONS_ON, false);
             _locationMenu.SetActive(true);
+        }
+
+        public void StatusSettingsButton()
+        {
+            _careButtonAnimator.SetBool(BUTTONS_ON, false);
+            _statusSettingButton.SetActive(true);
         }
 
         #endregion

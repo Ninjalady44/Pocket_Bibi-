@@ -36,6 +36,16 @@ namespace PocketBibi
 
         #endregion
 
+        #region Public Getters/Accessors
+
+        public string Name => _name;
+        public int Age => _age;
+        public int Happiness => _happiness;
+        public int Currency => _currency;
+        public Sprite BibiSprite => _currentBibiConfig.BibiSprite;
+
+        #endregion
+
         #region Private Functions/Methods
 
         private void OnEnable()

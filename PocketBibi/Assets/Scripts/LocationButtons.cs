@@ -41,8 +41,8 @@ namespace PocketBibi
             Exit
         }
 
-        private LocationButtonOrder eBttnCurrent = LocationButtonOrder.Bedroom;
-        private LocationButtonOrder eBttnUnused = LocationButtonOrder.Backyard;
+        private LocationButtonOrder _eBttnCurrent = LocationButtonOrder.Bedroom;
+        private LocationButtonOrder _eBttnUnused = LocationButtonOrder.Backyard;
         private RectTransform _currentLocationButton;
         private RectTransform _unusedButton;
 
@@ -52,13 +52,8 @@ namespace PocketBibi
 
         private void OnEnable()
         {
-            _currentLocationButton = _buttons[(int)eBttnCurrent];
-            _buttons[(int)eBttnUnused].gameObject.SetActive(false);
-        }
-
-        private void OnDisable()
-        {
-            
+            _currentLocationButton = _buttons[(int)_eBttnCurrent];
+            _buttons[(int)_eBttnUnused].gameObject.SetActive(false);
         }
 
         #endregion
@@ -67,47 +62,137 @@ namespace PocketBibi
 
         public void BathroomButton()
         {
-            eBttnCurrent = LocationButtonOrder.Bathroom;
+            _eBttnCurrent = LocationButtonOrder.Bathroom;
+            _currentLocationButton = _buttons[(int)_eBttnCurrent];
+            
+            _currentLocationButton.gameObject.SetActive(false);
+            _unusedButton = _buttons[(int)_eBttnUnused];
+            _unusedButton.transform.localPosition = _currentLocationButton.transform.localPosition;
+            _unusedButton.gameObject.SetActive(true);
+            _eBttnUnused = _eBttnCurrent;
+            _unusedButton = _buttons[(int)_eBttnCurrent];
+
+            _gameScreen.ChangeScreen(_gameScreen.Screens[(int)GameScreens.BATHROOM]);
         }
 
         public void BedroomButton()
         {
-            eBttnCurrent = LocationButtonOrder.Bedroom;
+            _eBttnCurrent = LocationButtonOrder.Bedroom;
+            _currentLocationButton = _buttons[(int)_eBttnCurrent];
+
+            _currentLocationButton.gameObject.SetActive(false);
+            _unusedButton = _buttons[(int)_eBttnUnused];
+            _unusedButton.transform.localPosition = _currentLocationButton.transform.localPosition;
+            _unusedButton.gameObject.SetActive(true);
+            _eBttnUnused = _eBttnCurrent;
+            _unusedButton = _buttons[(int)_eBttnCurrent];
+
+            _gameScreen.ChangeScreen(_gameScreen.Screens[(int)GameScreens.BEDROOM]);
         }
 
         public void LivingRoomButton()
         {
-            eBttnCurrent = LocationButtonOrder.Livingroom;
+            _eBttnCurrent = LocationButtonOrder.Livingroom;
+            _currentLocationButton = _buttons[(int)_eBttnCurrent];
+
+            _currentLocationButton.gameObject.SetActive(false);
+            _unusedButton = _buttons[(int)_eBttnUnused];
+            _unusedButton.transform.localPosition = _currentLocationButton.transform.localPosition;
+            _unusedButton.gameObject.SetActive(true);
+            _eBttnUnused = _eBttnCurrent;
+            _unusedButton = _buttons[(int)_eBttnCurrent];
+
+            _gameScreen.ChangeScreen(_gameScreen.Screens[(int)GameScreens.LIVINGROOM]);
         }
         
         public void KitchenRoonButton()
         {
-            eBttnCurrent = LocationButtonOrder.Kitchen;
+            _eBttnCurrent = LocationButtonOrder.Kitchen;
+            _currentLocationButton = _buttons[(int)_eBttnCurrent];
+
+            _currentLocationButton.gameObject.SetActive(false);
+            _unusedButton = _buttons[(int)_eBttnUnused];
+            _unusedButton.transform.localPosition = _currentLocationButton.transform.localPosition;
+            _unusedButton.gameObject.SetActive(true);
+            _eBttnUnused = _eBttnCurrent;
+            _unusedButton = _buttons[(int)_eBttnCurrent];
+
+            _gameScreen.ChangeScreen(_gameScreen.Screens[(int)GameScreens.KITCHEN]);
         }
 
         public void ForestButton()
         {
-            eBttnCurrent = LocationButtonOrder.Forest;
+            _eBttnCurrent = LocationButtonOrder.Forest;
+            _currentLocationButton = _buttons[(int)_eBttnCurrent];
+
+            _currentLocationButton.gameObject.SetActive(false);
+            _unusedButton = _buttons[(int)_eBttnUnused];
+            _unusedButton.transform.localPosition = _currentLocationButton.transform.localPosition;
+            _unusedButton.gameObject.SetActive(true);
+            _eBttnUnused = _eBttnCurrent;
+            _unusedButton = _buttons[(int)_eBttnCurrent];
+
+            _gameScreen.ChangeScreen(_gameScreen.Screens[(int)GameScreens.FOREST]);
         }
 
         public void CityButton() 
         {
-            eBttnCurrent = LocationButtonOrder.City;
+            _eBttnCurrent = LocationButtonOrder.City;
+            _currentLocationButton = _buttons[(int)_eBttnCurrent];
+
+            _currentLocationButton.gameObject.SetActive(false);
+            _unusedButton = _buttons[(int)_eBttnUnused];
+            _unusedButton.transform.localPosition = _currentLocationButton.transform.localPosition;
+            _unusedButton.gameObject.SetActive(true);
+            _eBttnUnused = _eBttnCurrent;
+            _unusedButton = _buttons[(int)_eBttnCurrent];
+
+            _gameScreen.ChangeScreen(_gameScreen.Screens[(int)GameScreens.CITY]);
         }
 
         public void BeachButton()
         {
-            eBttnCurrent = LocationButtonOrder.Beach;
+            _eBttnCurrent = LocationButtonOrder.Beach;
+            _currentLocationButton = _buttons[(int)_eBttnCurrent];
+
+            _currentLocationButton.gameObject.SetActive(false);
+            _unusedButton = _buttons[(int)_eBttnUnused];
+            _unusedButton.transform.localPosition = _currentLocationButton.transform.localPosition;
+            _unusedButton.gameObject.SetActive(true);
+            _eBttnUnused = _eBttnCurrent;
+            _unusedButton = _buttons[(int)_eBttnCurrent];
+
+            _gameScreen.ChangeScreen(_gameScreen.Screens[(int)GameScreens.BEACH]);
         }
 
         public void RuinsButton()
         {
-            eBttnCurrent = LocationButtonOrder.Ruins;
+            _eBttnCurrent = LocationButtonOrder.Ruins;
+            _currentLocationButton = _buttons[(int)_eBttnCurrent];
+
+            _currentLocationButton.gameObject.SetActive(false);
+            _unusedButton = _buttons[(int)_eBttnUnused];
+            _unusedButton.transform.localPosition = _currentLocationButton.transform.localPosition;
+            _unusedButton.gameObject.SetActive(true);
+            _eBttnUnused = _eBttnCurrent;
+            _unusedButton = _buttons[(int)_eBttnCurrent];
+
+            _gameScreen.ChangeScreen(_gameScreen.Screens[(int)GameScreens.RUINS]);
         }
 
         public void BackyardButton()
         {
-            eBttnCurrent = LocationButtonOrder.Backyard;
+            _eBttnCurrent = LocationButtonOrder.Backyard;
+            _currentLocationButton = _buttons[(int)_eBttnCurrent];
+
+            _currentLocationButton.gameObject.SetActive(false);
+            _unusedButton = _buttons[(int)_eBttnUnused];
+            _unusedButton.transform.localPosition = _currentLocationButton.transform.localPosition;
+            _unusedButton.gameObject.SetActive(true);
+            _eBttnUnused = _eBttnCurrent;
+            _unusedButton = _buttons[(int)_eBttnCurrent];
+
+            _gameScreen.ChangeScreen(_gameScreen.Screens[(int)GameScreens.BACKYARD]);
         }
 
         public void ExitButton()

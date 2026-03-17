@@ -25,16 +25,22 @@ namespace PocketBibi
         HOME,
         COOK_JOB,
         LEISURE,
+        NANNY_JOB,
         REVIVE_WATERS,
         BACKYARD,
         CITY,
         BEACH,
+        FOREST,
         RUINS,
         ARCADE,
         INFOMATION_ROOM,
         FISH_STORE,
         LAWYER,
         BABY_SITTER_ROOM,
-        VEGGIE_ROOM
+        VEGGIE_ROOM,
+        BEDROOM,
+        LIVINGROOM,
+        BATHROOM,
+        KITCHEN
     }
 }
