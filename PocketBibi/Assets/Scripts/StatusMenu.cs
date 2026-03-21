@@ -50,6 +50,9 @@ namespace PocketBibi
             _age.text = PlayerManager.Instance.PlayerBibi.Age.ToString();
             _happiness.text = PlayerManager.Instance.PlayerBibi.Happiness.ToString();
             _bibiImage.sprite = PlayerManager.Instance.PlayerBibi.BibiSprite;
+            _weight.text = PlayerManager.Instance.PlayerBibi.Weight.ToString();
+            _hunger.text = PlayerManager.Instance.PlayerBibi.HungerLevel.ToString();
+            _dateOfBirth.text = PlayerManager.Instance.PlayerBibi.DateOfBirth.ToString();
         }
 
         private void OnDisable()
@@ -64,14 +67,14 @@ namespace PocketBibi
 
         public void StatusButton()
         {
-            _statusMenu.SetActive(false);
-            _settingsMenu.SetActive(true);
+            _statusMenu.SetActive(true);
+            _settingsMenu.SetActive(false);
         }
 
         public void SettingsButton()
         {
-            _statusMenu.SetActive(true);
-            _settingsMenu.SetActive(false);
+            _statusMenu.SetActive(false);
+            _settingsMenu.SetActive(true);
         }
 
         public void BackButton()

@@ -12,6 +12,7 @@
  * Known Bugs:
  ****************************************************************************************/
 
+using System;
 using UnityEngine;
 
 namespace PocketBibi
@@ -33,6 +34,9 @@ namespace PocketBibi
         private int _missedCareAmount;
         private int _happiness;
         private int _currency;
+        private int _weight;
+        private int _hungerLevel;
+        private DateTime _dateOfBirth;
 
         #endregion
 
@@ -42,6 +46,9 @@ namespace PocketBibi
         public int Age => _age;
         public int Happiness => _happiness;
         public int Currency => _currency;
+        public int Weight => _weight;
+        public int HungerLevel => _hungerLevel;
+        public DateTime DateOfBirth => _dateOfBirth;
         public Sprite BibiSprite => _currentBibiConfig.BibiSprite;
 
         #endregion
@@ -68,6 +75,7 @@ namespace PocketBibi
             _spriteRenderer.sprite = _currentBibiConfig.BibiSprite;
             _animator.runtimeAnimatorController = _currentBibiConfig.AnimController;
             _name = name;
+            _dateOfBirth = DateTime.Now;
         }
 
         public void EvolveBibi()
