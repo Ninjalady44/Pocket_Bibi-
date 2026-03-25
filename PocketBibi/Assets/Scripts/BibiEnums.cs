@@ -22,7 +22,6 @@ namespace PocketBibi
         TOY_STORE,
         SCHOOL,
         RESTAURANT,
-        HOME,
         COOK_JOB,
         LEISURE,
         NANNY_JOB,

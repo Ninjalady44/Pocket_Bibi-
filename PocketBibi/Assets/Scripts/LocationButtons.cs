@@ -73,6 +73,9 @@ namespace PocketBibi
             _unusedButton = _buttons[(int)_eBttnCurrent];
 
             _gameScreen.ChangeScreen(_gameScreen.Screens[(int)GameScreens.BATHROOM]);
+
+            gameObject.SetActive(false);
+            _gameScreen.InSideButton();
         }
 
         public void BedroomButton()
@@ -88,6 +91,9 @@ namespace PocketBibi
             _unusedButton = _buttons[(int)_eBttnCurrent];
 
             _gameScreen.ChangeScreen(_gameScreen.Screens[(int)GameScreens.BEDROOM]);
+
+            gameObject.SetActive(false);
+            _gameScreen.InSideButton();
         }
 
         public void LivingRoomButton()
@@ -103,6 +109,9 @@ namespace PocketBibi
             _unusedButton = _buttons[(int)_eBttnCurrent];
 
             _gameScreen.ChangeScreen(_gameScreen.Screens[(int)GameScreens.LIVINGROOM]);
+
+            gameObject.SetActive(false);
+            _gameScreen.InSideButton();
         }
         
         public void KitchenRoonButton()
@@ -118,6 +127,9 @@ namespace PocketBibi
             _unusedButton = _buttons[(int)_eBttnCurrent];
 
             _gameScreen.ChangeScreen(_gameScreen.Screens[(int)GameScreens.KITCHEN]);
+
+            gameObject.SetActive(false);
+            _gameScreen.InSideButton();
         }
 
         public void ForestButton()
@@ -193,6 +205,9 @@ namespace PocketBibi
             _unusedButton = _buttons[(int)_eBttnCurrent];
 
             _gameScreen.ChangeScreen(_gameScreen.Screens[(int)GameScreens.BACKYARD]);
+
+            gameObject.SetActive(false);
+            _gameScreen.InSideButton();
         }
 
         public void ExitButton()

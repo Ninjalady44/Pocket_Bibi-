@@ -88,7 +88,7 @@ namespace PocketBibi
 
         public void FinishHatching()
         {
-            ChangeScreen(_screens[(int)GameScreens.HOME]);
+            ChangeScreen(_screens[(int)GameScreens.BEDROOM]);
             _careButtonAnimator.SetBool(BUTTONS_ON, true);
         }
 

@@ -12,7 +12,6 @@
  * Known Bugs:
  ****************************************************************************************/
 
-using UnityEditor.Animations;
 using UnityEngine;
 
 namespace PocketBibi
@@ -22,12 +21,12 @@ namespace PocketBibi
     {
         [SerializeField] private EvolutionState _eEvolutionState;
         [SerializeField] private Sprite _bibiSprite = null;
-        [SerializeField] private AnimatorController _animController = null;
+        [SerializeField] private RuntimeAnimatorController _animController = null;
         [SerializeField] private BibiData[] _bibiEvolutionsConfig = null;
 
         public EvolutionState eEvolutionState => _eEvolutionState;
         public Sprite BibiSprite => _bibiSprite;
-        public AnimatorController AnimController => _animController;
+        public RuntimeAnimatorController AnimController => _animController;
         public BibiData[] BibiEvolutionsConfig => _bibiEvolutionsConfig;
     }
 }
