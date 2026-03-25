@@ -16,6 +16,8 @@ namespace PocketBibi
 {
     public enum Screen { SPLASH, MENU, GAME}
     public enum EvolutionState { EGG, BABY, TODDLER, TEEN, ADULT}
+    public enum Language { English = 1, French }
+    public enum TextSpeed { Instant, Fast, Medium, Slow}
     public enum GameScreens
     {
         EGG_HATCHING,
