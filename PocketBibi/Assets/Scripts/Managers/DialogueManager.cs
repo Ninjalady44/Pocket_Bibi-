@@ -12,6 +12,7 @@
  * Known Bugs:
  ****************************************************************************************/
 
+using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
@@ -29,8 +30,9 @@ namespace PocketBibi
 
         #region Private Variables/Fields Exposed to Inspector for Editing
 
-        [SerializeField] private GameObject _chatBox;
-        [SerializeField] private TextMeshProUGUI _textBox;
+        [SerializeField] private GameData _gameConfig = null;
+        [SerializeField] private GameObject _chatBox = null;
+        [SerializeField] private TextMeshProUGUI _textBox = null;
 
         #endregion
 
@@ -40,7 +42,9 @@ namespace PocketBibi
         private TextAsset _menuUITextSheet;
         private Dictionary<string, string> _bibiText;
         private Dictionary<string, string> _menuUIText;
-        private Language e_language;
+        private Language _eLanguage;
+        private TextSpeed _eTextSpeed;
+        private Coroutine _displayTextCoroutine;
 
         #endregion
 
@@ -67,19 +71,42 @@ namespace PocketBibi
             for (int i = 1; i < data.Length - 1; i++)
             {
                 string[] row = data[i].Split(new char[] { ',' });
-                dictionary.Add(row[0], row[(int)e_language]);
+                dictionary.Add(row[0], row[(int)_eLanguage]);
             }
         }
 
         #endregion
 
-        #region Private Functions/Methods
+        #region Public Functions/Methods
+
+        public void SetLanguage()
+        {
+            Resources.Load<TextAsset>("TextSpreadSheets/");
+        }
 
         public void ShowTextBox(string key)
         {
-            
+            _chatBox.SetActive(true);
+
+            if (_eTextSpeed == TextSpeed.Instant)
+            {
+                _textBox.text = _bibiText[key];
+            }
+            else
+            {
+                _displayTextCoroutine = StartCoroutine(DisplayText(key));
+            }
         }
 
         #endregion
+
+        private IEnumerator DisplayText(string key)
+        {
+            for (int i = 0; i < _bibiText.Count; i++)
+            {
+                _textBox.text += _bibiText[key][i];
+                yield return new WaitForSeconds(_gameConfig.TextSpeed[(int)_eTextSpeed]); 
+            }
+        }
     }
 }

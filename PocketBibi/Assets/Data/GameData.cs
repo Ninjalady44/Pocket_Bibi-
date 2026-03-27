@@ -20,8 +20,10 @@ namespace PocketBibi
     public class GameData : ScriptableObject
     {
         [SerializeField, Min(1)] private float _splashScreenTimer = 1;
+        [SerializeField] private float[] _textSpeed;
 
         public float SplashScreenTimer => _splashScreenTimer;
+        public float[] TextSpeed => _textSpeed;
     }
 }
 
