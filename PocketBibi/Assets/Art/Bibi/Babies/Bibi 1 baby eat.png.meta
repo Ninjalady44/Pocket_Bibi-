@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 588eb62a99818844aa1a108385025101
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4882366845470809443
+    second: Bibi 1 baby eat_0
+  - first:
+      213: 9090940050854482426
+    second: Bibi 1 baby eat_1
+  - first:
+      213: -183262013222391320
+    second: Bibi 1 baby eat_2
+  - first:
+      213: 4155278357185108426
+    second: Bibi 1 baby eat_3
+  - first:
+      213: 4310881126998992086
+    second: Bibi 1 baby eat_4
+  - first:
+      213: -3601858525025628972
+    second: Bibi 1 baby eat_5
+  - first:
+      213: -6541632762144742822
+    second: Bibi 1 baby eat_6
+  - first:
+      213: -5389036881064608282
+    second: Bibi 1 baby eat_7
+  - first:
+      213: -5128559175727113677
+    second: Bibi 1 baby eat_8
+  - first:
+      213: -9001441171331304011
+    second: Bibi 1 baby eat_9
+  - first:
+      213: -4602061256422218096
+    second: Bibi 1 baby eat_10
+  - first:
+      213: -8955250215027477271
+    second: Bibi 1 baby eat_11
+  - first:
+      213: 4784848447198625078
+    second: Bibi 1 baby eat_12
+  - first:
+      213: -299140931921510373
+    second: Bibi 1 baby eat_13
+  - first:
+      213: -3563263031623634363
+    second: Bibi 1 baby eat_14
+  - first:
+      213: 6664673796350819253
+    second: Bibi 1 baby eat_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 1 baby eat_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 406
+        width: 216
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d9e6f27c6a1c340800000000000000
+      internalID: 4882366845470809443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 1 baby eat_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 426
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af19d857fc1892e70800000000000000
+      internalID: 9090940050854482426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 1 baby eat_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 404
+        width: 223
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e17e018b2ce47df0800000000000000
+      internalID: -183262013222391320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 1 baby eat_3
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 405
+        width: 221
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac913e676a38aa930800000000000000
+      internalID: 4155278357185108426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 1 baby eat_4
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 423
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4e5b38b8353db30800000000000000
+      internalID: 4310881126998992086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 1 baby eat_5
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 399
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc82a441c0a30ec0800000000000000
+      internalID: -3601858525025628972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 1 baby eat_6
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 397
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a522e4179a37735a0800000000000000
+      internalID: -6541632762144742822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 1 baby eat_7
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 397
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed3aae428b4635b0800000000000000
+      internalID: -5389036881064608282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 1 baby eat_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 119
+        width: 219
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a17391a92b3d8b0800000000000000
+      internalID: -5128559175727113677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 1 baby eat_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 119
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5b83442f4741380800000000000000
+      internalID: -9001441171331304011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 1 baby eat_10
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 119
+        width: 223
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096ad588ba13220c0800000000000000
+      internalID: -4602061256422218096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 1 baby eat_11
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 237
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4fb8a506f88b380800000000000000
+      internalID: -8955250215027477271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 1 baby eat_12
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 242
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d7a5fbf42376240800000000000000
+      internalID: 4784848447198625078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 1 baby eat_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 136
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b100a0748ec39dbf0800000000000000
+      internalID: -299140931921510373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 1 baby eat_14
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 138
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542bac6d62fbc8ec0800000000000000
+      internalID: -3563263031623634363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 1 baby eat_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 117
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb385fb18dad7c50800000000000000
+      internalID: 6664673796350819253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 1 baby eat_0: 4882366845470809443
+      Bibi 1 baby eat_1: 9090940050854482426
+      Bibi 1 baby eat_10: -4602061256422218096
+      Bibi 1 baby eat_11: -8955250215027477271
+      Bibi 1 baby eat_12: 4784848447198625078
+      Bibi 1 baby eat_13: -299140931921510373
+      Bibi 1 baby eat_14: -3563263031623634363
+      Bibi 1 baby eat_15: 6664673796350819253
+      Bibi 1 baby eat_2: -183262013222391320
+      Bibi 1 baby eat_3: 4155278357185108426
+      Bibi 1 baby eat_4: 4310881126998992086
+      Bibi 1 baby eat_5: -3601858525025628972
+      Bibi 1 baby eat_6: -6541632762144742822
+      Bibi 1 baby eat_7: -5389036881064608282
+      Bibi 1 baby eat_8: -5128559175727113677
+      Bibi 1 baby eat_9: -9001441171331304011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

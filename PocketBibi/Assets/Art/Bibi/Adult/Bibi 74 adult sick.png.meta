@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 01c8077611e220442834d2d6121b5c71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1554156195289066677
+    second: Bibi 74 adult sick_0
+  - first:
+      213: 4887345014420337662
+    second: Bibi 74 adult sick_1
+  - first:
+      213: -4620401092147971233
+    second: Bibi 74 adult sick_2
+  - first:
+      213: -6651594361659112121
+    second: Bibi 74 adult sick_3
+  - first:
+      213: 1515775446896188853
+    second: Bibi 74 adult sick_4
+  - first:
+      213: 7888659646149721650
+    second: Bibi 74 adult sick_5
+  - first:
+      213: -8432918242014423720
+    second: Bibi 74 adult sick_6
+  - first:
+      213: 4873891748974784118
+    second: Bibi 74 adult sick_7
+  - first:
+      213: -5821806987943040593
+    second: Bibi 74 adult sick_8
+  - first:
+      213: 234507092028384060
+    second: Bibi 74 adult sick_9
+  - first:
+      213: 1997268935551315259
+    second: Bibi 74 adult sick_10
+  - first:
+      213: -8240481824134051028
+    second: Bibi 74 adult sick_11
+  - first:
+      213: -3828830322431757192
+    second: Bibi 74 adult sick_12
+  - first:
+      213: -3957031696805182206
+    second: Bibi 74 adult sick_13
+  - first:
+      213: 4352788891838743497
+    second: Bibi 74 adult sick_14
+  - first:
+      213: -1907456714294713975
+    second: Bibi 74 adult sick_15
+  - first:
+      213: 9136070536021978507
+    second: Bibi 74 adult sick_16
+  - first:
+      213: -4182856235089965878
+    second: Bibi 74 adult sick_17
+  - first:
+      213: 3352028409982325517
+    second: Bibi 74 adult sick_18
+  - first:
+      213: -4834664879493341899
+    second: Bibi 74 adult sick_19
+  - first:
+      213: -8078946049870143833
+    second: Bibi 74 adult sick_20
+  - first:
+      213: 3518610067387735491
+    second: Bibi 74 adult sick_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 74 adult sick_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 601
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b439256bc278e6ae0800000000000000
+      internalID: -1554156195289066677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 74 adult sick_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 603
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3fc47756653d340800000000000000
+      internalID: 4887345014420337662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 74 adult sick_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 605
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b71b6cfa901efb0800000000000000
+      internalID: -4620401092147971233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 74 adult sick_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 601
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74541537b2ac0b3a0800000000000000
+      internalID: -6651594361659112121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 74 adult sick_4
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 601
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd918fecbd190510800000000000000
+      internalID: 1515775446896188853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 74 adult sick_5
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 603
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e76baf6262a7d60800000000000000
+      internalID: 7888659646149721650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 74 adult sick_6
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 605
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85591d4d98148fa80800000000000000
+      internalID: -8432918242014423720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 74 adult sick_7
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 601
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e695309ba83a340800000000000000
+      internalID: 4873891748974784118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 74 adult sick_8
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 398
+        width: 295
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9a4c4c369c43fa0800000000000000
+      internalID: -5821806987943040593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 74 adult sick_9
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 603
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3369ad25f2214300800000000000000
+      internalID: 234507092028384060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 74 adult sick_10
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 605
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d6570d389b7bb10800000000000000
+      internalID: 1997268935551315259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 74 adult sick_11
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 601
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b4d6ed07de3ad80800000000000000
+      internalID: -8240481824134051028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 74 adult sick_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 398
+        width: 290
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874f5369b134ddac0800000000000000
+      internalID: -3828830322431757192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 74 adult sick_13
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 394
+        width: 300
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20547f213acc519c0800000000000000
+      internalID: -3957031696805182206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 74 adult sick_14
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 434
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c380506f66386c30800000000000000
+      internalID: 4352788891838743497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 74 adult sick_15
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 389
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981a708793a5785e0800000000000000
+      internalID: -1907456714294713975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 74 adult sick_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 109
+        width: 297
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8da08e5fb7d9ce70800000000000000
+      internalID: 9136070536021978507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 74 adult sick_17
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 109
+        width: 302
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc4fe87a6283f5c0800000000000000
+      internalID: -4182856235089965878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 74 adult sick_18
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 109
+        width: 292
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03930e341cc48e20800000000000000
+      internalID: 3352028409982325517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 74 adult sick_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 294
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d1eb148e1d7ecb0800000000000000
+      internalID: -4834664879493341899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 74 adult sick_20
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 236
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aed1f92f51d1ef80800000000000000
+      internalID: -8078946049870143833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 74 adult sick_21
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 187
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd52c1c63d94d030800000000000000
+      internalID: 3518610067387735491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 74 adult sick_0: -1554156195289066677
+      Bibi 74 adult sick_1: 4887345014420337662
+      Bibi 74 adult sick_10: 1997268935551315259
+      Bibi 74 adult sick_11: -8240481824134051028
+      Bibi 74 adult sick_12: -3828830322431757192
+      Bibi 74 adult sick_13: -3957031696805182206
+      Bibi 74 adult sick_14: 4352788891838743497
+      Bibi 74 adult sick_15: -1907456714294713975
+      Bibi 74 adult sick_16: 9136070536021978507
+      Bibi 74 adult sick_17: -4182856235089965878
+      Bibi 74 adult sick_18: 3352028409982325517
+      Bibi 74 adult sick_19: -4834664879493341899
+      Bibi 74 adult sick_2: -4620401092147971233
+      Bibi 74 adult sick_20: -8078946049870143833
+      Bibi 74 adult sick_21: 3518610067387735491
+      Bibi 74 adult sick_3: -6651594361659112121
+      Bibi 74 adult sick_4: 1515775446896188853
+      Bibi 74 adult sick_5: 7888659646149721650
+      Bibi 74 adult sick_6: -8432918242014423720
+      Bibi 74 adult sick_7: 4873891748974784118
+      Bibi 74 adult sick_8: -5821806987943040593
+      Bibi 74 adult sick_9: 234507092028384060
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

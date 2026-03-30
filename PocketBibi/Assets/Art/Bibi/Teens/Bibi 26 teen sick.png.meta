@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 9df8560856a0b1c49aa6a59db532429a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4289761029680059202
+    second: Bibi 26 teen sick_0
+  - first:
+      213: 296574493978523928
+    second: Bibi 26 teen sick_1
+  - first:
+      213: 8534390968664707299
+    second: Bibi 26 teen sick_2
+  - first:
+      213: -6859139227250508808
+    second: Bibi 26 teen sick_3
+  - first:
+      213: 2328374751205934543
+    second: Bibi 26 teen sick_4
+  - first:
+      213: -5836214283868243933
+    second: Bibi 26 teen sick_5
+  - first:
+      213: 7830420012840742045
+    second: Bibi 26 teen sick_6
+  - first:
+      213: 3362889204635764870
+    second: Bibi 26 teen sick_7
+  - first:
+      213: 6428650948310193850
+    second: Bibi 26 teen sick_8
+  - first:
+      213: -4624105537952835539
+    second: Bibi 26 teen sick_9
+  - first:
+      213: 418760364663361490
+    second: Bibi 26 teen sick_10
+  - first:
+      213: 2062150217182599860
+    second: Bibi 26 teen sick_11
+  - first:
+      213: 8273896409367435549
+    second: Bibi 26 teen sick_12
+  - first:
+      213: -746750931872432042
+    second: Bibi 26 teen sick_13
+  - first:
+      213: 752675300988100009
+    second: Bibi 26 teen sick_14
+  - first:
+      213: 6834343603341734467
+    second: Bibi 26 teen sick_15
+  - first:
+      213: 5826804731258708497
+    second: Bibi 26 teen sick_16
+  - first:
+      213: 8782393562005776482
+    second: Bibi 26 teen sick_17
+  - first:
+      213: -6859546748877513664
+    second: Bibi 26 teen sick_18
+  - first:
+      213: 1497626862811097648
+    second: Bibi 26 teen sick_19
+  - first:
+      213: -6893579053347373771
+    second: Bibi 26 teen sick_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 26 teen sick_0
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 672
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc2b965215b774c0800000000000000
+      internalID: -4289761029680059202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 26 teen sick_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 637
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819f7035ee4ad1400800000000000000
+      internalID: 296574493978523928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 26 teen sick_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 634
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0df8d6e5f307670800000000000000
+      internalID: 8534390968664707299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 26 teen sick_3
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 639
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb39cec6317fc0a0800000000000000
+      internalID: -6859139227250508808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 26 teen sick_4
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 634
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc54e9dff7c005020800000000000000
+      internalID: 2328374751205934543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 26 teen sick_5
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 642
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328f8f8c70a910fa0800000000000000
+      internalID: -5836214283868243933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 26 teen sick_6
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 638
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c6b7ba38d3bac60800000000000000
+      internalID: 7830420012840742045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 26 teen sick_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 359
+        width: 298
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6888f4d0ae16bae20800000000000000
+      internalID: 3362889204635764870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 26 teen sick_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 661
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6d10f1af7273950800000000000000
+      internalID: 6428650948310193850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 26 teen sick_9
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 357
+        width: 312
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2897664380e3dfb0800000000000000
+      internalID: -4624105537952835539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 26 teen sick_10
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 357
+        width: 323
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfc5cd355cbfc500800000000000000
+      internalID: 418760364663361490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 26 teen sick_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 325
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bad9a062ba3e9c10800000000000000
+      internalID: 2062150217182599860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 26 teen sick_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 290
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19d9b482f8c2d270800000000000000
+      internalID: 8273896409367435549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 26 teen sick_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 290
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6504d02ebf103a5f0800000000000000
+      internalID: -746750931872432042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 26 teen sick_14
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 296
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad1b9ac23a027a00800000000000000
+      internalID: 752675300988100009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 26 teen sick_15
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 286
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342b52e1c4778de50800000000000000
+      internalID: 6834343603341734467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 26 teen sick_16
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 292
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112ad360808fcd050800000000000000
+      internalID: 5826804731258708497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 26 teen sick_17
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 291
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268280dd96451e970800000000000000
+      internalID: 8782393562005776482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 26 teen sick_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 9
+        width: 304
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c58f8439efdc0a0800000000000000
+      internalID: -6859546748877513664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 26 teen sick_19
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 8
+        width: 311
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a20fb62b3a8c410800000000000000
+      internalID: 1497626862811097648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 26 teen sick_20
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 9
+        width: 319
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53df72eef561550a0800000000000000
+      internalID: -6893579053347373771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 26 teen sick_0: -4289761029680059202
+      Bibi 26 teen sick_1: 296574493978523928
+      Bibi 26 teen sick_10: 418760364663361490
+      Bibi 26 teen sick_11: 2062150217182599860
+      Bibi 26 teen sick_12: 8273896409367435549
+      Bibi 26 teen sick_13: -746750931872432042
+      Bibi 26 teen sick_14: 752675300988100009
+      Bibi 26 teen sick_15: 6834343603341734467
+      Bibi 26 teen sick_16: 5826804731258708497
+      Bibi 26 teen sick_17: 8782393562005776482
+      Bibi 26 teen sick_18: -6859546748877513664
+      Bibi 26 teen sick_19: 1497626862811097648
+      Bibi 26 teen sick_2: 8534390968664707299
+      Bibi 26 teen sick_20: -6893579053347373771
+      Bibi 26 teen sick_3: -6859139227250508808
+      Bibi 26 teen sick_4: 2328374751205934543
+      Bibi 26 teen sick_5: -5836214283868243933
+      Bibi 26 teen sick_6: 7830420012840742045
+      Bibi 26 teen sick_7: 3362889204635764870
+      Bibi 26 teen sick_8: 6428650948310193850
+      Bibi 26 teen sick_9: -4624105537952835539
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

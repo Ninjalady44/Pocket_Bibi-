@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 44f466961fc41a549b7c3357fe2b7388
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1750230349170013361
+    second: Bibi 6 toddler happy_0
+  - first:
+      213: 6849649471624493679
+    second: Bibi 6 toddler happy_1
+  - first:
+      213: 3661994854916248565
+    second: Bibi 6 toddler happy_2
+  - first:
+      213: -7143016315863294709
+    second: Bibi 6 toddler happy_3
+  - first:
+      213: -3048786009575842852
+    second: Bibi 6 toddler happy_4
+  - first:
+      213: -371286640251463916
+    second: Bibi 6 toddler happy_5
+  - first:
+      213: 1536608108674281694
+    second: Bibi 6 toddler happy_6
+  - first:
+      213: 1406606663204981338
+    second: Bibi 6 toddler happy_7
+  - first:
+      213: 8988965870682301693
+    second: Bibi 6 toddler happy_8
+  - first:
+      213: -1739852218958798928
+    second: Bibi 6 toddler happy_9
+  - first:
+      213: -8232762580416986711
+    second: Bibi 6 toddler happy_10
+  - first:
+      213: -5658750961868760539
+    second: Bibi 6 toddler happy_11
+  - first:
+      213: 1991584756703989280
+    second: Bibi 6 toddler happy_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 6 toddler happy_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 352
+        width: 192
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4f26dba311a4810800000000000000
+      internalID: 1750230349170013361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 6 toddler happy_1
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 352
+        width: 200
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6abe1847e7de0f50800000000000000
+      internalID: 6849649471624493679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 6 toddler happy_2
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 352
+        width: 195
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f357902be402d230800000000000000
+      internalID: 3661994854916248565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 6 toddler happy_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 49
+        width: 190
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d162c8188eedc90800000000000000
+      internalID: -7143016315863294709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 6 toddler happy_4
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 231
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb1d07074980b5d0800000000000000
+      internalID: -3048786009575842852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 6 toddler happy_5
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 50
+        width: 198
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41796f194cce8daf0800000000000000
+      internalID: -371286640251463916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 6 toddler happy_6
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 233
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0f38cfee0235510800000000000000
+      internalID: 1536608108674281694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 6 toddler happy_7
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 234
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ac703ce45458310800000000000000
+      internalID: 1406606663204981338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 6 toddler happy_8
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 50
+        width: 201
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4e02475d83fbc70800000000000000
+      internalID: 8988965870682301693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 6 toddler happy_9
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 233
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf194fff9dcad7e0800000000000000
+      internalID: -1739852218958798928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 6 toddler happy_10
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 203
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a10e1a5d0a5fbd80800000000000000
+      internalID: -8232762580416986711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 6 toddler happy_11
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 192
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a99654bf31871b0800000000000000
+      internalID: -5658750961868760539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 6 toddler happy_12
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 196
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e8c6bc8c783ab10800000000000000
+      internalID: 1991584756703989280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 6 toddler happy_0: 1750230349170013361
+      Bibi 6 toddler happy_1: 6849649471624493679
+      Bibi 6 toddler happy_10: -8232762580416986711
+      Bibi 6 toddler happy_11: -5658750961868760539
+      Bibi 6 toddler happy_12: 1991584756703989280
+      Bibi 6 toddler happy_2: 3661994854916248565
+      Bibi 6 toddler happy_3: -7143016315863294709
+      Bibi 6 toddler happy_4: -3048786009575842852
+      Bibi 6 toddler happy_5: -371286640251463916
+      Bibi 6 toddler happy_6: 1536608108674281694
+      Bibi 6 toddler happy_7: 1406606663204981338
+      Bibi 6 toddler happy_8: 8988965870682301693
+      Bibi 6 toddler happy_9: -1739852218958798928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

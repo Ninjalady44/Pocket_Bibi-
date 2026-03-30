@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: feaae54446e23074cabd3bda18335353
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6993839408365801542
+    second: Bibi 23 teen walk right_0
+  - first:
+      213: 1812679870270671625
+    second: Bibi 23 teen walk right_1
+  - first:
+      213: 8611181688454757946
+    second: Bibi 23 teen walk right_2
+  - first:
+      213: -3963400657694383436
+    second: Bibi 23 teen walk right_3
+  - first:
+      213: -5563761826222520406
+    second: Bibi 23 teen walk right_4
+  - first:
+      213: -2051683286414609350
+    second: Bibi 23 teen walk right_5
+  - first:
+      213: 5338141236015389296
+    second: Bibi 23 teen walk right_6
+  - first:
+      213: 8320001114823337175
+    second: Bibi 23 teen walk right_7
+  - first:
+      213: -9154382736308849839
+    second: Bibi 23 teen walk right_8
+  - first:
+      213: 7420972256729452168
+    second: Bibi 23 teen walk right_9
+  - first:
+      213: -166924203353840206
+    second: Bibi 23 teen walk right_10
+  - first:
+      213: -2094459453603478746
+    second: Bibi 23 teen walk right_11
+  - first:
+      213: -7356887260544743537
+    second: Bibi 23 teen walk right_12
+  - first:
+      213: -7847918106146842678
+    second: Bibi 23 teen walk right_13
+  - first:
+      213: 4406488411627839860
+    second: Bibi 23 teen walk right_14
+  - first:
+      213: -3202709927664709700
+    second: Bibi 23 teen walk right_15
+  - first:
+      213: -4192943996889362545
+    second: Bibi 23 teen walk right_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 23 teen walk right_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 432
+        width: 218
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64095cf03eb1f0160800000000000000
+      internalID: 6993839408365801542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 23 teen walk right_1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 530
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b0cfeecbee72910800000000000000
+      internalID: 1812679870270671625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 23 teen walk right_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 431
+        width: 210
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3eb1b42f10118770800000000000000
+      internalID: 8611181688454757946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 23 teen walk right_3
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 434
+        width: 211
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2a39fc91c2ff8c0800000000000000
+      internalID: -3963400657694383436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 23 teen walk right_4
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 494
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7c02dd81c89c2b0800000000000000
+      internalID: -5563761826222520406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 23 teen walk right_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 105
+        width: 225
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34b6a9dbe4f683e0800000000000000
+      internalID: -2051683286414609350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 23 teen walk right_6
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 253
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07adf85eb23e41a40800000000000000
+      internalID: 5338141236015389296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 23 teen walk right_7
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 105
+        width: 202
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d426e3cee4967370800000000000000
+      internalID: 8320001114823337175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 23 teen walk right_8
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 105
+        width: 210
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153b750476915f080800000000000000
+      internalID: -9154382736308849839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 23 teen walk right_9
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 226
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e436213f69cf660800000000000000
+      internalID: 7420972256729452168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 23 teen walk right_10
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 221
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5edaa4257feadf0800000000000000
+      internalID: -166924203353840206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 23 teen walk right_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 207
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623818f493cfee2e0800000000000000
+      internalID: -2094459453603478746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 23 teen walk right_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 196
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8742a6d30617e990800000000000000
+      internalID: -7356887260544743537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 23 teen walk right_13
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 185
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7d2c00018961390800000000000000
+      internalID: -7847918106146842678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 23 teen walk right_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 175
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471e3f12dddf62d30800000000000000
+      internalID: 4406488411627839860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 23 teen walk right_15
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 166
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf8dea1a40bd83d0800000000000000
+      internalID: -3202709927664709700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 23 teen walk right_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 143
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f8d4666abafc5c0800000000000000
+      internalID: -4192943996889362545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 23 teen walk right_0: 6993839408365801542
+      Bibi 23 teen walk right_1: 1812679870270671625
+      Bibi 23 teen walk right_10: -166924203353840206
+      Bibi 23 teen walk right_11: -2094459453603478746
+      Bibi 23 teen walk right_12: -7356887260544743537
+      Bibi 23 teen walk right_13: -7847918106146842678
+      Bibi 23 teen walk right_14: 4406488411627839860
+      Bibi 23 teen walk right_15: -3202709927664709700
+      Bibi 23 teen walk right_16: -4192943996889362545
+      Bibi 23 teen walk right_2: 8611181688454757946
+      Bibi 23 teen walk right_3: -3963400657694383436
+      Bibi 23 teen walk right_4: -5563761826222520406
+      Bibi 23 teen walk right_5: -2051683286414609350
+      Bibi 23 teen walk right_6: 5338141236015389296
+      Bibi 23 teen walk right_7: 8320001114823337175
+      Bibi 23 teen walk right_8: -9154382736308849839
+      Bibi 23 teen walk right_9: 7420972256729452168
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

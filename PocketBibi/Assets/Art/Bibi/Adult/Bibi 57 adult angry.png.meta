@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: b5a33db7215796244ab5a7a6bb33e2b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7557009892866504562
+    second: Bibi 57 adult angry_0
+  - first:
+      213: -1665280854787892184
+    second: Bibi 57 adult angry_1
+  - first:
+      213: -3054921718571676780
+    second: Bibi 57 adult angry_2
+  - first:
+      213: 4540438601748024356
+    second: Bibi 57 adult angry_3
+  - first:
+      213: -7911865438710551965
+    second: Bibi 57 adult angry_4
+  - first:
+      213: 9095313962676328180
+    second: Bibi 57 adult angry_5
+  - first:
+      213: 5351399932224148675
+    second: Bibi 57 adult angry_6
+  - first:
+      213: -6646010163644194089
+    second: Bibi 57 adult angry_7
+  - first:
+      213: 4521727464925943850
+    second: Bibi 57 adult angry_8
+  - first:
+      213: -7379016279681318485
+    second: Bibi 57 adult angry_9
+  - first:
+      213: -7473669708122498988
+    second: Bibi 57 adult angry_10
+  - first:
+      213: 4708989340701121093
+    second: Bibi 57 adult angry_11
+  - first:
+      213: 8353676395670039776
+    second: Bibi 57 adult angry_12
+  - first:
+      213: 2950556568891651633
+    second: Bibi 57 adult angry_13
+  - first:
+      213: 8901628693083415572
+    second: Bibi 57 adult angry_14
+  - first:
+      213: -1281434999565601669
+    second: Bibi 57 adult angry_15
+  - first:
+      213: -5694843503262267061
+    second: Bibi 57 adult angry_16
+  - first:
+      213: 6301590494444720110
+    second: Bibi 57 adult angry_17
+  - first:
+      213: 2792085914195082428
+    second: Bibi 57 adult angry_18
+  - first:
+      213: 4646001764744656316
+    second: Bibi 57 adult angry_19
+  - first:
+      213: -2351130135251672763
+    second: Bibi 57 adult angry_20
+  - first:
+      213: -2838403235675088088
+    second: Bibi 57 adult angry_21
+  - first:
+      213: 304919591986614376
+    second: Bibi 57 adult angry_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_0
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 607
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88449b8a8b102790800000000000000
+      internalID: -7557009892866504562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 607
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cdb17b2ebb3e8e0800000000000000
+      internalID: -1665280854787892184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_2
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 607
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bc8e3f1ecba95d0800000000000000
+      internalID: -3054921718571676780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_3
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 607
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c89ad1ad0e20f30800000000000000
+      internalID: 4540438601748024356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_4
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 607
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36aa7f66d48633290800000000000000
+      internalID: -7911865438710551965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_5
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 607
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f619f92cdb093e70800000000000000
+      internalID: 9095313962676328180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 346
+        width: 275
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4154ba2edf34a40800000000000000
+      internalID: 5351399932224148675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 544
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d22a5ed7f0a4c3a0800000000000000
+      internalID: -6646010163644194089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_8
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 345
+        width: 286
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28d9061c2760ce30800000000000000
+      internalID: 4521727464925943850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_9
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 545
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba145c11ac7789990800000000000000
+      internalID: -7379016279681318485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_10
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 346
+        width: 282
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458d2c66ff0384890800000000000000
+      internalID: -7473669708122498988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_11
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 546
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a57972bd0b95140800000000000000
+      internalID: 4708989340701121093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 264
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec6a741c683ee370800000000000000
+      internalID: 8353676395670039776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_13
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 265
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1367b72119b72f820800000000000000
+      internalID: 2950556568891651633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_14
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 263
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41469ad2220f88b70800000000000000
+      internalID: 8901628693083415572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_15
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 263
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74b32048ad673ee0800000000000000
+      internalID: -1281434999565601669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_16
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 210
+        width: 120
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b498c90a10ad7f0b0800000000000000
+      internalID: -5694843503262267061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_17
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 298
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef0b5dda2fb37750800000000000000
+      internalID: 6301590494444720110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 12
+        width: 276
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc38f9885b7fb620800000000000000
+      internalID: 2792085914195082428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 208
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5717d4df9e97040800000000000000
+      internalID: 4646001764744656316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_20
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 12
+        width: 286
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541ab9b499b1f5fd0800000000000000
+      internalID: -2351130135251672763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_21
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 208
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b5440bb47fb98d0800000000000000
+      internalID: -2838403235675088088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 57 adult angry_22
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 13
+        width: 279
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8605b6dd0ca4b3400800000000000000
+      internalID: 304919591986614376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 57 adult angry_0: -7557009892866504562
+      Bibi 57 adult angry_1: -1665280854787892184
+      Bibi 57 adult angry_10: -7473669708122498988
+      Bibi 57 adult angry_11: 4708989340701121093
+      Bibi 57 adult angry_12: 8353676395670039776
+      Bibi 57 adult angry_13: 2950556568891651633
+      Bibi 57 adult angry_14: 8901628693083415572
+      Bibi 57 adult angry_15: -1281434999565601669
+      Bibi 57 adult angry_16: -5694843503262267061
+      Bibi 57 adult angry_17: 6301590494444720110
+      Bibi 57 adult angry_18: 2792085914195082428
+      Bibi 57 adult angry_19: 4646001764744656316
+      Bibi 57 adult angry_2: -3054921718571676780
+      Bibi 57 adult angry_20: -2351130135251672763
+      Bibi 57 adult angry_21: -2838403235675088088
+      Bibi 57 adult angry_22: 304919591986614376
+      Bibi 57 adult angry_3: 4540438601748024356
+      Bibi 57 adult angry_4: -7911865438710551965
+      Bibi 57 adult angry_5: 9095313962676328180
+      Bibi 57 adult angry_6: 5351399932224148675
+      Bibi 57 adult angry_7: -6646010163644194089
+      Bibi 57 adult angry_8: 4521727464925943850
+      Bibi 57 adult angry_9: -7379016279681318485
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

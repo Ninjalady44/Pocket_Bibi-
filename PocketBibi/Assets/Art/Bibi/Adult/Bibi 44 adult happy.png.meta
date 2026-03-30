@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 42f8a41b9a82a9246a6a62aa17f814de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5439499125510955690
+    second: Bibi 44 adult happy_0
+  - first:
+      213: 7327666378189515673
+    second: Bibi 44 adult happy_1
+  - first:
+      213: -6486096599877590958
+    second: Bibi 44 adult happy_2
+  - first:
+      213: -629627366465626397
+    second: Bibi 44 adult happy_3
+  - first:
+      213: -3876341938087777455
+    second: Bibi 44 adult happy_4
+  - first:
+      213: 7597047618261778572
+    second: Bibi 44 adult happy_5
+  - first:
+      213: -1400930841466336194
+    second: Bibi 44 adult happy_6
+  - first:
+      213: 7021685450260241910
+    second: Bibi 44 adult happy_7
+  - first:
+      213: 5451728679305181769
+    second: Bibi 44 adult happy_8
+  - first:
+      213: 9009418298098284116
+    second: Bibi 44 adult happy_9
+  - first:
+      213: -8401725091951206852
+    second: Bibi 44 adult happy_10
+  - first:
+      213: -3394691773735333144
+    second: Bibi 44 adult happy_11
+  - first:
+      213: 180180569016607379
+    second: Bibi 44 adult happy_12
+  - first:
+      213: -5730694403790695411
+    second: Bibi 44 adult happy_13
+  - first:
+      213: -1239888778086612051
+    second: Bibi 44 adult happy_14
+  - first:
+      213: -9112441181349399261
+    second: Bibi 44 adult happy_15
+  - first:
+      213: -7217398819045318376
+    second: Bibi 44 adult happy_16
+  - first:
+      213: -2619606502747590462
+    second: Bibi 44 adult happy_17
+  - first:
+      213: 8774876902519985351
+    second: Bibi 44 adult happy_18
+  - first:
+      213: 4674804402620885071
+    second: Bibi 44 adult happy_19
+  - first:
+      213: 1391885491298366656
+    second: Bibi 44 adult happy_20
+  - first:
+      213: 2309174508429689364
+    second: Bibi 44 adult happy_21
+  - first:
+      213: -6756634598504018241
+    second: Bibi 44 adult happy_22
+  - first:
+      213: -8283759591143809950
+    second: Bibi 44 adult happy_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 661
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d1fd37d540384b0800000000000000
+      internalID: -5439499125510955690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 660
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b2f805fb911b560800000000000000
+      internalID: 7327666378189515673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 659
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2506d69d181ccf5a0800000000000000
+      internalID: -6486096599877590958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_3
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 663
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee93f00f3d1347f0800000000000000
+      internalID: -629627366465626397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_4
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 663
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b24588b87743ac0800000000000000
+      internalID: -3876341938087777455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 367
+        width: 248
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c808834de822e6960800000000000000
+      internalID: 7597047618261778572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 368
+        width: 235
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c828772d4ee8ce0800000000000000
+      internalID: -1400930841466336194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_7
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 369
+        width: 224
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd5a4be6b9027160800000000000000
+      internalID: 7021685450260241910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_8
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 639
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a7bcd695e68ab40800000000000000
+      internalID: 5451728679305181769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_9
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 642
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4567d0b4532e70d70800000000000000
+      internalID: 9009418298098284116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 12
+        width: 255
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e13c90b83176b80800000000000000
+      internalID: -8401725091951206852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 317
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2909051d1a3e0d0800000000000000
+      internalID: -3394691773735333144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 307
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392a9abd541208200800000000000000
+      internalID: 180180569016607379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 308
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d049cb16dcb7870b0800000000000000
+      internalID: -5730694403790695411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_14
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 308
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3872db9b70bcee0800000000000000
+      internalID: -1239888778086612051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_15
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 307
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325370d760b1a8180800000000000000
+      internalID: -9112441181349399261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_16
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 308
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811ea747306a6db90800000000000000
+      internalID: -7217398819045318376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 298
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c03d68d3c945abd0800000000000000
+      internalID: -2619606502747590462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_18
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 298
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4db723d00a6c970800000000000000
+      internalID: 8774876902519985351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_19
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 297
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4866a406dd30e040800000000000000
+      internalID: 4674804402620885071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_20
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 309
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4fbd4da78f05310800000000000000
+      internalID: 1391885491298366656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_21
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 298
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412c65b1bf5db0020800000000000000
+      internalID: 2309174508429689364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_22
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 13
+        width: 235
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbecd0f71ac9b32a0800000000000000
+      internalID: -6756634598504018241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 44 adult happy_23
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 14
+        width: 226
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c53258a8c2a0d80800000000000000
+      internalID: -8283759591143809950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 44 adult happy_0: -5439499125510955690
+      Bibi 44 adult happy_1: 7327666378189515673
+      Bibi 44 adult happy_10: -8401725091951206852
+      Bibi 44 adult happy_11: -3394691773735333144
+      Bibi 44 adult happy_12: 180180569016607379
+      Bibi 44 adult happy_13: -5730694403790695411
+      Bibi 44 adult happy_14: -1239888778086612051
+      Bibi 44 adult happy_15: -9112441181349399261
+      Bibi 44 adult happy_16: -7217398819045318376
+      Bibi 44 adult happy_17: -2619606502747590462
+      Bibi 44 adult happy_18: 8774876902519985351
+      Bibi 44 adult happy_19: 4674804402620885071
+      Bibi 44 adult happy_2: -6486096599877590958
+      Bibi 44 adult happy_20: 1391885491298366656
+      Bibi 44 adult happy_21: 2309174508429689364
+      Bibi 44 adult happy_22: -6756634598504018241
+      Bibi 44 adult happy_23: -8283759591143809950
+      Bibi 44 adult happy_3: -629627366465626397
+      Bibi 44 adult happy_4: -3876341938087777455
+      Bibi 44 adult happy_5: 7597047618261778572
+      Bibi 44 adult happy_6: -1400930841466336194
+      Bibi 44 adult happy_7: 7021685450260241910
+      Bibi 44 adult happy_8: 5451728679305181769
+      Bibi 44 adult happy_9: 9009418298098284116
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

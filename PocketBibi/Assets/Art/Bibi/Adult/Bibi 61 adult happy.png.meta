@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 6f48f77f456d79d4ca32d3b6687f2f30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3891360312967081712
+    second: Bibi 61 adult happy_0
+  - first:
+      213: 4084936980951194100
+    second: Bibi 61 adult happy_1
+  - first:
+      213: 7704663207051503886
+    second: Bibi 61 adult happy_2
+  - first:
+      213: -4602224996688640101
+    second: Bibi 61 adult happy_3
+  - first:
+      213: 5076861728050187430
+    second: Bibi 61 adult happy_4
+  - first:
+      213: -6399596291058333382
+    second: Bibi 61 adult happy_5
+  - first:
+      213: -1201930737495340521
+    second: Bibi 61 adult happy_6
+  - first:
+      213: 623013637506750684
+    second: Bibi 61 adult happy_7
+  - first:
+      213: -7724278728377336445
+    second: Bibi 61 adult happy_8
+  - first:
+      213: 1874801462622865489
+    second: Bibi 61 adult happy_9
+  - first:
+      213: 8206034496628230580
+    second: Bibi 61 adult happy_10
+  - first:
+      213: 3454148860538576311
+    second: Bibi 61 adult happy_11
+  - first:
+      213: -43507846192151861
+    second: Bibi 61 adult happy_12
+  - first:
+      213: 3453856054634620590
+    second: Bibi 61 adult happy_13
+  - first:
+      213: -6119459861862370068
+    second: Bibi 61 adult happy_14
+  - first:
+      213: -7978024161546364799
+    second: Bibi 61 adult happy_15
+  - first:
+      213: 3228164064270272009
+    second: Bibi 61 adult happy_16
+  - first:
+      213: 6617322965221637375
+    second: Bibi 61 adult happy_17
+  - first:
+      213: -2674756740157574239
+    second: Bibi 61 adult happy_18
+  - first:
+      213: 8366301756418269686
+    second: Bibi 61 adult happy_19
+  - first:
+      213: -4502761767966702160
+    second: Bibi 61 adult happy_20
+  - first:
+      213: -9120624509460658062
+    second: Bibi 61 adult happy_21
+  - first:
+      213: -4107232982508757673
+    second: Bibi 61 adult happy_22
+  - first:
+      213: -966872502633373055
+    second: Bibi 61 adult happy_23
+  - first:
+      213: 5615058399279430217
+    second: Bibi 61 adult happy_24
+  - first:
+      213: 4325414654255901711
+    second: Bibi 61 adult happy_25
+  - first:
+      213: -1460172982055660107
+    second: Bibi 61 adult happy_26
+  - first:
+      213: 7156460331025134313
+    second: Bibi 61 adult happy_27
+  - first:
+      213: -6008909449658950090
+    second: Bibi 61 adult happy_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 605
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0115b84a96c1ff9c0800000000000000
+      internalID: -3891360312967081712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 448
+        width: 181
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9d37f8a8c90b830800000000000000
+      internalID: 4084936980951194100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 609
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09a352ad567cea60800000000000000
+      internalID: 7704663207051503886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_3
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 611
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9743f7cfbc9120c0800000000000000
+      internalID: -4602224996688640101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_4
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 447
+        width: 184
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac0532e7d2a47640800000000000000
+      internalID: 5076861728050187430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_5
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 609
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a398f8d64111037a0800000000000000
+      internalID: -6399596291058333382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 541
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a87f2cc52e15fe0800000000000000
+      internalID: -1201930737495340521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_7
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 543
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd850d93a9365a800800000000000000
+      internalID: 623013637506750684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 381
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d76f8eb69ddc490800000000000000
+      internalID: -7724278728377336445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 233
+        width: 182
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158c4044ff1a40a10800000000000000
+      internalID: 1874801462622865489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_10
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 383
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b98022b5e0b1e170800000000000000
+      internalID: 8206034496628230580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_11
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 381
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdd8b9761a9fef20800000000000000
+      internalID: 3454148860538576311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_12
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 235
+        width: 187
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc246ca28dd656ff0800000000000000
+      internalID: -43507846192151861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 336
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea624d948cf8eef20800000000000000
+      internalID: 3453856054634620590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_14
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 318
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4be6c8daf431ba0800000000000000
+      internalID: -6119459861862370068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_15
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 359
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1889b816b4d584190800000000000000
+      internalID: -7978024161546364799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_16
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 346
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906c287ec1ebccc20800000000000000
+      internalID: 3228164064270272009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_17
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 324
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcf1124d2475db50800000000000000
+      internalID: 6617322965221637375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_18
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 176
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a373529aea51ead0800000000000000
+      internalID: -2674756740157574239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 20
+        width: 214
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1a903fe131b1470800000000000000
+      internalID: 8366301756418269686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_20
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 178
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b58228570af281c0800000000000000
+      internalID: -4502761767966702160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_21
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 174
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27840efe4580d6180800000000000000
+      internalID: -9120624509460658062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_22
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 20
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d1ccb0d5d2007c0800000000000000
+      internalID: -4107232982508757673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_23
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 177
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182e171e49af492f0800000000000000
+      internalID: -966872502633373055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_24
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 132
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94abf124dd1bced40800000000000000
+      internalID: 5615058399279430217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_25
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 122
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c213506b5f60c30800000000000000
+      internalID: 4325414654255901711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_26
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 116
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b513fdb86c6cbbe0800000000000000
+      internalID: -1460172982055660107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 96
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e27de721cad05360800000000000000
+      internalID: 7156460331025134313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 61 adult happy_28
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 56
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e179d21b01c9ca0800000000000000
+      internalID: -6008909449658950090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 61 adult happy_0: -3891360312967081712
+      Bibi 61 adult happy_1: 4084936980951194100
+      Bibi 61 adult happy_10: 8206034496628230580
+      Bibi 61 adult happy_11: 3454148860538576311
+      Bibi 61 adult happy_12: -43507846192151861
+      Bibi 61 adult happy_13: 3453856054634620590
+      Bibi 61 adult happy_14: -6119459861862370068
+      Bibi 61 adult happy_15: -7978024161546364799
+      Bibi 61 adult happy_16: 3228164064270272009
+      Bibi 61 adult happy_17: 6617322965221637375
+      Bibi 61 adult happy_18: -2674756740157574239
+      Bibi 61 adult happy_19: 8366301756418269686
+      Bibi 61 adult happy_2: 7704663207051503886
+      Bibi 61 adult happy_20: -4502761767966702160
+      Bibi 61 adult happy_21: -9120624509460658062
+      Bibi 61 adult happy_22: -4107232982508757673
+      Bibi 61 adult happy_23: -966872502633373055
+      Bibi 61 adult happy_24: 5615058399279430217
+      Bibi 61 adult happy_25: 4325414654255901711
+      Bibi 61 adult happy_26: -1460172982055660107
+      Bibi 61 adult happy_27: 7156460331025134313
+      Bibi 61 adult happy_28: -6008909449658950090
+      Bibi 61 adult happy_3: -4602224996688640101
+      Bibi 61 adult happy_4: 5076861728050187430
+      Bibi 61 adult happy_5: -6399596291058333382
+      Bibi 61 adult happy_6: -1201930737495340521
+      Bibi 61 adult happy_7: 623013637506750684
+      Bibi 61 adult happy_8: -7724278728377336445
+      Bibi 61 adult happy_9: 1874801462622865489
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

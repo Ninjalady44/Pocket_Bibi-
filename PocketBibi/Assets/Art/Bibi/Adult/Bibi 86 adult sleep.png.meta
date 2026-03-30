@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: b9747ffa4dd719a44b6248aa741a2630
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7423144745259148711
+    second: Bibi 86 adult sleep_0
+  - first:
+      213: 3261435282570350014
+    second: Bibi 86 adult sleep_1
+  - first:
+      213: 1169590169105216234
+    second: Bibi 86 adult sleep_2
+  - first:
+      213: 1380912453321865661
+    second: Bibi 86 adult sleep_3
+  - first:
+      213: 3726444214390239823
+    second: Bibi 86 adult sleep_4
+  - first:
+      213: -3533400577263622843
+    second: Bibi 86 adult sleep_5
+  - first:
+      213: -7540512992305040616
+    second: Bibi 86 adult sleep_6
+  - first:
+      213: 180129696719725840
+    second: Bibi 86 adult sleep_7
+  - first:
+      213: -3970524502521116040
+    second: Bibi 86 adult sleep_8
+  - first:
+      213: -5657607719577944324
+    second: Bibi 86 adult sleep_9
+  - first:
+      213: 114224319629619291
+    second: Bibi 86 adult sleep_10
+  - first:
+      213: -4425122664280229634
+    second: Bibi 86 adult sleep_11
+  - first:
+      213: 2210335690299899008
+    second: Bibi 86 adult sleep_12
+  - first:
+      213: -278945702718684777
+    second: Bibi 86 adult sleep_13
+  - first:
+      213: -2784574996675826703
+    second: Bibi 86 adult sleep_14
+  - first:
+      213: -5060919778316804641
+    second: Bibi 86 adult sleep_15
+  - first:
+      213: 4948503701154711249
+    second: Bibi 86 adult sleep_16
+  - first:
+      213: 4694465225376345033
+    second: Bibi 86 adult sleep_17
+  - first:
+      213: -4320817281502863909
+    second: Bibi 86 adult sleep_18
+  - first:
+      213: -547669854543654850
+    second: Bibi 86 adult sleep_19
+  - first:
+      213: 6647006495489621870
+    second: Bibi 86 adult sleep_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 86 adult sleep_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 548
+        width: 453
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a55860f21bbf890800000000000000
+      internalID: -7423144745259148711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 86 adult sleep_1
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 553
+        width: 420
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd08831c12f24d20800000000000000
+      internalID: 3261435282570350014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 86 adult sleep_2
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 553
+        width: 369
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae23e42ef083b3010800000000000000
+      internalID: 1169590169105216234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 86 adult sleep_3
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 906
+        width: 69
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9b9265f8cf92310800000000000000
+      internalID: 1380912453321865661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 86 adult sleep_4
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 910
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f423a0af44df6b330800000000000000
+      internalID: 3726444214390239823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 86 adult sleep_5
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 909
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545aa0f45e6d6fec0800000000000000
+      internalID: -3533400577263622843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 86 adult sleep_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 38
+        width: 395
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813b0758267ba5790800000000000000
+      internalID: -7540512992305040616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 86 adult sleep_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 418
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0156a7a3103ff7200800000000000000
+      internalID: 180129696719725840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 86 adult sleep_8
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 418
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a8e3f600dd5e8c0800000000000000
+      internalID: -3970524502521116040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 86 adult sleep_9
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 418
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe7c0c11c32c71b0800000000000000
+      internalID: -5657607719577944324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 86 adult sleep_10
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 41
+        width: 399
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50fb3cd96ec59100800000000000000
+      internalID: 114224319629619291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 86 adult sleep_11
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 422
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8fb04d16ec692c0800000000000000
+      internalID: -4425122664280229634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 86 adult sleep_12
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 422
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c71b67990bcae10800000000000000
+      internalID: 2210335690299899008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 86 adult sleep_13
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 422
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791c4dd7c5cf02cf0800000000000000
+      internalID: -278945702718684777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 86 adult sleep_14
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 41
+        width: 378
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbe3b83bc33b59d0800000000000000
+      internalID: -2784574996675826703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 86 adult sleep_15
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 418
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd9da8864004c9b0800000000000000
+      internalID: -5060919778316804641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 86 adult sleep_16
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 412
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6480dd5ed9ca440800000000000000
+      internalID: 4948503701154711249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 86 adult sleep_17
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 411
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb2bf80047162140800000000000000
+      internalID: 4694465225376345033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 86 adult sleep_18
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 411
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd17ac339f5904c0800000000000000
+      internalID: -4320817281502863909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 86 adult sleep_19
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 414
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e305cb14b294668f0800000000000000
+      internalID: -547669854543654850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 86 adult sleep_20
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 412
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f7f57b039ee3c50800000000000000
+      internalID: 6647006495489621870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 86 adult sleep_0: -7423144745259148711
+      Bibi 86 adult sleep_1: 3261435282570350014
+      Bibi 86 adult sleep_10: 114224319629619291
+      Bibi 86 adult sleep_11: -4425122664280229634
+      Bibi 86 adult sleep_12: 2210335690299899008
+      Bibi 86 adult sleep_13: -278945702718684777
+      Bibi 86 adult sleep_14: -2784574996675826703
+      Bibi 86 adult sleep_15: -5060919778316804641
+      Bibi 86 adult sleep_16: 4948503701154711249
+      Bibi 86 adult sleep_17: 4694465225376345033
+      Bibi 86 adult sleep_18: -4320817281502863909
+      Bibi 86 adult sleep_19: -547669854543654850
+      Bibi 86 adult sleep_2: 1169590169105216234
+      Bibi 86 adult sleep_20: 6647006495489621870
+      Bibi 86 adult sleep_3: 1380912453321865661
+      Bibi 86 adult sleep_4: 3726444214390239823
+      Bibi 86 adult sleep_5: -3533400577263622843
+      Bibi 86 adult sleep_6: -7540512992305040616
+      Bibi 86 adult sleep_7: 180129696719725840
+      Bibi 86 adult sleep_8: -3970524502521116040
+      Bibi 86 adult sleep_9: -5657607719577944324
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

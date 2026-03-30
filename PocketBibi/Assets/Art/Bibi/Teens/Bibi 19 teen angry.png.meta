@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: b3902a30b49171148add9923ab1d14a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2764699705929101259
+    second: Bibi 19 teen angry_0
+  - first:
+      213: -485440408092313446
+    second: Bibi 19 teen angry_1
+  - first:
+      213: -8028476807623412857
+    second: Bibi 19 teen angry_2
+  - first:
+      213: -7360424414413083843
+    second: Bibi 19 teen angry_3
+  - first:
+      213: -5980165693719974142
+    second: Bibi 19 teen angry_4
+  - first:
+      213: -4143698368189390613
+    second: Bibi 19 teen angry_5
+  - first:
+      213: -5595735931903103835
+    second: Bibi 19 teen angry_6
+  - first:
+      213: -9124137111439942793
+    second: Bibi 19 teen angry_7
+  - first:
+      213: 441397827540712028
+    second: Bibi 19 teen angry_8
+  - first:
+      213: -3895697112389617778
+    second: Bibi 19 teen angry_9
+  - first:
+      213: -2274631865785908477
+    second: Bibi 19 teen angry_10
+  - first:
+      213: -9101941701006437842
+    second: Bibi 19 teen angry_11
+  - first:
+      213: -7129733589612920384
+    second: Bibi 19 teen angry_12
+  - first:
+      213: -4599960520452224810
+    second: Bibi 19 teen angry_13
+  - first:
+      213: 1418915401971376556
+    second: Bibi 19 teen angry_14
+  - first:
+      213: -8392687744368476695
+    second: Bibi 19 teen angry_15
+  - first:
+      213: 9129075078518298904
+    second: Bibi 19 teen angry_16
+  - first:
+      213: 7658329707492672789
+    second: Bibi 19 teen angry_17
+  - first:
+      213: -3501357109759667438
+    second: Bibi 19 teen angry_18
+  - first:
+      213: -4984112378019967851
+    second: Bibi 19 teen angry_19
+  - first:
+      213: 7603984534586632064
+    second: Bibi 19 teen angry_20
+  - first:
+      213: -2545874834265647710
+    second: Bibi 19 teen angry_21
+  - first:
+      213: 431435374934110687
+    second: Bibi 19 teen angry_22
+  - first:
+      213: 2466838034801079890
+    second: Bibi 19 teen angry_23
+  - first:
+      213: 4670345794250252416
+    second: Bibi 19 teen angry_24
+  - first:
+      213: 2415492969849268000
+    second: Bibi 19 teen angry_25
+  - first:
+      213: 8510411253000429109
+    second: Bibi 19 teen angry_26
+  - first:
+      213: -8455734047111118000
+    second: Bibi 19 teen angry_27
+  - first:
+      213: -6155391482493593105
+    second: Bibi 19 teen angry_28
+  - first:
+      213: -1190807273140679589
+    second: Bibi 19 teen angry_29
+  - first:
+      213: 2585331110559277305
+    second: Bibi 19 teen angry_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_0
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 347
+        width: 279
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5301875f340d1a9d0800000000000000
+      internalID: -2764699705929101259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_1
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 639
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a987904558e5349f0800000000000000
+      internalID: -485440408092313446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 347
+        width: 285
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783f42251ee159090800000000000000
+      internalID: -8028476807623412857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 346
+        width: 302
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3babc60ef48ad990800000000000000
+      internalID: -7360424414413083843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_4
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 518
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fe7df5cfe220da0800000000000000
+      internalID: -5980165693719974142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 278
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0a4b3d940ae76c0800000000000000
+      internalID: -4143698368189390613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 277
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aca60241d3f752b0800000000000000
+      internalID: -5595735931903103835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bd9ae83ad806180800000000000000
+      internalID: -9124137111439942793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 292
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a713b4cf8202600800000000000000
+      internalID: 441397827540712028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_9
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 254
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e877087dd14bfe9c0800000000000000
+      internalID: -3895697112389617778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_10
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 255
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3030c0d9e52ee60e0800000000000000
+      internalID: -2274631865785908477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_11
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 293
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2252314f386fa180800000000000000
+      internalID: -9101941701006437842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_12
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 287
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c183ff33191e0d90800000000000000
+      internalID: -7129733589612920384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_13
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 298
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8cf9d3748a920c0800000000000000
+      internalID: -4599960520452224810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_14
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 251
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1a5d45a0001b310800000000000000
+      internalID: 1418915401971376556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_15
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 252
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed742e76fe278b80800000000000000
+      internalID: -8392687744368476695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_16
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 251
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81954fe7a6df0be70800000000000000
+      internalID: 9129075078518298904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_17
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 256
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5150ceb1b4ad74a60800000000000000
+      internalID: 7658329707492672789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_18
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 254
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2139cf8724ea86fc0800000000000000
+      internalID: -3501357109759667438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_19
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 262
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c0e7bf230e4dab0800000000000000
+      internalID: -4984112378019967851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_20
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 253
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087a99585a7c68960800000000000000
+      internalID: 7603984534586632064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_21
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 259
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a55dfca35c3bacd0800000000000000
+      internalID: -2545874834265647710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_22
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 244
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd13c7a0034ccf500800000000000000
+      internalID: 431435374934110687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_23
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1
+        width: 274
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256bdbe6f18fb3220800000000000000
+      internalID: 2466838034801079890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_24
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 244
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080a68c51c660d040800000000000000
+      internalID: 4670345794250252416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_25
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 261
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027a159ee0e858120800000000000000
+      internalID: 2415492969849268000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_26
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 169
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ed39bc1fd0b1670800000000000000
+      internalID: 8510411253000429109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 258
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05304ce3fa237aa80800000000000000
+      internalID: -8455734047111118000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_28
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 165
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe911803f08a39aa0800000000000000
+      internalID: -6155391482493593105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_29
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 273
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c8f702817697fe0800000000000000
+      internalID: -1190807273140679589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 19 teen angry_30
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 176
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0e6a782f0f0e320800000000000000
+      internalID: 2585331110559277305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 19 teen angry_0: -2764699705929101259
+      Bibi 19 teen angry_1: -485440408092313446
+      Bibi 19 teen angry_10: -2274631865785908477
+      Bibi 19 teen angry_11: -9101941701006437842
+      Bibi 19 teen angry_12: -7129733589612920384
+      Bibi 19 teen angry_13: -4599960520452224810
+      Bibi 19 teen angry_14: 1418915401971376556
+      Bibi 19 teen angry_15: -8392687744368476695
+      Bibi 19 teen angry_16: 9129075078518298904
+      Bibi 19 teen angry_17: 7658329707492672789
+      Bibi 19 teen angry_18: -3501357109759667438
+      Bibi 19 teen angry_19: -4984112378019967851
+      Bibi 19 teen angry_2: -8028476807623412857
+      Bibi 19 teen angry_20: 7603984534586632064
+      Bibi 19 teen angry_21: -2545874834265647710
+      Bibi 19 teen angry_22: 431435374934110687
+      Bibi 19 teen angry_23: 2466838034801079890
+      Bibi 19 teen angry_24: 4670345794250252416
+      Bibi 19 teen angry_25: 2415492969849268000
+      Bibi 19 teen angry_26: 8510411253000429109
+      Bibi 19 teen angry_27: -8455734047111118000
+      Bibi 19 teen angry_28: -6155391482493593105
+      Bibi 19 teen angry_29: -1190807273140679589
+      Bibi 19 teen angry_3: -7360424414413083843
+      Bibi 19 teen angry_30: 2585331110559277305
+      Bibi 19 teen angry_4: -5980165693719974142
+      Bibi 19 teen angry_5: -4143698368189390613
+      Bibi 19 teen angry_6: -5595735931903103835
+      Bibi 19 teen angry_7: -9124137111439942793
+      Bibi 19 teen angry_8: 441397827540712028
+      Bibi 19 teen angry_9: -3895697112389617778
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

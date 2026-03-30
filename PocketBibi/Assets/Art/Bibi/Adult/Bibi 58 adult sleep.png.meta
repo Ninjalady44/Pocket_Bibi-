@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 6481e7bcded42b24789a6b22c5469309
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4395495794964847416
+    second: Bibi 58 adult sleep_0
+  - first:
+      213: 8878184984317125785
+    second: Bibi 58 adult sleep_1
+  - first:
+      213: -6736581668326220793
+    second: Bibi 58 adult sleep_2
+  - first:
+      213: 1448477325822521571
+    second: Bibi 58 adult sleep_3
+  - first:
+      213: -8050940628196495135
+    second: Bibi 58 adult sleep_4
+  - first:
+      213: 4466865216592329367
+    second: Bibi 58 adult sleep_5
+  - first:
+      213: 2283445263007594745
+    second: Bibi 58 adult sleep_6
+  - first:
+      213: 4976571568553201013
+    second: Bibi 58 adult sleep_7
+  - first:
+      213: 1454423983508349924
+    second: Bibi 58 adult sleep_8
+  - first:
+      213: 7942157537573332947
+    second: Bibi 58 adult sleep_9
+  - first:
+      213: 7183821941335907342
+    second: Bibi 58 adult sleep_10
+  - first:
+      213: -3630979225474229620
+    second: Bibi 58 adult sleep_11
+  - first:
+      213: -3050372626397344394
+    second: Bibi 58 adult sleep_12
+  - first:
+      213: -5330203334957079201
+    second: Bibi 58 adult sleep_13
+  - first:
+      213: 7989449856676131877
+    second: Bibi 58 adult sleep_14
+  - first:
+      213: -2722734261515883159
+    second: Bibi 58 adult sleep_15
+  - first:
+      213: -3848202909796760
+    second: Bibi 58 adult sleep_16
+  - first:
+      213: -7436821327135882864
+    second: Bibi 58 adult sleep_17
+  - first:
+      213: -5632309199954774348
+    second: Bibi 58 adult sleep_18
+  - first:
+      213: 4852864399737275099
+    second: Bibi 58 adult sleep_19
+  - first:
+      213: -8880651773713295156
+    second: Bibi 58 adult sleep_20
+  - first:
+      213: 1050530515263571077
+    second: Bibi 58 adult sleep_21
+  - first:
+      213: 4112011701941553190
+    second: Bibi 58 adult sleep_22
+  - first:
+      213: -2467157629310890591
+    second: Bibi 58 adult sleep_23
+  - first:
+      213: 3342139029502234089
+    second: Bibi 58 adult sleep_24
+  - first:
+      213: 6891658134153466427
+    second: Bibi 58 adult sleep_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_0
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 614
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b5a9e1320fffc30800000000000000
+      internalID: 4395495794964847416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 622
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994ed606436a53b70800000000000000
+      internalID: 8878184984317125785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 635
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cd1032aaad282a0800000000000000
+      internalID: -6736581668326220793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 628
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0fbd614760a1410800000000000000
+      internalID: 1448477325822521571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_4
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 613
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e076948720554090800000000000000
+      internalID: -8050940628196495135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_5
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 633
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ab88e7f3e7dfd30800000000000000
+      internalID: 4466865216592329367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_6
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 613
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8bd955e5d60bf10800000000000000
+      internalID: 2283445263007594745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_7
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 632
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d0cee7975501540800000000000000
+      internalID: 4976571568553201013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 609
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3e2d938e62f2410800000000000000
+      internalID: 1454423983508349924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_9
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 600
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7ef397336383e60800000000000000
+      internalID: 7942157537573332947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_10
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 600
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cdbfe7eff02b360800000000000000
+      internalID: 7183821941335907342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 376
+        width: 252
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a19c6d1ab2c9dc0800000000000000
+      internalID: -3630979225474229620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 375
+        width: 255
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dc2030246eaa5d0800000000000000
+      internalID: -3050372626397344394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_13
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 376
+        width: 258
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55e747be405706b0800000000000000
+      internalID: -5330203334957079201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_14
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 268
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524f9f1905a30ee60800000000000000
+      internalID: 7989449856676131877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_15
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 287
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d6f846d97e63ad0800000000000000
+      internalID: -2722734261515883159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_16
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 272
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866b980741452fff0800000000000000
+      internalID: -3848202909796760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_17
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 288
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091440aa76a1bc890800000000000000
+      internalID: -7436821327135882864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_18
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 271
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6f787bf9406d1b0800000000000000
+      internalID: -5632309199954774348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 288
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2ca71c576d85340800000000000000
+      internalID: 4852864399737275099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 35
+        width: 260
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc850e5734691c480800000000000000
+      internalID: -8880651773713295156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 257
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5844efb00fb349e00800000000000000
+      internalID: 1050530515263571077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_22
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 36
+        width: 257
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628c9764bdcc01930800000000000000
+      internalID: 4112011701941553190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_23
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 259
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad870c2535e2cdd0800000000000000
+      internalID: -2467157629310890591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_24
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 34
+        width: 272
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed037b6db9a16e20800000000000000
+      internalID: 3342139029502234089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 58 adult sleep_25
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 258
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3216a73f8614af50800000000000000
+      internalID: 6891658134153466427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 58 adult sleep_0: 4395495794964847416
+      Bibi 58 adult sleep_1: 8878184984317125785
+      Bibi 58 adult sleep_10: 7183821941335907342
+      Bibi 58 adult sleep_11: -3630979225474229620
+      Bibi 58 adult sleep_12: -3050372626397344394
+      Bibi 58 adult sleep_13: -5330203334957079201
+      Bibi 58 adult sleep_14: 7989449856676131877
+      Bibi 58 adult sleep_15: -2722734261515883159
+      Bibi 58 adult sleep_16: -3848202909796760
+      Bibi 58 adult sleep_17: -7436821327135882864
+      Bibi 58 adult sleep_18: -5632309199954774348
+      Bibi 58 adult sleep_19: 4852864399737275099
+      Bibi 58 adult sleep_2: -6736581668326220793
+      Bibi 58 adult sleep_20: -8880651773713295156
+      Bibi 58 adult sleep_21: 1050530515263571077
+      Bibi 58 adult sleep_22: 4112011701941553190
+      Bibi 58 adult sleep_23: -2467157629310890591
+      Bibi 58 adult sleep_24: 3342139029502234089
+      Bibi 58 adult sleep_25: 6891658134153466427
+      Bibi 58 adult sleep_3: 1448477325822521571
+      Bibi 58 adult sleep_4: -8050940628196495135
+      Bibi 58 adult sleep_5: 4466865216592329367
+      Bibi 58 adult sleep_6: 2283445263007594745
+      Bibi 58 adult sleep_7: 4976571568553201013
+      Bibi 58 adult sleep_8: 1454423983508349924
+      Bibi 58 adult sleep_9: 7942157537573332947
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
