@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 6a72de67b37fb2e49851483505a17df9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5431461838937797849
+    second: Evolution_0
+  - first:
+      213: -5571798845500881972
+    second: Evolution_1
+  - first:
+      213: -8213217620314809825
+    second: Evolution_2
+  - first:
+      213: 4902907388348101217
+    second: Evolution_3
+  - first:
+      213: 2924368597597534035
+    second: Evolution_4
+  - first:
+      213: -1679614135923991928
+    second: Evolution_5
+  - first:
+      213: -9060565200476672848
+    second: Evolution_6
+  - first:
+      213: -5380504214814718595
+    second: Evolution_7
+  - first:
+      213: -7991805183415724461
+    second: Evolution_8
+  - first:
+      213: -5197122348392925709
+    second: Evolution_9
+  - first:
+      213: -4077808638928555609
+    second: Evolution_10
+  - first:
+      213: 3290106377921830553
+    second: Evolution_11
+  - first:
+      213: 5201335821691767167
+    second: Evolution_12
+  - first:
+      213: 2656116941962864161
+    second: Evolution_13
+  - first:
+      213: -4777394955130683080
+    second: Evolution_14
+  - first:
+      213: -4455948966945579590
+    second: Evolution_15
+  - first:
+      213: -2868687180187224736
+    second: Evolution_16
+  - first:
+      213: -7676078345980194826
+    second: Evolution_17
+  - first:
+      213: -7041748253659440331
+    second: Evolution_18
+  - first:
+      213: -5518947500307618284
+    second: Evolution_19
+  - first:
+      213: 2917462853240238998
+    second: Evolution_20
+  - first:
+      213: 2337542800840102739
+    second: Evolution_21
+  - first:
+      213: -2580537849349584249
+    second: Evolution_22
+  - first:
+      213: 4085736859933563976
+    second: Evolution_23
+  - first:
+      213: -9112561783472454946
+    second: Evolution_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Evolution_0
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 630
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bc50f0c329f94b0800000000000000
+      internalID: -5431461838937797849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 627
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc30dfd787efca2b0800000000000000
+      internalID: -5571798845500881972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_2
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 455
+        width: 783
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a182ef61ac40e80800000000000000
+      internalID: -8213217620314809825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 519
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16270210b40aa0440800000000000000
+      internalID: 4902907388348101217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 538
+        width: 94
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357bb1cdeb1759820800000000000000
+      internalID: 2924368597597534035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 512
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a9684a7dfc0b8e0800000000000000
+      internalID: -1679614135923991928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 522
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc625184f7624280800000000000000
+      internalID: -9060565200476672848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_7
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 451
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d750a7b7ceb9455b0800000000000000
+      internalID: -5380504214814718595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 445
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35651603787671190800000000000000
+      internalID: -7991805183415724461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_9
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 452
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5bbc972cc10e7b0800000000000000
+      internalID: -5197122348392925709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_10
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 451
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1f4a6e5a6b867c0800000000000000
+      internalID: -4077808638928555609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 445
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e1749a15ec8ad20800000000000000
+      internalID: 3290106377921830553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_12
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 442
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79c3793f5bde2840800000000000000
+      internalID: 5201335821691767167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_13
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 452
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126e797394c6cd420800000000000000
+      internalID: 2656116941962864161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_14
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 440
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83141bb999843bdb0800000000000000
+      internalID: -4777394955130683080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_15
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 440
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd90ffe50a4922c0800000000000000
+      internalID: -4455948966945579590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_16
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 437
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065393565306038d0800000000000000
+      internalID: -2868687180187224736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 120
+        width: 359
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff48c7f967197590800000000000000
+      internalID: -7676078345980194826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_18
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 126
+        width: 378
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bd6e6a54fa64e90800000000000000
+      internalID: -7041748253659440331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_19
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 130
+        width: 364
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41662263d72c863b0800000000000000
+      internalID: -5518947500307618284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_20
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 122
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69338c4f109ec7820800000000000000
+      internalID: 2917462853240238998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_21
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 116
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3539853eace907020800000000000000
+      internalID: 2337542800840102739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_22
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 115
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a41109f76103cd0800000000000000
+      internalID: -2580537849349584249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_23
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 118
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c5f06e60473b830800000000000000
+      internalID: 4085736859933563976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evolution_24
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 118
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2035e965da98180800000000000000
+      internalID: -9112561783472454946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Evolution_0: -5431461838937797849
+      Evolution_1: -5571798845500881972
+      Evolution_10: -4077808638928555609
+      Evolution_11: 3290106377921830553
+      Evolution_12: 5201335821691767167
+      Evolution_13: 2656116941962864161
+      Evolution_14: -4777394955130683080
+      Evolution_15: -4455948966945579590
+      Evolution_16: -2868687180187224736
+      Evolution_17: -7676078345980194826
+      Evolution_18: -7041748253659440331
+      Evolution_19: -5518947500307618284
+      Evolution_2: -8213217620314809825
+      Evolution_20: 2917462853240238998
+      Evolution_21: 2337542800840102739
+      Evolution_22: -2580537849349584249
+      Evolution_23: 4085736859933563976
+      Evolution_24: -9112561783472454946
+      Evolution_3: 4902907388348101217
+      Evolution_4: 2924368597597534035
+      Evolution_5: -1679614135923991928
+      Evolution_6: -9060565200476672848
+      Evolution_7: -5380504214814718595
+      Evolution_8: -7991805183415724461
+      Evolution_9: -5197122348392925709
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
