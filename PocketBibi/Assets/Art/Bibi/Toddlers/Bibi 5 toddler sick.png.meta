@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: b25168e2592f3c444be06c5711daa2bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8980995446400902809
+    second: Bibi 5 toddler sick_0
+  - first:
+      213: 5514197271064733529
+    second: Bibi 5 toddler sick_1
+  - first:
+      213: -2669779059095179192
+    second: Bibi 5 toddler sick_2
+  - first:
+      213: 3571505865358775133
+    second: Bibi 5 toddler sick_3
+  - first:
+      213: 4175486475464228142
+    second: Bibi 5 toddler sick_4
+  - first:
+      213: -1384995958399429123
+    second: Bibi 5 toddler sick_5
+  - first:
+      213: 8543241647555343538
+    second: Bibi 5 toddler sick_6
+  - first:
+      213: -4724300638633834199
+    second: Bibi 5 toddler sick_7
+  - first:
+      213: -183090813469483680
+    second: Bibi 5 toddler sick_8
+  - first:
+      213: -282148621704177929
+    second: Bibi 5 toddler sick_9
+  - first:
+      213: 6817368825506906901
+    second: Bibi 5 toddler sick_10
+  - first:
+      213: 5753059202377392688
+    second: Bibi 5 toddler sick_11
+  - first:
+      213: 7444209760694972125
+    second: Bibi 5 toddler sick_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 5 toddler sick_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 594
+        width: 338
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7699fdf89381d5380800000000000000
+      internalID: -8980995446400902809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler sick_1
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 591
+        width: 336
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957ed3bd33d568c40800000000000000
+      internalID: 5514197271064733529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler sick_2
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 784
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840fad1471a03fad0800000000000000
+      internalID: -2669779059095179192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler sick_3
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 593
+        width: 349
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d531fe179a9809130800000000000000
+      internalID: 3571505865358775133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler sick_4
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 783
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d3e76a3de42f930800000000000000
+      internalID: 4175486475464228142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler sick_5
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 765
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5104c838187cce0800000000000000
+      internalID: -1384995958399429123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler sick_6
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 761
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4fbd0b301bf8670800000000000000
+      internalID: 8543241647555343538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler sick_7
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 722
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929441e7999ef6eb0800000000000000
+      internalID: -4724300638633834199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler sick_8
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 723
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d938d00e7857df0800000000000000
+      internalID: -183090813469483680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler sick_9
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 722
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6d47dc25b951cf0800000000000000
+      internalID: -282148621704177929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler sick_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 179
+        width: 367
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513492ba3d82c9e50800000000000000
+      internalID: 6817368825506906901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler sick_11
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 179
+        width: 372
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0322f711dd8f6df40800000000000000
+      internalID: 5753059202377392688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler sick_12
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 179
+        width: 392
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde28b316552f4760800000000000000
+      internalID: 7444209760694972125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 5 toddler sick_0: -8980995446400902809
+      Bibi 5 toddler sick_1: 5514197271064733529
+      Bibi 5 toddler sick_10: 6817368825506906901
+      Bibi 5 toddler sick_11: 5753059202377392688
+      Bibi 5 toddler sick_12: 7444209760694972125
+      Bibi 5 toddler sick_2: -2669779059095179192
+      Bibi 5 toddler sick_3: 3571505865358775133
+      Bibi 5 toddler sick_4: 4175486475464228142
+      Bibi 5 toddler sick_5: -1384995958399429123
+      Bibi 5 toddler sick_6: 8543241647555343538
+      Bibi 5 toddler sick_7: -4724300638633834199
+      Bibi 5 toddler sick_8: -183090813469483680
+      Bibi 5 toddler sick_9: -282148621704177929
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

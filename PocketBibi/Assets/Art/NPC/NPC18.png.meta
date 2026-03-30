@@ -129,10 +129,10 @@ TextureImporter:
       name: NPC18_0
       rect:
         serializedVersion: 2
-        x: 41
+        x: 22
         y: 0
-        width: 247
-        height: 249
+        width: 807
+        height: 824
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

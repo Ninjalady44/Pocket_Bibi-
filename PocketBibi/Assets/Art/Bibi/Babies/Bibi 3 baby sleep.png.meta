@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 9a4fd9adb226daf478f35b2829ba41a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3374147084782307701
+    second: Bibi 3 baby sleep_0
+  - first:
+      213: 7680269462572047086
+    second: Bibi 3 baby sleep_1
+  - first:
+      213: 3333656094587115245
+    second: Bibi 3 baby sleep_2
+  - first:
+      213: 8991109470608189143
+    second: Bibi 3 baby sleep_3
+  - first:
+      213: 24263863339020135
+    second: Bibi 3 baby sleep_4
+  - first:
+      213: -5326269233681390156
+    second: Bibi 3 baby sleep_5
+  - first:
+      213: -3191865094511436608
+    second: Bibi 3 baby sleep_6
+  - first:
+      213: 3467175436582759394
+    second: Bibi 3 baby sleep_7
+  - first:
+      213: 6088068385262371576
+    second: Bibi 3 baby sleep_8
+  - first:
+      213: 5775208828959924121
+    second: Bibi 3 baby sleep_9
+  - first:
+      213: 2796058119865993519
+    second: Bibi 3 baby sleep_10
+  - first:
+      213: -4740806050376601848
+    second: Bibi 3 baby sleep_11
+  - first:
+      213: 8163888294607688002
+    second: Bibi 3 baby sleep_12
+  - first:
+      213: 8656842865594461223
+    second: Bibi 3 baby sleep_13
+  - first:
+      213: 4650810038613728360
+    second: Bibi 3 baby sleep_14
+  - first:
+      213: 2262917292132876438
+    second: Bibi 3 baby sleep_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 3 baby sleep_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 402
+        width: 221
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8671a77a1f9c21d0800000000000000
+      internalID: -3374147084782307701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby sleep_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 574
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea13e7626cc59a60800000000000000
+      internalID: 7680269462572047086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby sleep_2
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 564
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de65e293e86834e20800000000000000
+      internalID: 3333656094587115245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby sleep_3
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 579
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d660443d66d6cc70800000000000000
+      internalID: 8991109470608189143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby sleep_4
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 565
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f633bead3365000800000000000000
+      internalID: 24263863339020135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby sleep_5
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 580
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5245c0a5a4516b0800000000000000
+      internalID: -5326269233681390156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby sleep_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 402
+        width: 248
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc5da69b9734b3d0800000000000000
+      internalID: -3191865094511436608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby sleep_7
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 402
+        width: 251
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eba97f80b1ed1030800000000000000
+      internalID: 3467175436582759394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby sleep_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 260
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f289dfb0f92d7450800000000000000
+      internalID: 6088068385262371576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby sleep_9
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 277
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f1bd1e4d9a52050800000000000000
+      internalID: 5775208828959924121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby sleep_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2985fdbb089dc620800000000000000
+      internalID: 2796058119865993519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby sleep_11
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 275
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fa74ad306453eb0800000000000000
+      internalID: -4740806050376601848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby sleep_12
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 98
+        width: 255
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2419f0a5625fb4170800000000000000
+      internalID: 8163888294607688002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby sleep_13
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ce12868b8432870800000000000000
+      internalID: 8656842865594461223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby sleep_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 99
+        width: 238
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c546dc61ffa8040800000000000000
+      internalID: 4650810038613728360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby sleep_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 98
+        width: 238
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6904ba9a94f776f10800000000000000
+      internalID: 2262917292132876438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 3 baby sleep_0: -3374147084782307701
+      Bibi 3 baby sleep_1: 7680269462572047086
+      Bibi 3 baby sleep_10: 2796058119865993519
+      Bibi 3 baby sleep_11: -4740806050376601848
+      Bibi 3 baby sleep_12: 8163888294607688002
+      Bibi 3 baby sleep_13: 8656842865594461223
+      Bibi 3 baby sleep_14: 4650810038613728360
+      Bibi 3 baby sleep_15: 2262917292132876438
+      Bibi 3 baby sleep_2: 3333656094587115245
+      Bibi 3 baby sleep_3: 8991109470608189143
+      Bibi 3 baby sleep_4: 24263863339020135
+      Bibi 3 baby sleep_5: -5326269233681390156
+      Bibi 3 baby sleep_6: -3191865094511436608
+      Bibi 3 baby sleep_7: 3467175436582759394
+      Bibi 3 baby sleep_8: 6088068385262371576
+      Bibi 3 baby sleep_9: 5775208828959924121
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

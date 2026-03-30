@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: eec8cab00c275c747bdfda591dc830d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -257374310442594451
+    second: Bibi 20 teen sleep_0
+  - first:
+      213: -8138421872419843111
+    second: Bibi 20 teen sleep_1
+  - first:
+      213: 592117988695104954
+    second: Bibi 20 teen sleep_2
+  - first:
+      213: 607623021002662294
+    second: Bibi 20 teen sleep_3
+  - first:
+      213: -6726999274327467330
+    second: Bibi 20 teen sleep_4
+  - first:
+      213: -6093776511922185069
+    second: Bibi 20 teen sleep_5
+  - first:
+      213: 648743802415004432
+    second: Bibi 20 teen sleep_6
+  - first:
+      213: 2816566791589735873
+    second: Bibi 20 teen sleep_7
+  - first:
+      213: -7888413236813714170
+    second: Bibi 20 teen sleep_8
+  - first:
+      213: 8036241568365482889
+    second: Bibi 20 teen sleep_9
+  - first:
+      213: -141829132054505439
+    second: Bibi 20 teen sleep_10
+  - first:
+      213: 4640899968305696434
+    second: Bibi 20 teen sleep_11
+  - first:
+      213: -3941102858755840728
+    second: Bibi 20 teen sleep_12
+  - first:
+      213: -8864716153046443824
+    second: Bibi 20 teen sleep_13
+  - first:
+      213: 4324920681772994197
+    second: Bibi 20 teen sleep_14
+  - first:
+      213: -6288237180467529796
+    second: Bibi 20 teen sleep_15
+  - first:
+      213: -6244332317726442499
+    second: Bibi 20 teen sleep_16
+  - first:
+      213: -4492716638616377980
+    second: Bibi 20 teen sleep_17
+  - first:
+      213: -8230453446148743086
+    second: Bibi 20 teen sleep_18
+  - first:
+      213: 4180150752461817841
+    second: Bibi 20 teen sleep_19
+  - first:
+      213: 3612816568354467612
+    second: Bibi 20 teen sleep_20
+  - first:
+      213: 2980990974848460603
+    second: Bibi 20 teen sleep_21
+  - first:
+      213: -4054218616427669793
+    second: Bibi 20 teen sleep_22
+  - first:
+      213: -2485764174091704751
+    second: Bibi 20 teen sleep_23
+  - first:
+      213: -5195334924468642065
+    second: Bibi 20 teen sleep_24
+  - first:
+      213: 2018127327718162078
+    second: Bibi 20 teen sleep_25
+  - first:
+      213: -4393598011391197024
+    second: Bibi 20 teen sleep_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_0
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 605
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f02c3ad6f9d6cf0800000000000000
+      internalID: -257374310442594451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_1
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 605
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3552e1d648e0f80800000000000000
+      internalID: -8138421872419843111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_2
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 587
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd5a4d6c20a73800800000000000000
+      internalID: 592117988695104954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_3
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 613
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691a6341be5be6800800000000000000
+      internalID: 607623021002662294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_4
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 576
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba96691dc5e4a2a0800000000000000
+      internalID: -6726999274327467330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 587
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c52427c8e8e6ba0800000000000000
+      internalID: -6093776511922185069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 578
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bbe251d0dc00900800000000000000
+      internalID: 648743802415004432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 382
+        width: 229
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd2edaf294761720800000000000000
+      internalID: 2816566791589735873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 383
+        width: 202
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60daa3aa4f9b68290800000000000000
+      internalID: -7888413236813714170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_9
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 383
+        width: 208
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98317abe027768f60800000000000000
+      internalID: 8036241568365482889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_10
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 572
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128d615e72f180ef0800000000000000
+      internalID: -141829132054505439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 252
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be8bf0cee9c76040800000000000000
+      internalID: 4640899968305696434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_12
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 275
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825e490b4d36e49c0800000000000000
+      internalID: -3941102858755840728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_13
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 260
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8dff640a33af480800000000000000
+      internalID: -8864716153046443824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_14
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 276
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ec1d61274350c30800000000000000
+      internalID: 4324920681772994197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 223
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb734d2d991bbb8a0800000000000000
+      internalID: -6288237180467529796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_16
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 231
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb7c6647dca759a0800000000000000
+      internalID: -6244332317726442499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_17
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 256
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485a8c6450aa6a1c0800000000000000
+      internalID: -4492716638616377980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 246
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2502ae1923e87cd80800000000000000
+      internalID: -8230453446148743086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 213
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7811446f0e20a30800000000000000
+      internalID: 4180150752461817841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_20
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 192
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fe963078d432230800000000000000
+      internalID: 3612816568354467612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_21
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 222
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37ec766f7b9e5920800000000000000
+      internalID: 2980990974848460603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_22
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 222
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd69d0606a58cb7c0800000000000000
+      internalID: -4054218616427669793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 59
+        width: 227
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1562fdf57aac08dd0800000000000000
+      internalID: -2485764174091704751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_24
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 60
+        width: 257
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee9dd9896676e7b0800000000000000
+      internalID: -5195334924468642065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_25
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 208
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e3620bc14d10c10800000000000000
+      internalID: 2018127327718162078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen sleep_26
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 60
+        width: 235
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a04a2d03edc603c0800000000000000
+      internalID: -4393598011391197024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 20 teen sleep_0: -257374310442594451
+      Bibi 20 teen sleep_1: -8138421872419843111
+      Bibi 20 teen sleep_10: -141829132054505439
+      Bibi 20 teen sleep_11: 4640899968305696434
+      Bibi 20 teen sleep_12: -3941102858755840728
+      Bibi 20 teen sleep_13: -8864716153046443824
+      Bibi 20 teen sleep_14: 4324920681772994197
+      Bibi 20 teen sleep_15: -6288237180467529796
+      Bibi 20 teen sleep_16: -6244332317726442499
+      Bibi 20 teen sleep_17: -4492716638616377980
+      Bibi 20 teen sleep_18: -8230453446148743086
+      Bibi 20 teen sleep_19: 4180150752461817841
+      Bibi 20 teen sleep_2: 592117988695104954
+      Bibi 20 teen sleep_20: 3612816568354467612
+      Bibi 20 teen sleep_21: 2980990974848460603
+      Bibi 20 teen sleep_22: -4054218616427669793
+      Bibi 20 teen sleep_23: -2485764174091704751
+      Bibi 20 teen sleep_24: -5195334924468642065
+      Bibi 20 teen sleep_25: 2018127327718162078
+      Bibi 20 teen sleep_26: -4393598011391197024
+      Bibi 20 teen sleep_3: 607623021002662294
+      Bibi 20 teen sleep_4: -6726999274327467330
+      Bibi 20 teen sleep_5: -6093776511922185069
+      Bibi 20 teen sleep_6: 648743802415004432
+      Bibi 20 teen sleep_7: 2816566791589735873
+      Bibi 20 teen sleep_8: -7888413236813714170
+      Bibi 20 teen sleep_9: 8036241568365482889
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

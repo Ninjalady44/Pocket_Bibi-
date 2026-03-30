@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 661eafc84995ba14b9931676f2ff71ef
+guid: 7a70b7d85570f0e41a56333928e32754
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -129,10 +129,10 @@ TextureImporter:
       name: NPC23_0
       rect:
         serializedVersion: 2
-        x: 218
-        y: 47
-        width: 1603
-        height: 1881
+        x: 179
+        y: 12
+        width: 861
+        height: 1183
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

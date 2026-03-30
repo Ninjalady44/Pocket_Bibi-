@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: bb5dca90239ab4b4d90f36a178b8e17a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1885806922791642493
+    second: Bibi 3 baby happy_0
+  - first:
+      213: 1553904653223555777
+    second: Bibi 3 baby happy_1
+  - first:
+      213: 8297164236674999459
+    second: Bibi 3 baby happy_2
+  - first:
+      213: 3145284761398551031
+    second: Bibi 3 baby happy_3
+  - first:
+      213: 3714922827909421347
+    second: Bibi 3 baby happy_4
+  - first:
+      213: 216789209386817849
+    second: Bibi 3 baby happy_5
+  - first:
+      213: -637793893050014697
+    second: Bibi 3 baby happy_6
+  - first:
+      213: 6058329261143699800
+    second: Bibi 3 baby happy_7
+  - first:
+      213: 6497994828145216423
+    second: Bibi 3 baby happy_8
+  - first:
+      213: 622501350000157430
+    second: Bibi 3 baby happy_9
+  - first:
+      213: -2754043423963141238
+    second: Bibi 3 baby happy_10
+  - first:
+      213: -681198019224542914
+    second: Bibi 3 baby happy_11
+  - first:
+      213: 1225435124862015996
+    second: Bibi 3 baby happy_12
+  - first:
+      213: 2202777226265981340
+    second: Bibi 3 baby happy_13
+  - first:
+      213: -4544918656165806800
+    second: Bibi 3 baby happy_14
+  - first:
+      213: -517860433293867509
+    second: Bibi 3 baby happy_15
+  - first:
+      213: -5549106584559652449
+    second: Bibi 3 baby happy_16
+  - first:
+      213: 159371643240370348
+    second: Bibi 3 baby happy_17
+  - first:
+      213: -4767161250916659974
+    second: Bibi 3 baby happy_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 3 baby happy_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 525
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75e7f3a76bbb2a10800000000000000
+      internalID: 1885806922791642493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby happy_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 410
+        width: 198
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c277369c04909510800000000000000
+      internalID: 1553904653223555777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby happy_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 533
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4a61ab9e2752370800000000000000
+      internalID: 8297164236674999459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby happy_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 410
+        width: 193
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f12c9873db46ab20800000000000000
+      internalID: 3145284761398551031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby happy_4
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 412
+        width: 195
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329d78521ae0e8330800000000000000
+      internalID: 3714922827909421347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby happy_5
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 539
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93993a823a0320300800000000000000
+      internalID: 216789209386817849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby happy_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 524
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71427dc55d91627f0800000000000000
+      internalID: -637793893050014697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby happy_7
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 484
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85133d65d52831450800000000000000
+      internalID: 6058329261143699800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby happy_8
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 280
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abcbeb4ed38d2a50800000000000000
+      internalID: 6497994828145216423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby happy_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 123
+        width: 187
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2e5fefda193a800800000000000000
+      internalID: 622501350000157430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby happy_10
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 123
+        width: 192
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b2da2f81ca7c9d0800000000000000
+      internalID: -2754043423963141238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby happy_11
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 269
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31eb6ab206eb86f0800000000000000
+      internalID: -681198019224542914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby happy_12
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 125
+        width: 229
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9dfa0e0ce910110800000000000000
+      internalID: 1225435124862015996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby happy_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 225
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9177ea6736d19e10800000000000000
+      internalID: 2202777226265981340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby happy_14
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 227
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03df03eef843de0c0800000000000000
+      internalID: -4544918656165806800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby happy_15
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 244
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b060a4efda030d8f0800000000000000
+      internalID: -517860433293867509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby happy_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 214
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f917a8636fc9df2b0800000000000000
+      internalID: -5549106584559652449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby happy_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 226
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0dc964aa3363200800000000000000
+      internalID: 159371643240370348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 3 baby happy_18
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 177
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc0b1c8914a7ddb0800000000000000
+      internalID: -4767161250916659974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 3 baby happy_0: 1885806922791642493
+      Bibi 3 baby happy_1: 1553904653223555777
+      Bibi 3 baby happy_10: -2754043423963141238
+      Bibi 3 baby happy_11: -681198019224542914
+      Bibi 3 baby happy_12: 1225435124862015996
+      Bibi 3 baby happy_13: 2202777226265981340
+      Bibi 3 baby happy_14: -4544918656165806800
+      Bibi 3 baby happy_15: -517860433293867509
+      Bibi 3 baby happy_16: -5549106584559652449
+      Bibi 3 baby happy_17: 159371643240370348
+      Bibi 3 baby happy_18: -4767161250916659974
+      Bibi 3 baby happy_2: 8297164236674999459
+      Bibi 3 baby happy_3: 3145284761398551031
+      Bibi 3 baby happy_4: 3714922827909421347
+      Bibi 3 baby happy_5: 216789209386817849
+      Bibi 3 baby happy_6: -637793893050014697
+      Bibi 3 baby happy_7: 6058329261143699800
+      Bibi 3 baby happy_8: 6497994828145216423
+      Bibi 3 baby happy_9: 622501350000157430
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

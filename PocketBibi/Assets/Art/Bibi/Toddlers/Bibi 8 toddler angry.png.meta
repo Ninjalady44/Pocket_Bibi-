@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: a39d2009335236c408717fb84b351b50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3545138524112339053
+    second: Bibi 8 toddler angry_0
+  - first:
+      213: 6746409323678375052
+    second: Bibi 8 toddler angry_1
+  - first:
+      213: 2928483740368133091
+    second: Bibi 8 toddler angry_2
+  - first:
+      213: 198493618561583911
+    second: Bibi 8 toddler angry_3
+  - first:
+      213: -8232056582165973433
+    second: Bibi 8 toddler angry_4
+  - first:
+      213: -6320105305371320512
+    second: Bibi 8 toddler angry_5
+  - first:
+      213: -1588042358517658856
+    second: Bibi 8 toddler angry_6
+  - first:
+      213: 7932688871348253316
+    second: Bibi 8 toddler angry_7
+  - first:
+      213: 490497467136896445
+    second: Bibi 8 toddler angry_8
+  - first:
+      213: 6693152298706017400
+    second: Bibi 8 toddler angry_9
+  - first:
+      213: 2358140023035841752
+    second: Bibi 8 toddler angry_10
+  - first:
+      213: 9104177736344246380
+    second: Bibi 8 toddler angry_11
+  - first:
+      213: 5248847554429525622
+    second: Bibi 8 toddler angry_12
+  - first:
+      213: 2125806877594108762
+    second: Bibi 8 toddler angry_13
+  - first:
+      213: -8240473929492111804
+    second: Bibi 8 toddler angry_14
+  - first:
+      213: -6991715781174131815
+    second: Bibi 8 toddler angry_15
+  - first:
+      213: 374939083471908281
+    second: Bibi 8 toddler angry_16
+  - first:
+      213: -7121010341772698781
+    second: Bibi 8 toddler angry_17
+  - first:
+      213: 7630455184266941068
+    second: Bibi 8 toddler angry_18
+  - first:
+      213: 3312746989369327003
+    second: Bibi 8 toddler angry_19
+  - first:
+      213: 1370827911620011454
+    second: Bibi 8 toddler angry_20
+  - first:
+      213: -1468686695579215014
+    second: Bibi 8 toddler angry_21
+  - first:
+      213: 4814101017253117585
+    second: Bibi 8 toddler angry_22
+  - first:
+      213: -1785009458298146982
+    second: Bibi 8 toddler angry_23
+  - first:
+      213: 7263822620607970819
+    second: Bibi 8 toddler angry_24
+  - first:
+      213: 2143382869075344623
+    second: Bibi 8 toddler angry_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 381
+        width: 196
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60c44964bcd23130800000000000000
+      internalID: 3545138524112339053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_1
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 348
+        width: 203
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c9b3f298f00ad50800000000000000
+      internalID: 6746409323678375052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_2
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 499
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb5623327014a820800000000000000
+      internalID: 2928483740368133091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_3
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 375
+        width: 208
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b8b88f4e031c200800000000000000
+      internalID: 198493618561583911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_4
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 508
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746b411672cd1cd80800000000000000
+      internalID: -8232056582165973433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_5
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 489
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fd74ac5b97a48a0800000000000000
+      internalID: -6320105305371320512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_6
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 491
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b084483e326f9e0800000000000000
+      internalID: -1588042358517658856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 396
+        width: 10
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4823862df72961e60800000000000000
+      internalID: 7932688871348253316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 374
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd6cebf8d89ec600800000000000000
+      internalID: 490497467136896445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 366
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c16f7cd8ad2ec50800000000000000
+      internalID: 6693152298706017400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 348
+        width: 91
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dccea36bdbc9b020800000000000000
+      internalID: 2358140023035841752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_11
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 348
+        width: 109
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6891da4a69885e70800000000000000
+      internalID: 9104177736344246380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_12
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 220
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e13f98a07a7d840800000000000000
+      internalID: 5248847554429525622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 64
+        width: 207
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5344189712608d10800000000000000
+      internalID: 2125806877594108762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_14
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 222
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e51cbfe94f3ad80800000000000000
+      internalID: -8240473929492111804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 206
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9938f9c6a8f68fe90800000000000000
+      internalID: -6991715781174131815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_16
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 220
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bde0c22c1d043500800000000000000
+      internalID: 374939083471908281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_17
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 83
+        width: 205
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b51c8a2d61d2d90800000000000000
+      internalID: -7121010341772698781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_18
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 211
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82d4ccef82d4e960800000000000000
+      internalID: 7630455184266941068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_19
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 207
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d7a1cc5dd39fd20800000000000000
+      internalID: 3312746989369327003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_20
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 65
+        width: 200
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb52d4009b8260310800000000000000
+      internalID: 1370827911620011454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_21
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 213
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b98a75b3d2e9be0800000000000000
+      internalID: -1468686695579215014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_22
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 202
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ef7367e5f1fc240800000000000000
+      internalID: 4814101017253117585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_23
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 207
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f2d65ea5f5a37e0800000000000000
+      internalID: -1785009458298146982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_24
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 127
+        width: 13
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ef8c420384ec460800000000000000
+      internalID: 7263822620607970819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 8 toddler angry_25
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 64
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecb4e00d53debd10800000000000000
+      internalID: 2143382869075344623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 8 toddler angry_0: 3545138524112339053
+      Bibi 8 toddler angry_1: 6746409323678375052
+      Bibi 8 toddler angry_10: 2358140023035841752
+      Bibi 8 toddler angry_11: 9104177736344246380
+      Bibi 8 toddler angry_12: 5248847554429525622
+      Bibi 8 toddler angry_13: 2125806877594108762
+      Bibi 8 toddler angry_14: -8240473929492111804
+      Bibi 8 toddler angry_15: -6991715781174131815
+      Bibi 8 toddler angry_16: 374939083471908281
+      Bibi 8 toddler angry_17: -7121010341772698781
+      Bibi 8 toddler angry_18: 7630455184266941068
+      Bibi 8 toddler angry_19: 3312746989369327003
+      Bibi 8 toddler angry_2: 2928483740368133091
+      Bibi 8 toddler angry_20: 1370827911620011454
+      Bibi 8 toddler angry_21: -1468686695579215014
+      Bibi 8 toddler angry_22: 4814101017253117585
+      Bibi 8 toddler angry_23: -1785009458298146982
+      Bibi 8 toddler angry_24: 7263822620607970819
+      Bibi 8 toddler angry_25: 2143382869075344623
+      Bibi 8 toddler angry_3: 198493618561583911
+      Bibi 8 toddler angry_4: -8232056582165973433
+      Bibi 8 toddler angry_5: -6320105305371320512
+      Bibi 8 toddler angry_6: -1588042358517658856
+      Bibi 8 toddler angry_7: 7932688871348253316
+      Bibi 8 toddler angry_8: 490497467136896445
+      Bibi 8 toddler angry_9: 6693152298706017400
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

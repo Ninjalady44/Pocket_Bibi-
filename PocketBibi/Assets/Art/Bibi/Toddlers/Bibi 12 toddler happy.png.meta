@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: b52574036f632004191f2860afeb08c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7876677528085445304
+    second: Bibi 12 toddler happy_0
+  - first:
+      213: -7717535691171734633
+    second: Bibi 12 toddler happy_1
+  - first:
+      213: -1067417065280274766
+    second: Bibi 12 toddler happy_2
+  - first:
+      213: 9019072820522077490
+    second: Bibi 12 toddler happy_3
+  - first:
+      213: -7912325025951912892
+    second: Bibi 12 toddler happy_4
+  - first:
+      213: -1932706774056755958
+    second: Bibi 12 toddler happy_5
+  - first:
+      213: 5561459055413485995
+    second: Bibi 12 toddler happy_6
+  - first:
+      213: 6171788966859524254
+    second: Bibi 12 toddler happy_7
+  - first:
+      213: 5868772828056370638
+    second: Bibi 12 toddler happy_8
+  - first:
+      213: -9086133882419515568
+    second: Bibi 12 toddler happy_9
+  - first:
+      213: -3301662334644769603
+    second: Bibi 12 toddler happy_10
+  - first:
+      213: 2509029169765569284
+    second: Bibi 12 toddler happy_11
+  - first:
+      213: -5761271629033202848
+    second: Bibi 12 toddler happy_12
+  - first:
+      213: 3368183688305275870
+    second: Bibi 12 toddler happy_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 12 toddler happy_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 394
+        width: 214
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bab5d7ba749f4d60800000000000000
+      internalID: 7876677528085445304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler happy_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 391
+        width: 212
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b5f4a9d2ec5e490800000000000000
+      internalID: -7717535691171734633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler happy_2
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 543
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be77c4a5d5cf21f0800000000000000
+      internalID: -1067417065280274766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler happy_3
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 394
+        width: 213
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d4996f1fe2a2d70800000000000000
+      internalID: 9019072820522077490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler happy_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 81
+        width: 219
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ce3b86f46c13290800000000000000
+      internalID: -7912325025951912892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler happy_5
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 81
+        width: 231
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d1b5dcd65ad25e0800000000000000
+      internalID: -1932706774056755958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler happy_6
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 81
+        width: 217
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1ecc68b854e2d40800000000000000
+      internalID: 5561459055413485995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler happy_7
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 290
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e984656ad5996a550800000000000000
+      internalID: 6171788966859524254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler happy_8
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 233
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdb3c30bc1127150800000000000000
+      internalID: 5868772828056370638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler happy_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f6eb4df5197e180800000000000000
+      internalID: -9086133882419515568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler happy_10
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 203
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc263f79932e22d0800000000000000
+      internalID: -3301662334644769603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler happy_11
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 191
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40358fa8cbcd1d220800000000000000
+      internalID: 2509029169765569284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler happy_12
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 185
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b90f85af9db00b0800000000000000
+      internalID: -5761271629033202848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler happy_13
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 164
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed373b718313ebe20800000000000000
+      internalID: 3368183688305275870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 12 toddler happy_0: 7876677528085445304
+      Bibi 12 toddler happy_1: -7717535691171734633
+      Bibi 12 toddler happy_10: -3301662334644769603
+      Bibi 12 toddler happy_11: 2509029169765569284
+      Bibi 12 toddler happy_12: -5761271629033202848
+      Bibi 12 toddler happy_13: 3368183688305275870
+      Bibi 12 toddler happy_2: -1067417065280274766
+      Bibi 12 toddler happy_3: 9019072820522077490
+      Bibi 12 toddler happy_4: -7912325025951912892
+      Bibi 12 toddler happy_5: -1932706774056755958
+      Bibi 12 toddler happy_6: 5561459055413485995
+      Bibi 12 toddler happy_7: 6171788966859524254
+      Bibi 12 toddler happy_8: 5868772828056370638
+      Bibi 12 toddler happy_9: -9086133882419515568
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

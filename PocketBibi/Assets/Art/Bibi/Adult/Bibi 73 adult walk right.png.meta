@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: e11ec747f9ee3b8448f737a1dbfbb568
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5805844162127612444
+    second: Bibi 73 adult walk right_0
+  - first:
+      213: -4491003564186646555
+    second: Bibi 73 adult walk right_1
+  - first:
+      213: -8583337235381658869
+    second: Bibi 73 adult walk right_2
+  - first:
+      213: -2564675596343779881
+    second: Bibi 73 adult walk right_3
+  - first:
+      213: -6703880101738723486
+    second: Bibi 73 adult walk right_4
+  - first:
+      213: 7858524153101062925
+    second: Bibi 73 adult walk right_5
+  - first:
+      213: -405208531908302124
+    second: Bibi 73 adult walk right_6
+  - first:
+      213: 5019839002824260657
+    second: Bibi 73 adult walk right_7
+  - first:
+      213: -313590326666995397
+    second: Bibi 73 adult walk right_8
+  - first:
+      213: 5990826670694372910
+    second: Bibi 73 adult walk right_9
+  - first:
+      213: 5880219435931691322
+    second: Bibi 73 adult walk right_10
+  - first:
+      213: -6231235672109189048
+    second: Bibi 73 adult walk right_11
+  - first:
+      213: 7929704154842022702
+    second: Bibi 73 adult walk right_12
+  - first:
+      213: -4055285273901109090
+    second: Bibi 73 adult walk right_13
+  - first:
+      213: -495555185892470402
+    second: Bibi 73 adult walk right_14
+  - first:
+      213: -2494162369040812666
+    second: Bibi 73 adult walk right_15
+  - first:
+      213: 2178793120550449126
+    second: Bibi 73 adult walk right_16
+  - first:
+      213: 2346911899266897173
+    second: Bibi 73 adult walk right_17
+  - first:
+      213: 532728535431800347
+    second: Bibi 73 adult walk right_18
+  - first:
+      213: -1344263659714858242
+    second: Bibi 73 adult walk right_19
+  - first:
+      213: -6097166047667613665
+    second: Bibi 73 adult walk right_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 73 adult walk right_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 423
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a44e83180829050800000000000000
+      internalID: 5805844162127612444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 73 adult walk right_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 394
+        width: 196
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e744af7d00cca1c0800000000000000
+      internalID: -4491003564186646555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 73 adult walk right_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 394
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b51b9c24cd1e880800000000000000
+      internalID: -8583337235381658869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 73 adult walk right_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 422
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddd0d32221786cd0800000000000000
+      internalID: -2564675596343779881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 73 adult walk right_4
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 389
+        width: 174
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267cd0fe09807f2a0800000000000000
+      internalID: -6703880101738723486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 73 adult walk right_5
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 409
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d039a6cb4161f0d60800000000000000
+      internalID: 7858524153101062925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 73 adult walk right_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 399
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dae5a3bcf8606af0800000000000000
+      internalID: -405208531908302124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 73 adult walk right_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 396
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cbdf01afc0aa540800000000000000
+      internalID: 5019839002824260657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 73 adult walk right_8
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 398
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39d3066247e5abf0800000000000000
+      internalID: -313590326666995397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 73 adult walk right_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 122
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e269ca1cd11b32350800000000000000
+      internalID: 5990826670694372910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 73 adult walk right_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 86
+        width: 184
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a396e081c6cba9150800000000000000
+      internalID: 5880219435931691322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 73 adult walk right_11
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 118
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8487034bb243689a0800000000000000
+      internalID: -6231235672109189048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 73 adult walk right_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 86
+        width: 186
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e234c4b5ae7fb0e60800000000000000
+      internalID: 7929704154842022702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 73 adult walk right_13
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 120
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90704a778bb8b7c0800000000000000
+      internalID: -4055285273901109090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 73 adult walk right_14
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 91
+        width: 190
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71d64a1f2f6f19f0800000000000000
+      internalID: -495555185892470402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 73 adult walk right_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 110
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685fc2d3a84f26dd0800000000000000
+      internalID: -2494162369040812666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 73 adult walk right_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 103
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef6975acc0ac3e10800000000000000
+      internalID: 2178793120550449126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 73 adult walk right_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 107
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515d0fa10f7e19020800000000000000
+      internalID: 2346911899266897173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 73 adult walk right_18
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 107
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16602cc7c1a46700800000000000000
+      internalID: 532728535431800347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 73 adult walk right_19
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 92
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2ba3ed257385de0800000000000000
+      internalID: -1344263659714858242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 73 adult walk right_20
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 89
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f101338a8c3826ba0800000000000000
+      internalID: -6097166047667613665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 73 adult walk right_0: 5805844162127612444
+      Bibi 73 adult walk right_1: -4491003564186646555
+      Bibi 73 adult walk right_10: 5880219435931691322
+      Bibi 73 adult walk right_11: -6231235672109189048
+      Bibi 73 adult walk right_12: 7929704154842022702
+      Bibi 73 adult walk right_13: -4055285273901109090
+      Bibi 73 adult walk right_14: -495555185892470402
+      Bibi 73 adult walk right_15: -2494162369040812666
+      Bibi 73 adult walk right_16: 2178793120550449126
+      Bibi 73 adult walk right_17: 2346911899266897173
+      Bibi 73 adult walk right_18: 532728535431800347
+      Bibi 73 adult walk right_19: -1344263659714858242
+      Bibi 73 adult walk right_2: -8583337235381658869
+      Bibi 73 adult walk right_20: -6097166047667613665
+      Bibi 73 adult walk right_3: -2564675596343779881
+      Bibi 73 adult walk right_4: -6703880101738723486
+      Bibi 73 adult walk right_5: 7858524153101062925
+      Bibi 73 adult walk right_6: -405208531908302124
+      Bibi 73 adult walk right_7: 5019839002824260657
+      Bibi 73 adult walk right_8: -313590326666995397
+      Bibi 73 adult walk right_9: 5990826670694372910
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

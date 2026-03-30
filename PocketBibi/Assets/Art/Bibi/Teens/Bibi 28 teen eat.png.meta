@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 88426aa4a8d3411409eb87e22d16619e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9081199262863684812
+    second: Bibi 28 teen eat_0
+  - first:
+      213: -4848663739063843996
+    second: Bibi 28 teen eat_1
+  - first:
+      213: -5319246795567170029
+    second: Bibi 28 teen eat_2
+  - first:
+      213: 8497322680144042138
+    second: Bibi 28 teen eat_3
+  - first:
+      213: 544776591504332784
+    second: Bibi 28 teen eat_4
+  - first:
+      213: 6026787401035392908
+    second: Bibi 28 teen eat_5
+  - first:
+      213: -7559459619028836438
+    second: Bibi 28 teen eat_6
+  - first:
+      213: -3198764028226082990
+    second: Bibi 28 teen eat_7
+  - first:
+      213: -7658356856028803575
+    second: Bibi 28 teen eat_8
+  - first:
+      213: 5959453424046438076
+    second: Bibi 28 teen eat_9
+  - first:
+      213: -1217728824374261238
+    second: Bibi 28 teen eat_10
+  - first:
+      213: -7531082687503030472
+    second: Bibi 28 teen eat_11
+  - first:
+      213: 7469647028186112519
+    second: Bibi 28 teen eat_12
+  - first:
+      213: 6526275861957492197
+    second: Bibi 28 teen eat_13
+  - first:
+      213: 2286272769802070790
+    second: Bibi 28 teen eat_14
+  - first:
+      213: -2850672976783089275
+    second: Bibi 28 teen eat_15
+  - first:
+      213: -555427086561839126
+    second: Bibi 28 teen eat_16
+  - first:
+      213: 1048463890476915819
+    second: Bibi 28 teen eat_17
+  - first:
+      213: -7766086198833984493
+    second: Bibi 28 teen eat_18
+  - first:
+      213: 3463502217239389476
+    second: Bibi 28 teen eat_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 28 teen eat_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 363
+        width: 262
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc477858d96e60e70800000000000000
+      internalID: 9081199262863684812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 28 teen eat_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 620
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46348c5c40616bcb0800000000000000
+      internalID: -4848663739063843996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 28 teen eat_2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 366
+        width: 262
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e7595d83d3e26b0800000000000000
+      internalID: -5319246795567170029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 28 teen eat_3
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 366
+        width: 251
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a981bd3f4fd8ce570800000000000000
+      internalID: 8497322680144042138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 28 teen eat_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 546
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f750927c6f6f8700800000000000000
+      internalID: 544776591504332784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 28 teen eat_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 479
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87a38fb53373a350800000000000000
+      internalID: 6026787401035392908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 28 teen eat_6
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 441
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf50e93787671790800000000000000
+      internalID: -7559459619028836438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 28 teen eat_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 23
+        width: 272
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25769496015bb93d0800000000000000
+      internalID: -3198764028226082990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 28 teen eat_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 24
+        width: 274
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ec931e30d08b590800000000000000
+      internalID: -7658356856028803575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 28 teen eat_9
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 283
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6f5cb805b34b250800000000000000
+      internalID: 5959453424046438076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 28 teen eat_10
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 24
+        width: 263
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a0b660612c91fe0800000000000000
+      internalID: -1217728824374261238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 28 teen eat_11
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 261
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837a94572383c7790800000000000000
+      internalID: -7531082687503030472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 28 teen eat_12
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 244
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702e590756489a760800000000000000
+      internalID: 7469647028186112519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 28 teen eat_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 230
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edbe2a915df19a50800000000000000
+      internalID: 6526275861957492197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 28 teen eat_14
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 188
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b63bf88f87abf10800000000000000
+      internalID: 2286272769802070790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 28 teen eat_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 155
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581e908f7006078d0800000000000000
+      internalID: -2850672976783089275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 28 teen eat_16
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 129
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7f9dee10aba48f0800000000000000
+      internalID: -555427086561839126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 28 teen eat_17
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 101
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c53b77a54ec8e00800000000000000
+      internalID: 1048463890476915819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 28 teen eat_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 111
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ccf67afb1593490800000000000000
+      internalID: -7766086198833984493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 28 teen eat_19
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 70
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425e4598ae4d01030800000000000000
+      internalID: 3463502217239389476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 28 teen eat_0: 9081199262863684812
+      Bibi 28 teen eat_1: -4848663739063843996
+      Bibi 28 teen eat_10: -1217728824374261238
+      Bibi 28 teen eat_11: -7531082687503030472
+      Bibi 28 teen eat_12: 7469647028186112519
+      Bibi 28 teen eat_13: 6526275861957492197
+      Bibi 28 teen eat_14: 2286272769802070790
+      Bibi 28 teen eat_15: -2850672976783089275
+      Bibi 28 teen eat_16: -555427086561839126
+      Bibi 28 teen eat_17: 1048463890476915819
+      Bibi 28 teen eat_18: -7766086198833984493
+      Bibi 28 teen eat_19: 3463502217239389476
+      Bibi 28 teen eat_2: -5319246795567170029
+      Bibi 28 teen eat_3: 8497322680144042138
+      Bibi 28 teen eat_4: 544776591504332784
+      Bibi 28 teen eat_5: 6026787401035392908
+      Bibi 28 teen eat_6: -7559459619028836438
+      Bibi 28 teen eat_7: -3198764028226082990
+      Bibi 28 teen eat_8: -7658356856028803575
+      Bibi 28 teen eat_9: 5959453424046438076
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

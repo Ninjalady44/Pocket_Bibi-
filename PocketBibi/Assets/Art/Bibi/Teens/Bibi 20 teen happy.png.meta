@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: edf97e33a7eb8314f918a3aac193e467
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2996745250488847950
+    second: Bibi 20 teen happy_0
+  - first:
+      213: -7282044776068277999
+    second: Bibi 20 teen happy_1
+  - first:
+      213: -2526172310186132883
+    second: Bibi 20 teen happy_2
+  - first:
+      213: 1132400976175474087
+    second: Bibi 20 teen happy_3
+  - first:
+      213: 860369358929178587
+    second: Bibi 20 teen happy_4
+  - first:
+      213: -7527671051666370680
+    second: Bibi 20 teen happy_5
+  - first:
+      213: 7546088684220983898
+    second: Bibi 20 teen happy_6
+  - first:
+      213: 2521312140827278640
+    second: Bibi 20 teen happy_7
+  - first:
+      213: 5729945670992313715
+    second: Bibi 20 teen happy_8
+  - first:
+      213: 164314839439706671
+    second: Bibi 20 teen happy_9
+  - first:
+      213: -109793817369506029
+    second: Bibi 20 teen happy_10
+  - first:
+      213: 4746099819609001865
+    second: Bibi 20 teen happy_11
+  - first:
+      213: 5804754200587414989
+    second: Bibi 20 teen happy_12
+  - first:
+      213: 2861701262753402276
+    second: Bibi 20 teen happy_13
+  - first:
+      213: -53784563429885590
+    second: Bibi 20 teen happy_14
+  - first:
+      213: 6557034849720168183
+    second: Bibi 20 teen happy_15
+  - first:
+      213: 2755037628388777037
+    second: Bibi 20 teen happy_16
+  - first:
+      213: -3943769373514068390
+    second: Bibi 20 teen happy_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 20 teen happy_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 359
+        width: 244
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1f546721c6966d0800000000000000
+      internalID: -2996745250488847950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen happy_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 358
+        width: 246
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11916fbabdaf0fa90800000000000000
+      internalID: -7282044776068277999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen happy_2
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 609
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a7de90bab31fcd0800000000000000
+      internalID: -2526172310186132883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen happy_3
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 355
+        width: 256
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5ae3820b817bf00800000000000000
+      internalID: 1132400976175474087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen happy_4
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 630
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfaa9e9f55a0fb00800000000000000
+      internalID: 860369358929178587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen happy_5
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 564
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f4f63df07588790800000000000000
+      internalID: -7527671051666370680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen happy_6
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 6
+        width: 275
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a269a6da719b860800000000000000
+      internalID: 7546088684220983898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen happy_7
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 287
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03db3e998008df220800000000000000
+      internalID: 2521312140827278640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen happy_8
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 295
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37db8cdaa3bd48f40800000000000000
+      internalID: 5729945670992313715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen happy_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 251
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a0124d973c74200800000000000000
+      internalID: 164314839439706671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen happy_10
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 279
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f0825da1fe97ef0800000000000000
+      internalID: -109793817369506029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen happy_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6
+        width: 243
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f0758d3a88dd140800000000000000
+      internalID: 4746099819609001865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen happy_12
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 214
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd2876c031ae8050800000000000000
+      internalID: 5804754200587414989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen happy_13
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 3
+        width: 231
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad04b3f22ec6b720800000000000000
+      internalID: 2861701262753402276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen happy_14
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 220
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69bc5a793be04ff0800000000000000
+      internalID: -53784563429885590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen happy_15
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 209
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe6d6584744ffa50800000000000000
+      internalID: 6557034849720168183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen happy_16
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 194
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c92fe402cdb3620800000000000000
+      internalID: 2755037628388777037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 20 teen happy_17
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 161
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e01a756aae449c0800000000000000
+      internalID: -3943769373514068390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 20 teen happy_0: -2996745250488847950
+      Bibi 20 teen happy_1: -7282044776068277999
+      Bibi 20 teen happy_10: -109793817369506029
+      Bibi 20 teen happy_11: 4746099819609001865
+      Bibi 20 teen happy_12: 5804754200587414989
+      Bibi 20 teen happy_13: 2861701262753402276
+      Bibi 20 teen happy_14: -53784563429885590
+      Bibi 20 teen happy_15: 6557034849720168183
+      Bibi 20 teen happy_16: 2755037628388777037
+      Bibi 20 teen happy_17: -3943769373514068390
+      Bibi 20 teen happy_2: -2526172310186132883
+      Bibi 20 teen happy_3: 1132400976175474087
+      Bibi 20 teen happy_4: 860369358929178587
+      Bibi 20 teen happy_5: -7527671051666370680
+      Bibi 20 teen happy_6: 7546088684220983898
+      Bibi 20 teen happy_7: 2521312140827278640
+      Bibi 20 teen happy_8: 5729945670992313715
+      Bibi 20 teen happy_9: 164314839439706671
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

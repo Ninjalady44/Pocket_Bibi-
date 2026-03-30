@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 856294910201ef642a87332bd03c1749
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3599881258475284947
+    second: Bibi 88 egg red_0
+  - first:
+      213: 7135679535565594156
+    second: Bibi 88 egg red_1
+  - first:
+      213: 8810949564571813508
+    second: Bibi 88 egg red_2
+  - first:
+      213: 707961260018492721
+    second: Bibi 88 egg red_3
+  - first:
+      213: -1992558483352955529
+    second: Bibi 88 egg red_4
+  - first:
+      213: -2692369218094593124
+    second: Bibi 88 egg red_5
+  - first:
+      213: -6170468266324506053
+    second: Bibi 88 egg red_6
+  - first:
+      213: -2748949920800854092
+    second: Bibi 88 egg red_7
+  - first:
+      213: 7246789124476835492
+    second: Bibi 88 egg red_8
+  - first:
+      213: -428564945612321166
+    second: Bibi 88 egg red_9
+  - first:
+      213: 4678062150264643512
+    second: Bibi 88 egg red_10
+  - first:
+      213: -1180487310329199104
+    second: Bibi 88 egg red_11
+  - first:
+      213: 7842724180394710466
+    second: Bibi 88 egg red_12
+  - first:
+      213: -93285866244016043
+    second: Bibi 88 egg red_13
+  - first:
+      213: 7125243762338627272
+    second: Bibi 88 egg red_14
+  - first:
+      213: -5513793829107422328
+    second: Bibi 88 egg red_15
+  - first:
+      213: -7719039659333738492
+    second: Bibi 88 egg red_16
+  - first:
+      213: -1803634472425971514
+    second: Bibi 88 egg red_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 88 egg red_0
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 666
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9610d7ee855f130800000000000000
+      internalID: 3599881258475284947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 88 egg red_1
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 574
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e596c2bb6070360800000000000000
+      internalID: 7135679535565594156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 88 egg red_2
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 585
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4868f2252f7c64a70800000000000000
+      internalID: 8810949564571813508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 88 egg red_3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 583
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135e32ad30f23d900800000000000000
+      internalID: 707961260018492721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 88 egg red_4
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 586
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7755e8dcd920954e0800000000000000
+      internalID: -1992558483352955529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 88 egg red_5
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 565
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b864ff578c2aad0800000000000000
+      internalID: -2692369218094593124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 88 egg red_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 587
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a48e7edc71e5aa0800000000000000
+      internalID: -6170468266324506053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 88 egg red_7
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 566
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfa3519c94c9d9d0800000000000000
+      internalID: -2748949920800854092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 88 egg red_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 389
+        width: 204
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a61b964054c19460800000000000000
+      internalID: 7246789124476835492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 88 egg red_9
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 388
+        width: 216
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ec79dd37e6d0af0800000000000000
+      internalID: -428564945612321166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 88 egg red_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 560
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf59bf7db0dbe040800000000000000
+      internalID: 4678062150264643512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 88 egg red_11
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 545
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006c8f5bb011e9fe0800000000000000
+      internalID: -1180487310329199104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 88 egg red_12
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 538
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c51bcbe614f6dc60800000000000000
+      internalID: 7842724180394710466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 88 egg red_13
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 385
+        width: 236
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558f5f7bff494bef0800000000000000
+      internalID: -93285866244016043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 88 egg red_14
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 550
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cef2406373f1e260800000000000000
+      internalID: 7125243762338627272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 88 egg red_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 68
+        width: 266
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88baf4bc9b11b73b0800000000000000
+      internalID: -5513793829107422328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 88 egg red_16
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 68
+        width: 275
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400a24ab35670e490800000000000000
+      internalID: -7719039659333738492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 88 egg red_17
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 67
+        width: 295
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0a66ed00438f6e0800000000000000
+      internalID: -1803634472425971514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 88 egg red_0: 3599881258475284947
+      Bibi 88 egg red_1: 7135679535565594156
+      Bibi 88 egg red_10: 4678062150264643512
+      Bibi 88 egg red_11: -1180487310329199104
+      Bibi 88 egg red_12: 7842724180394710466
+      Bibi 88 egg red_13: -93285866244016043
+      Bibi 88 egg red_14: 7125243762338627272
+      Bibi 88 egg red_15: -5513793829107422328
+      Bibi 88 egg red_16: -7719039659333738492
+      Bibi 88 egg red_17: -1803634472425971514
+      Bibi 88 egg red_2: 8810949564571813508
+      Bibi 88 egg red_3: 707961260018492721
+      Bibi 88 egg red_4: -1992558483352955529
+      Bibi 88 egg red_5: -2692369218094593124
+      Bibi 88 egg red_6: -6170468266324506053
+      Bibi 88 egg red_7: -2748949920800854092
+      Bibi 88 egg red_8: 7246789124476835492
+      Bibi 88 egg red_9: -428564945612321166
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

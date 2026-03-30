@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: a16f96a0c8f5ea649a43df22d4eb7eb9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1242010558591476241
+    second: Bibi 12 toddler sick_0
+  - first:
+      213: 5190306763642937287
+    second: Bibi 12 toddler sick_1
+  - first:
+      213: -1221281194040196584
+    second: Bibi 12 toddler sick_2
+  - first:
+      213: -4016304373360617412
+    second: Bibi 12 toddler sick_3
+  - first:
+      213: -6032625055593938512
+    second: Bibi 12 toddler sick_4
+  - first:
+      213: -4334122747915504198
+    second: Bibi 12 toddler sick_5
+  - first:
+      213: -2860254807004486930
+    second: Bibi 12 toddler sick_6
+  - first:
+      213: 3194528700301469496
+    second: Bibi 12 toddler sick_7
+  - first:
+      213: 7278281799250724455
+    second: Bibi 12 toddler sick_8
+  - first:
+      213: -1942488038523149380
+    second: Bibi 12 toddler sick_9
+  - first:
+      213: -548031194942052222
+    second: Bibi 12 toddler sick_10
+  - first:
+      213: 1659087586172467755
+    second: Bibi 12 toddler sick_11
+  - first:
+      213: 3452440320856737422
+    second: Bibi 12 toddler sick_12
+  - first:
+      213: -2470668436371404530
+    second: Bibi 12 toddler sick_13
+  - first:
+      213: 139993146626262514
+    second: Bibi 12 toddler sick_14
+  - first:
+      213: 1568840030626407685
+    second: Bibi 12 toddler sick_15
+  - first:
+      213: -3050864027971397509
+    second: Bibi 12 toddler sick_16
+  - first:
+      213: -310422869281288114
+    second: Bibi 12 toddler sick_17
+  - first:
+      213: -6426718545810907481
+    second: Bibi 12 toddler sick_18
+  - first:
+      213: -6425261494130065886
+    second: Bibi 12 toddler sick_19
+  - first:
+      213: 1001060293186211441
+    second: Bibi 12 toddler sick_20
+  - first:
+      213: 3357140808333119695
+    second: Bibi 12 toddler sick_21
+  - first:
+      213: -2963883570428987825
+    second: Bibi 12 toddler sick_22
+  - first:
+      213: -2514142076024530920
+    second: Bibi 12 toddler sick_23
+  - first:
+      213: 6761896722034866710
+    second: Bibi 12 toddler sick_24
+  - first:
+      213: 8003621992195812759
+    second: Bibi 12 toddler sick_25
+  - first:
+      213: 925535619496990675
+    second: Bibi 12 toddler sick_26
+  - first:
+      213: 8745433601269256405
+    second: Bibi 12 toddler sick_27
+  - first:
+      213: -2149619437999004780
+    second: Bibi 12 toddler sick_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_0
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 400
+        width: 203
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1122128c5028c3110800000000000000
+      internalID: 1242010558591476241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_1
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 594
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf9e3a808ca70840800000000000000
+      internalID: 5190306763642937287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_2
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 609
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8128e5289332d0fe0800000000000000
+      internalID: -1221281194040196584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_3
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 591
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c381ef3a3783348c0800000000000000
+      internalID: -4016304373360617412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 396
+        width: 223
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1c332697fc74ca0800000000000000
+      internalID: -6032625055593938512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_5
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 396
+        width: 207
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab57e8de25a1ad3c0800000000000000
+      internalID: -4334122747915504198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_6
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 533
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2e46548655e48d0800000000000000
+      internalID: -2860254807004486930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 96
+        width: 195
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83762467dee355c20800000000000000
+      internalID: 3194528700301469496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 284
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766c7830cb6a10560800000000000000
+      internalID: 7278281799250724455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 290
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3e163bb65ea05e0800000000000000
+      internalID: -1942488038523149380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 281
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28865a328800568f0800000000000000
+      internalID: -548031194942052222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_11
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 227
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2af1119e53460710800000000000000
+      internalID: 1659087586172467755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_12
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 93
+        width: 197
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86c6e41e2889ef20800000000000000
+      internalID: 3452440320856737422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_13
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 282
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e090054b52c66bdd0800000000000000
+      internalID: -2470668436371404530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_14
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 281
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5c5af660b51f100800000000000000
+      internalID: 139993146626262514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_15
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 273
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50566ee12b3a5c510800000000000000
+      internalID: 1568840030626407685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_16
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 278
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b785fbaa45729a5d0800000000000000
+      internalID: -3050864027971397509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_17
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 290
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40d45a8b0821bbf0800000000000000
+      internalID: -310422869281288114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_18
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 229
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae96856885bfc6a0800000000000000
+      internalID: -6426718545810907481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_19
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 241
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eb16da6b2e4d6a0800000000000000
+      internalID: -6425261494130065886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_20
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 99
+        width: 207
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ecc16680b74ed00800000000000000
+      internalID: 1001060293186211441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_21
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 218
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0d9ad37c5f69e20800000000000000
+      internalID: 3357140808333119695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_22
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 221
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46b6f4989b2ed6d0800000000000000
+      internalID: -2963883570428987825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_23
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 205
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818d1b33a19fb1dd0800000000000000
+      internalID: -2514142076024530920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_24
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 162
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a34cc1e3517dd50800000000000000
+      internalID: 6761896722034866710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_25
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 144
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79de5510cc3921f60800000000000000
+      internalID: 8003621992195812759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_26
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 142
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7d6130eb928dc00800000000000000
+      internalID: 925535619496990675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_27
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 120
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d05b6a66850e5970800000000000000
+      internalID: 8745433601269256405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 12 toddler sick_28
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 119
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4936bc3a2840b22e0800000000000000
+      internalID: -2149619437999004780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 12 toddler sick_0: 1242010558591476241
+      Bibi 12 toddler sick_1: 5190306763642937287
+      Bibi 12 toddler sick_10: -548031194942052222
+      Bibi 12 toddler sick_11: 1659087586172467755
+      Bibi 12 toddler sick_12: 3452440320856737422
+      Bibi 12 toddler sick_13: -2470668436371404530
+      Bibi 12 toddler sick_14: 139993146626262514
+      Bibi 12 toddler sick_15: 1568840030626407685
+      Bibi 12 toddler sick_16: -3050864027971397509
+      Bibi 12 toddler sick_17: -310422869281288114
+      Bibi 12 toddler sick_18: -6426718545810907481
+      Bibi 12 toddler sick_19: -6425261494130065886
+      Bibi 12 toddler sick_2: -1221281194040196584
+      Bibi 12 toddler sick_20: 1001060293186211441
+      Bibi 12 toddler sick_21: 3357140808333119695
+      Bibi 12 toddler sick_22: -2963883570428987825
+      Bibi 12 toddler sick_23: -2514142076024530920
+      Bibi 12 toddler sick_24: 6761896722034866710
+      Bibi 12 toddler sick_25: 8003621992195812759
+      Bibi 12 toddler sick_26: 925535619496990675
+      Bibi 12 toddler sick_27: 8745433601269256405
+      Bibi 12 toddler sick_28: -2149619437999004780
+      Bibi 12 toddler sick_3: -4016304373360617412
+      Bibi 12 toddler sick_4: -6032625055593938512
+      Bibi 12 toddler sick_5: -4334122747915504198
+      Bibi 12 toddler sick_6: -2860254807004486930
+      Bibi 12 toddler sick_7: 3194528700301469496
+      Bibi 12 toddler sick_8: 7278281799250724455
+      Bibi 12 toddler sick_9: -1942488038523149380
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

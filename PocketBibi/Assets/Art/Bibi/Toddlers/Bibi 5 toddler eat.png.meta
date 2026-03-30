@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: acd309a2cb7590247bfd4d15de22a078
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3689506900567971034
+    second: Bibi 5 toddler eat_0
+  - first:
+      213: 5440561891689872161
+    second: Bibi 5 toddler eat_1
+  - first:
+      213: -7477633476807140581
+    second: Bibi 5 toddler eat_2
+  - first:
+      213: -4671908205127188065
+    second: Bibi 5 toddler eat_3
+  - first:
+      213: 4701713651271519319
+    second: Bibi 5 toddler eat_4
+  - first:
+      213: -1115990626672184154
+    second: Bibi 5 toddler eat_5
+  - first:
+      213: 2610801244886745637
+    second: Bibi 5 toddler eat_6
+  - first:
+      213: -534601429290719061
+    second: Bibi 5 toddler eat_7
+  - first:
+      213: -1326790827740038259
+    second: Bibi 5 toddler eat_8
+  - first:
+      213: -1684893534524080732
+    second: Bibi 5 toddler eat_9
+  - first:
+      213: -405162916426973949
+    second: Bibi 5 toddler eat_10
+  - first:
+      213: -135980955504890150
+    second: Bibi 5 toddler eat_11
+  - first:
+      213: -2719208639596476747
+    second: Bibi 5 toddler eat_12
+  - first:
+      213: 4575566314733706885
+    second: Bibi 5 toddler eat_13
+  - first:
+      213: 1610746506694224332
+    second: Bibi 5 toddler eat_14
+  - first:
+      213: 2764518447706804124
+    second: Bibi 5 toddler eat_15
+  - first:
+      213: 8816494251599773323
+    second: Bibi 5 toddler eat_16
+  - first:
+      213: -354859517699141729
+    second: Bibi 5 toddler eat_17
+  - first:
+      213: 3369530600321739006
+    second: Bibi 5 toddler eat_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 5 toddler eat_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 505
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b2b43950d3cccc0800000000000000
+      internalID: -3689506900567971034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler eat_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 396
+        width: 221
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bb3b41732c08b40800000000000000
+      internalID: 5440561891689872161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler eat_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 504
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b575698fb1a3890800000000000000
+      internalID: -7477633476807140581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler eat_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 223
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9149228d3c0a2fb0800000000000000
+      internalID: -4671908205127188065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler eat_4
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 400
+        width: 247
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cc4a3b7a7df3140800000000000000
+      internalID: 4701713651271519319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler eat_5
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 493
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4f98410743380f0800000000000000
+      internalID: -1115990626672184154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler eat_6
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 465
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5224f9c46ed6b3420800000000000000
+      internalID: 2610801244886745637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler eat_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 444
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8e5be15d6b498f0800000000000000
+      internalID: -534601429290719061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler eat_8
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 444
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bfe4595ca469de0800000000000000
+      internalID: -1326790827740038259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler eat_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 195
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adf65ed14e0e98e0800000000000000
+      internalID: -1684893534524080732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler eat_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 102
+        width: 226
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d75326972906af0800000000000000
+      internalID: -405162916426973949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler eat_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 210
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adea9ea9a06ec1ef0800000000000000
+      internalID: -135980955504890150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler eat_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 102
+        width: 221
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6cda6362e634ad0800000000000000
+      internalID: -2719208639596476747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler eat_13
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 196
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e12f3225daf7f30800000000000000
+      internalID: 4575566314733706885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler eat_14
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 103
+        width: 225
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9e5bae9658a5610800000000000000
+      internalID: 1610746506694224332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler eat_15
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 194
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f049291ea8d5620800000000000000
+      internalID: 2764518447706804124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler eat_16
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 165
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8eb0ee5fca7a5a70800000000000000
+      internalID: 8816494251599773323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler eat_17
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 165
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f40661629431bf0800000000000000
+      internalID: -354859517699141729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 5 toddler eat_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 144
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef86cfb7a3af2ce20800000000000000
+      internalID: 3369530600321739006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 5 toddler eat_0: -3689506900567971034
+      Bibi 5 toddler eat_1: 5440561891689872161
+      Bibi 5 toddler eat_10: -405162916426973949
+      Bibi 5 toddler eat_11: -135980955504890150
+      Bibi 5 toddler eat_12: -2719208639596476747
+      Bibi 5 toddler eat_13: 4575566314733706885
+      Bibi 5 toddler eat_14: 1610746506694224332
+      Bibi 5 toddler eat_15: 2764518447706804124
+      Bibi 5 toddler eat_16: 8816494251599773323
+      Bibi 5 toddler eat_17: -354859517699141729
+      Bibi 5 toddler eat_18: 3369530600321739006
+      Bibi 5 toddler eat_2: -7477633476807140581
+      Bibi 5 toddler eat_3: -4671908205127188065
+      Bibi 5 toddler eat_4: 4701713651271519319
+      Bibi 5 toddler eat_5: -1115990626672184154
+      Bibi 5 toddler eat_6: 2610801244886745637
+      Bibi 5 toddler eat_7: -534601429290719061
+      Bibi 5 toddler eat_8: -1326790827740038259
+      Bibi 5 toddler eat_9: -1684893534524080732
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

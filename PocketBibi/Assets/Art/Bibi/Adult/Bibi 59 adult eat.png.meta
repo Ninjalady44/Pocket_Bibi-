@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: c4728aa95ddf8e34ea0e1b725b911ef5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1172731585560791455
+    second: Bibi 59 adult eat_0
+  - first:
+      213: 5541927674399802213
+    second: Bibi 59 adult eat_1
+  - first:
+      213: -8562208697655980356
+    second: Bibi 59 adult eat_2
+  - first:
+      213: -5437593320917717616
+    second: Bibi 59 adult eat_3
+  - first:
+      213: -7149323558344735186
+    second: Bibi 59 adult eat_4
+  - first:
+      213: 4923325472948523067
+    second: Bibi 59 adult eat_5
+  - first:
+      213: -2447038988040809725
+    second: Bibi 59 adult eat_6
+  - first:
+      213: 6095866094159157711
+    second: Bibi 59 adult eat_7
+  - first:
+      213: -2798632294019188600
+    second: Bibi 59 adult eat_8
+  - first:
+      213: 5401188994775886475
+    second: Bibi 59 adult eat_9
+  - first:
+      213: -2080169377708398017
+    second: Bibi 59 adult eat_10
+  - first:
+      213: -4647678986941735126
+    second: Bibi 59 adult eat_11
+  - first:
+      213: 8505781190477196400
+    second: Bibi 59 adult eat_12
+  - first:
+      213: 1985646208368860664
+    second: Bibi 59 adult eat_13
+  - first:
+      213: -7151513883591461888
+    second: Bibi 59 adult eat_14
+  - first:
+      213: 5719652365685247236
+    second: Bibi 59 adult eat_15
+  - first:
+      213: 8266021169228280158
+    second: Bibi 59 adult eat_16
+  - first:
+      213: 6669072195949362120
+    second: Bibi 59 adult eat_17
+  - first:
+      213: 5711096381507134951
+    second: Bibi 59 adult eat_18
+  - first:
+      213: 8552632811597980374
+    second: Bibi 59 adult eat_19
+  - first:
+      213: -1809810954338511271
+    second: Bibi 59 adult eat_20
+  - first:
+      213: -8057720511223722725
+    second: Bibi 59 adult eat_21
+  - first:
+      213: 4096331447158877289
+    second: Bibi 59 adult eat_22
+  - first:
+      213: 6746268869717086640
+    second: Bibi 59 adult eat_23
+  - first:
+      213: 1490731747448781885
+    second: Bibi 59 adult eat_24
+  - first:
+      213: -4893568743192672720
+    second: Bibi 59 adult eat_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 362
+        width: 246
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f994b36e921664010800000000000000
+      internalID: 1172731585560791455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 361
+        width: 246
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563c1838bd1e8ec40800000000000000
+      internalID: 5541927674399802213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_2
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 362
+        width: 254
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe8473dd8cec2980800000000000000
+      internalID: -8562208697655980356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_3
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 638
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09da9a92fa9c984b0800000000000000
+      internalID: -5437593320917717616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_4
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 563
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26c7883a1088cc90800000000000000
+      internalID: -7149323558344735186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 516
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b309ab8ce6a235440800000000000000
+      internalID: 4923325472948523067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_6
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 481
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303db4e510f5a0ed0800000000000000
+      internalID: -2447038988040809725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_7
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 442
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc954b45aedd89450800000000000000
+      internalID: 6095866094159157711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_8
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 439
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888bc02a1c24929d0800000000000000
+      internalID: -2798632294019188600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 405
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8aad5626c0e4fa40800000000000000
+      internalID: 5401188994775886475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_10
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 407
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3aab01e8f0c123e0800000000000000
+      internalID: -2080169377708398017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_11
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 407
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f5a49f590208fb0800000000000000
+      internalID: -4647678986941735126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 21
+        width: 246
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ca79b5dea9a0670800000000000000
+      internalID: 8505781190477196400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_13
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 19
+        width: 253
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd5d63c4be6e8b10800000000000000
+      internalID: 1985646208368860664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_14
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 302
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004b1426308b0cc90800000000000000
+      internalID: -7151513883591461888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_15
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 19
+        width: 277
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d4467c589406f40800000000000000
+      internalID: 5719652365685247236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_16
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 277
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51f5b9457ec6b270800000000000000
+      internalID: 8266021169228280158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_17
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 168
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbfef4f3dd4d8c50800000000000000
+      internalID: 6669072195949362120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_18
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 173
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e560c976e3e14f40800000000000000
+      internalID: 5711096381507134951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_19
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 134
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2e5a57a3e01b670800000000000000
+      internalID: 8552632811597980374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_20
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 133
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956da0c968242e6e0800000000000000
+      internalID: -1809810954338511271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 77
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d812df2e93d2090800000000000000
+      internalID: -8057720511223722725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_22
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 78
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96caa267fb719d830800000000000000
+      internalID: 4096331447158877289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_23
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 92
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b153c23bcf8f9d50800000000000000
+      internalID: 6746268869717086640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_24
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 78
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cf41640a420b410800000000000000
+      internalID: 1490731747448781885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 59 adult eat_25
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 92
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036cb02c72d861cb0800000000000000
+      internalID: -4893568743192672720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 59 adult eat_0: 1172731585560791455
+      Bibi 59 adult eat_1: 5541927674399802213
+      Bibi 59 adult eat_10: -2080169377708398017
+      Bibi 59 adult eat_11: -4647678986941735126
+      Bibi 59 adult eat_12: 8505781190477196400
+      Bibi 59 adult eat_13: 1985646208368860664
+      Bibi 59 adult eat_14: -7151513883591461888
+      Bibi 59 adult eat_15: 5719652365685247236
+      Bibi 59 adult eat_16: 8266021169228280158
+      Bibi 59 adult eat_17: 6669072195949362120
+      Bibi 59 adult eat_18: 5711096381507134951
+      Bibi 59 adult eat_19: 8552632811597980374
+      Bibi 59 adult eat_2: -8562208697655980356
+      Bibi 59 adult eat_20: -1809810954338511271
+      Bibi 59 adult eat_21: -8057720511223722725
+      Bibi 59 adult eat_22: 4096331447158877289
+      Bibi 59 adult eat_23: 6746268869717086640
+      Bibi 59 adult eat_24: 1490731747448781885
+      Bibi 59 adult eat_25: -4893568743192672720
+      Bibi 59 adult eat_3: -5437593320917717616
+      Bibi 59 adult eat_4: -7149323558344735186
+      Bibi 59 adult eat_5: 4923325472948523067
+      Bibi 59 adult eat_6: -2447038988040809725
+      Bibi 59 adult eat_7: 6095866094159157711
+      Bibi 59 adult eat_8: -2798632294019188600
+      Bibi 59 adult eat_9: 5401188994775886475
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

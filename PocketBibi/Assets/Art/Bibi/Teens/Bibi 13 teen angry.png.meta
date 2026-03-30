@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: bdab32e8e7ce3424c856d7c5b44d693a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2983445003949341713
+    second: Bibi 13 teen angry_0
+  - first:
+      213: -2675833360849975974
+    second: Bibi 13 teen angry_1
+  - first:
+      213: 5712531427272483569
+    second: Bibi 13 teen angry_2
+  - first:
+      213: 8228072308110990556
+    second: Bibi 13 teen angry_3
+  - first:
+      213: 7664168078285307664
+    second: Bibi 13 teen angry_4
+  - first:
+      213: -3979371766668847036
+    second: Bibi 13 teen angry_5
+  - first:
+      213: 5841102269208560249
+    second: Bibi 13 teen angry_6
+  - first:
+      213: 8961112817903314356
+    second: Bibi 13 teen angry_7
+  - first:
+      213: 5108066944300150342
+    second: Bibi 13 teen angry_8
+  - first:
+      213: 24632726179591957
+    second: Bibi 13 teen angry_9
+  - first:
+      213: 1156727838203078949
+    second: Bibi 13 teen angry_10
+  - first:
+      213: -7453349134343713721
+    second: Bibi 13 teen angry_11
+  - first:
+      213: 5016485299940858477
+    second: Bibi 13 teen angry_12
+  - first:
+      213: 6200032563413206699
+    second: Bibi 13 teen angry_13
+  - first:
+      213: 8367898860453835538
+    second: Bibi 13 teen angry_14
+  - first:
+      213: 3522083556513585554
+    second: Bibi 13 teen angry_15
+  - first:
+      213: 1880305522747717134
+    second: Bibi 13 teen angry_16
+  - first:
+      213: -50573633093078677
+    second: Bibi 13 teen angry_17
+  - first:
+      213: 7549648783971598044
+    second: Bibi 13 teen angry_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibi 13 teen angry_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 566
+        width: 103
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c70539c63576920800000000000000
+      internalID: 2983445003949341713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 13 teen angry_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 357
+        width: 272
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55c5684cb78ddad0800000000000000
+      internalID: -2675833360849975974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 13 teen angry_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 567
+        width: 104
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2e4da111df64f40800000000000000
+      internalID: 5712531427272483569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 13 teen angry_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 368
+        width: 275
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc1f278b2cff2270800000000000000
+      internalID: 8228072308110990556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 13 teen angry_4
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 568
+        width: 102
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f751db2489c5a60800000000000000
+      internalID: 7664168078285307664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 13 teen angry_5
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 368
+        width: 274
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4481c7a367e66c8c0800000000000000
+      internalID: -3979371766668847036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 13 teen angry_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 234
+        width: 107
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97287ecf093cf0150800000000000000
+      internalID: 5841102269208560249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 13 teen angry_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 220
+        width: 107
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5a35f31a44c5c70800000000000000
+      internalID: 8961112817903314356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 13 teen angry_8
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 233
+        width: 105
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64eece772df73e640800000000000000
+      internalID: 5108066944300150342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 13 teen angry_9
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 347
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517b8cd7553875000800000000000000
+      internalID: 24632726179591957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 13 teen angry_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 220
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52966e917d58d0010800000000000000
+      internalID: 1156727838203078949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 13 teen angry_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 272
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c4a7ca372609890800000000000000
+      internalID: -7453349134343713721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 13 teen angry_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 9
+        width: 274
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a91f34dc22e9540800000000000000
+      internalID: 5016485299940858477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 13 teen angry_13
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 219
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6491a64c0fa0650800000000000000
+      internalID: 6200032563413206699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 13 teen angry_14
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 9
+        width: 273
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2133fb5bdafb02470800000000000000
+      internalID: 8367898860453835538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 13 teen angry_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2999c377554f0e030800000000000000
+      internalID: 3522083556513585554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 13 teen angry_16
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06359029ef281a10800000000000000
+      internalID: 1880305522747717134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 13 teen angry_17
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 0
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b617c747c835c4ff0800000000000000
+      internalID: -50573633093078677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibi 13 teen angry_18
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde369bb19db5c860800000000000000
+      internalID: 7549648783971598044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bibi 13 teen angry_0: 2983445003949341713
+      Bibi 13 teen angry_1: -2675833360849975974
+      Bibi 13 teen angry_10: 1156727838203078949
+      Bibi 13 teen angry_11: -7453349134343713721
+      Bibi 13 teen angry_12: 5016485299940858477
+      Bibi 13 teen angry_13: 6200032563413206699
+      Bibi 13 teen angry_14: 8367898860453835538
+      Bibi 13 teen angry_15: 3522083556513585554
+      Bibi 13 teen angry_16: 1880305522747717134
+      Bibi 13 teen angry_17: -50573633093078677
+      Bibi 13 teen angry_18: 7549648783971598044
+      Bibi 13 teen angry_2: 5712531427272483569
+      Bibi 13 teen angry_3: 8228072308110990556
+      Bibi 13 teen angry_4: 7664168078285307664
+      Bibi 13 teen angry_5: -3979371766668847036
+      Bibi 13 teen angry_6: 5841102269208560249
+      Bibi 13 teen angry_7: 8961112817903314356
+      Bibi 13 teen angry_8: 5108066944300150342
+      Bibi 13 teen angry_9: 24632726179591957
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
