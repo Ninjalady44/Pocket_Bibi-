@@ -79,9 +79,15 @@ namespace PocketBibi
 
         #region Public Functions/Methods
 
-        public void SetLanguage()
+        public void SetLanguage(Language language)
         {
-            Resources.Load<TextAsset>("TextSpreadSheets/");
+            _eLanguage = language;
+            _bibiTextSheet = Resources.Load<TextAsset>("TextSpreadSheets/");
+            _menuUITextSheet = Resources.Load<TextAsset>("TextSpreadSheets/");
+            _bibiText.Clear();
+            _menuUIText.Clear();
+            LoadText(_bibiTextSheet, _bibiText);
+            LoadText(_menuUITextSheet, _menuUIText);
         }
 
         public void ShowTextBox(string key)
