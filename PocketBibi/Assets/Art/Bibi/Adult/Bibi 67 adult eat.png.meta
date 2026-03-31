@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: 6a7ff6b68922c6c4fb54a8462cb463a8
+guid: 0d16c8a009b0c954db5110f662af0ff7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 201844977890690260
-    second: Bibi 67 adult eat_0
+      213: -2622648708510825987
+    second: Bibi 67 adult eat 1_0
   - first:
-      213: -4771338802290219336
-    second: Bibi 67 adult eat_1
+      213: 255147437022319370
+    second: Bibi 67 adult eat 1_1
   - first:
-      213: 1035864852318577021
-    second: Bibi 67 adult eat_2
+      213: 1462180572189847297
+    second: Bibi 67 adult eat 1_2
   - first:
-      213: 5248325162937990038
-    second: Bibi 67 adult eat_3
+      213: 9182849004288670540
+    second: Bibi 67 adult eat 1_3
   - first:
-      213: 4708145119554842968
-    second: Bibi 67 adult eat_4
+      213: 7172273388200280094
+    second: Bibi 67 adult eat 1_4
   - first:
-      213: 1544706022305298692
-    second: Bibi 67 adult eat_5
+      213: 4875514100604234775
+    second: Bibi 67 adult eat 1_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -111,37 +111,11 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bibi 67 adult eat_0
+      name: Bibi 67 adult eat 1_0
       rect:
         serializedVersion: 2
         x: 81
@@ -156,14 +130,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4d40fde10f81dc200800000000000000
-      internalID: 201844977890690260
+      spriteID: df1439e15ea7a9bd0800000000000000
+      internalID: -2622648708510825987
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bibi 67 adult eat_1
+      name: Bibi 67 adult eat 1_1
       rect:
         serializedVersion: 2
         x: 400
@@ -178,14 +152,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8b6247293acc8cdb0800000000000000
-      internalID: -4771338802290219336
+      spriteID: a03111dfd377a8300800000000000000
+      internalID: 255147437022319370
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bibi 67 adult eat_2
+      name: Bibi 67 adult eat 1_2
       rect:
         serializedVersion: 2
         x: 706
@@ -200,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d71e2cd4891206e00800000000000000
-      internalID: 1035864852318577021
+      spriteID: 10f6ad2cb75ba4410800000000000000
+      internalID: 1462180572189847297
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bibi 67 adult eat_3
+      name: Bibi 67 adult eat 1_3
       rect:
         serializedVersion: 2
         x: 81
@@ -222,14 +196,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 69bb9aacdebc5d840800000000000000
-      internalID: 5248325162937990038
+      spriteID: c4bfcae3488007f70800000000000000
+      internalID: 9182849004288670540
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bibi 67 adult eat_4
+      name: Bibi 67 adult eat 1_4
       rect:
         serializedVersion: 2
         x: 402
@@ -244,14 +218,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8513e0a9a01b65140800000000000000
-      internalID: 4708145119554842968
+      spriteID: e104aaf65a8098360800000000000000
+      internalID: 7172273388200280094
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bibi 67 adult eat_5
+      name: Bibi 67 adult eat 1_5
       rect:
         serializedVersion: 2
         x: 703
@@ -266,8 +240,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 409f9ed61f5ef6510800000000000000
-      internalID: 1544706022305298692
+      spriteID: 71c6cef2e3e49a340800000000000000
+      internalID: 4875514100604234775
       vertices: []
       indices: 
       edges: []
@@ -286,12 +260,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Bibi 67 adult eat_0: 201844977890690260
-      Bibi 67 adult eat_1: -4771338802290219336
-      Bibi 67 adult eat_2: 1035864852318577021
-      Bibi 67 adult eat_3: 5248325162937990038
-      Bibi 67 adult eat_4: 4708145119554842968
-      Bibi 67 adult eat_5: 1544706022305298692
+      Bibi 67 adult eat 1_0: -2622648708510825987
+      Bibi 67 adult eat 1_1: 255147437022319370
+      Bibi 67 adult eat 1_2: 1462180572189847297
+      Bibi 67 adult eat 1_3: 9182849004288670540
+      Bibi 67 adult eat 1_4: 7172273388200280094
+      Bibi 67 adult eat 1_5: 4875514100604234775
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
