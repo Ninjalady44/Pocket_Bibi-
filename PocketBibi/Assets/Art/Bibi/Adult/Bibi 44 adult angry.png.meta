@@ -179,10 +179,10 @@ TextureImporter:
         serializedVersion: 2
         x: 14
         y: 361
-        width: 270
+        width: 239
         height: 301
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -204,7 +204,7 @@ TextureImporter:
         width: 13
         height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -221,13 +221,13 @@ TextureImporter:
       name: Bibi 44 adult angry_2
       rect:
         serializedVersion: 2
-        x: 246
-        y: 363
-        width: 273
+        x: 272
+        y: 367
+        width: 215
         height: 299
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 2, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -248,7 +248,7 @@ TextureImporter:
         width: 11
         height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -266,12 +266,12 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 482
-        y: 361
+        y: 362
         width: 244
         height: 303
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 28, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -292,7 +292,7 @@ TextureImporter:
         width: 12
         height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -314,7 +314,7 @@ TextureImporter:
         width: 12
         height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -336,7 +336,7 @@ TextureImporter:
         width: 9
         height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -358,7 +358,7 @@ TextureImporter:
         width: 12
         height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -380,7 +380,7 @@ TextureImporter:
         width: 10
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -397,12 +397,12 @@ TextureImporter:
       name: Bibi 44 adult angry_10
       rect:
         serializedVersion: 2
-        x: 488
-        y: 19
-        width: 236
+        x: 508
+        y: 20
+        width: 216
         height: 313
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -424,7 +424,7 @@ TextureImporter:
         width: 14
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -441,12 +441,12 @@ TextureImporter:
       name: Bibi 44 adult angry_12
       rect:
         serializedVersion: 2
-        x: 10
-        y: 20
-        width: 506
-        height: 298
+        x: 11
+        y: 21
+        width: 243
+        height: 290
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -468,7 +468,7 @@ TextureImporter:
         width: 14
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -490,7 +490,7 @@ TextureImporter:
         width: 51
         height: 51
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -512,7 +512,7 @@ TextureImporter:
         width: 20
         height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -534,7 +534,7 @@ TextureImporter:
         width: 11
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -551,7 +551,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 764e50c81bca14d49af8276baf42b5d9
     internalID: 0
     vertices: []
     indices: 
