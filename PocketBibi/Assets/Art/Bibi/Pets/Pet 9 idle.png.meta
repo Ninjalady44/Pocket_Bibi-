@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: fa1a0e10053649144915b86702ee1e36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7114970010604000450
+    second: Pet 9 idle_0
+  - first:
+      213: 479441910195110925
+    second: Pet 9 idle_1
+  - first:
+      213: -6667200086326110390
+    second: Pet 9 idle_2
+  - first:
+      213: -1035487578537728479
+    second: Pet 9 idle_3
+  - first:
+      213: 7920328107755720477
+    second: Pet 9 idle_4
+  - first:
+      213: -1411713136455788611
+    second: Pet 9 idle_5
+  - first:
+      213: -6793198243726730894
+    second: Pet 9 idle_6
+  - first:
+      213: 8090022535214997289
+    second: Pet 9 idle_7
+  - first:
+      213: -309293183586793885
+    second: Pet 9 idle_8
+  - first:
+      213: -2641697703263497279
+    second: Pet 9 idle_9
+  - first:
+      213: 8331562361891312827
+    second: Pet 9 idle_10
+  - first:
+      213: -5741319128883906095
+    second: Pet 9 idle_11
+  - first:
+      213: -7634791660297315306
+    second: Pet 9 idle_12
+  - first:
+      213: -8219981426059755077
+    second: Pet 9 idle_13
+  - first:
+      213: 7073986060390515205
+    second: Pet 9 idle_14
+  - first:
+      213: -3739546557747176250
+    second: Pet 9 idle_15
+  - first:
+      213: -2692180611119227012
+    second: Pet 9 idle_16
+  - first:
+      213: -9220558285367972278
+    second: Pet 9 idle_17
+  - first:
+      213: -3582928092052712072
+    second: Pet 9 idle_18
+  - first:
+      213: 1136693718074803381
+    second: Pet 9 idle_19
+  - first:
+      213: -7621713879007457898
+    second: Pet 9 idle_20
+  - first:
+      213: 8344416689543733898
+    second: Pet 9 idle_21
+  - first:
+      213: 2797027797291122493
+    second: Pet 9 idle_22
+  - first:
+      213: -415323592715738873
+    second: Pet 9 idle_23
+  - first:
+      213: -1255901307669844861
+    second: Pet 9 idle_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pet 9 idle_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 375
+        width: 242
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b246ad87c824d90800000000000000
+      internalID: -7114970010604000450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 624
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d044d9b80e157a600800000000000000
+      internalID: 479441910195110925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_2
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 375
+        width: 244
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47141888d85973a0800000000000000
+      internalID: -6667200086326110390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_3
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 633
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126ede7988531a1f0800000000000000
+      internalID: -1035487578537728479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_4
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 617
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f42574378aaed60800000000000000
+      internalID: 7920328107755720477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_5
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 375
+        width: 281
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7dcc8c166986ce0800000000000000
+      internalID: -1411713136455788611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_6
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 637
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2795cd17036b9b1a0800000000000000
+      internalID: -6793198243726730894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_7
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 591
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f156c02a8854070800000000000000
+      internalID: 8090022535214997289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 477
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3660cdcfc7b25bbf0800000000000000
+      internalID: -309293183586793885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_9
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 487
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c393096fedc65bd0800000000000000
+      internalID: -2641697703263497279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 496
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4db8c53d7af9370800000000000000
+      internalID: 8331562361891312827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 487
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d938bccbacb250b0800000000000000
+      internalID: -5741319128883906095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_12
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 477
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c1dd19f65cb0690800000000000000
+      internalID: -7634791660297315306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 294
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1466fb172cced80800000000000000
+      internalID: -8219981426059755077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 72
+        width: 232
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50244a3a7d8db2260800000000000000
+      internalID: 7073986060390515205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 309
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccd17cf7367a1cc0800000000000000
+      internalID: -3739546557747176250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_16
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 71
+        width: 238
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f5b0b7ff373aad0800000000000000
+      internalID: -2692180611119227012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_17
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 295
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e6bd1971ff90080800000000000000
+      internalID: -9220558285367972278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_18
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 294
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8751e6922e1e64ec0800000000000000
+      internalID: -3582928092052712072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_19
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 72
+        width: 241
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b444440ae856cf00800000000000000
+      internalID: 1136693718074803381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_20
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 294
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d881ecb9b3a3690800000000000000
+      internalID: -7621713879007457898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_21
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 263
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82681eb4c25dc370800000000000000
+      internalID: 8344416689543733898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_22
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 264
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f3e6c56f901d620800000000000000
+      internalID: 2797027797291122493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_23
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 193
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701e65594697c3af0800000000000000
+      internalID: -415323592715738873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet 9 idle_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 174
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ce36b2a64229ee0800000000000000
+      internalID: -1255901307669844861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pet 9 idle_0: -7114970010604000450
+      Pet 9 idle_1: 479441910195110925
+      Pet 9 idle_10: 8331562361891312827
+      Pet 9 idle_11: -5741319128883906095
+      Pet 9 idle_12: -7634791660297315306
+      Pet 9 idle_13: -8219981426059755077
+      Pet 9 idle_14: 7073986060390515205
+      Pet 9 idle_15: -3739546557747176250
+      Pet 9 idle_16: -2692180611119227012
+      Pet 9 idle_17: -9220558285367972278
+      Pet 9 idle_18: -3582928092052712072
+      Pet 9 idle_19: 1136693718074803381
+      Pet 9 idle_2: -6667200086326110390
+      Pet 9 idle_20: -7621713879007457898
+      Pet 9 idle_21: 8344416689543733898
+      Pet 9 idle_22: 2797027797291122493
+      Pet 9 idle_23: -415323592715738873
+      Pet 9 idle_24: -1255901307669844861
+      Pet 9 idle_3: -1035487578537728479
+      Pet 9 idle_4: 7920328107755720477
+      Pet 9 idle_5: -1411713136455788611
+      Pet 9 idle_6: -6793198243726730894
+      Pet 9 idle_7: 8090022535214997289
+      Pet 9 idle_8: -309293183586793885
+      Pet 9 idle_9: -2641697703263497279
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
