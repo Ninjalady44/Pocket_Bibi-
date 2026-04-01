@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: f698cb17124f5b6458a8dc5acd18a6f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7624024527478467227
+    second: Food 36 eat_0
+  - first:
+      213: -4651269481750183267
+    second: Food 36 eat_1
+  - first:
+      213: -5501408731111534646
+    second: Food 36 eat_2
+  - first:
+      213: 7456126598873075388
+    second: Food 36 eat_3
+  - first:
+      213: -5993595326964850279
+    second: Food 36 eat_4
+  - first:
+      213: 2579781941582757352
+    second: Food 36 eat_5
+  - first:
+      213: -3715353223921909210
+    second: Food 36 eat_6
+  - first:
+      213: -697223440887497445
+    second: Food 36 eat_7
+  - first:
+      213: -3323858150482983720
+    second: Food 36 eat_8
+  - first:
+      213: -7909748579815734911
+    second: Food 36 eat_9
+  - first:
+      213: -5274224407248299777
+    second: Food 36 eat_10
+  - first:
+      213: -4330428454324478307
+    second: Food 36 eat_11
+  - first:
+      213: -1843486977399748504
+    second: Food 36 eat_12
+  - first:
+      213: -8946920669803984226
+    second: Food 36 eat_13
+  - first:
+      213: -4321360080889744970
+    second: Food 36 eat_14
+  - first:
+      213: -617226862059076625
+    second: Food 36 eat_15
+  - first:
+      213: 5132491466535200606
+    second: Food 36 eat_16
+  - first:
+      213: -4593558834417469180
+    second: Food 36 eat_17
+  - first:
+      213: -8054265701109991836
+    second: Food 36 eat_18
+  - first:
+      213: 8889744643191296389
+    second: Food 36 eat_19
+  - first:
+      213: 1448661841945101897
+    second: Food 36 eat_20
+  - first:
+      213: -7687765542607596588
+    second: Food 36 eat_21
+  - first:
+      213: 6666087998532138762
+    second: Food 36 eat_22
+  - first:
+      213: -1216532988984382020
+    second: Food 36 eat_23
+  - first:
+      213: -2927167031045812115
+    second: Food 36 eat_24
+  - first:
+      213: -3224312253703825707
+    second: Food 36 eat_25
+  - first:
+      213: 8775557769955085169
+    second: Food 36 eat_26
+  - first:
+      213: 6004022982990006960
+    second: Food 36 eat_27
+  - first:
+      213: 4452205093027022734
+    second: Food 36 eat_28
+  - first:
+      213: -412274418635048679
+    second: Food 36 eat_29
+  - first:
+      213: -6996277230884275985
+    second: Food 36 eat_30
+  - first:
+      213: -8701908985678960851
+    second: Food 36 eat_31
+  - first:
+      213: -8838113843035643013
+    second: Food 36 eat_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Food 36 eat_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 465
+        width: 259
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a2837f9e9fdc960800000000000000
+      internalID: 7624024527478467227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 465
+        width: 261
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d924aa1cc0f537fb0800000000000000
+      internalID: -4651269481750183267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 274
+        width: 211
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf4dd128e117a3b0800000000000000
+      internalID: -5501408731111534646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 294
+        width: 52
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbecb2e23ab797760800000000000000
+      internalID: 7456126598873075388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_4
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 277
+        width: 213
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991a1d83ec872dca0800000000000000
+      internalID: -5993595326964850279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_5
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 296
+        width: 52
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edf102f10a3dc320800000000000000
+      internalID: 2579781941582757352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 102
+        width: 215
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62248097de9607cc0800000000000000
+      internalID: -3715353223921909210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 153
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d33dc79f6f256f0800000000000000
+      internalID: -697223440887497445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_8
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 155
+        width: 77
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4cca86f984fd1d0800000000000000
+      internalID: -3323858150482983720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_9
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 161
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181ce65039dea3290800000000000000
+      internalID: -7909748579815734911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_10
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 146
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8154c78d03ec6b0800000000000000
+      internalID: -5274224407248299777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_11
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 159
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9edebea34a37e3c0800000000000000
+      internalID: -4330428454324478307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_12
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 148
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868870c7c5e9a66e0800000000000000
+      internalID: -1843486977399748504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_13
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 139
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9acbbabd0726d380800000000000000
+      internalID: -8946920669803984226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 140
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b17308e6e17704c0800000000000000
+      internalID: -4321360080889744970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_15
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 140
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3c32d607b2f67f0800000000000000
+      internalID: -617226862059076625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_16
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 148
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57ed83bbc54a3740800000000000000
+      internalID: 5132491466535200606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_17
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 148
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40970bbe3966040c0800000000000000
+      internalID: -4593558834417469180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_18
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 148
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466f9b6a400893090800000000000000
+      internalID: -8054265701109991836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_19
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 138
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581595137a7be5b70800000000000000
+      internalID: 8889744643191296389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_20
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 129
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9460dc8154eaa1410800000000000000
+      internalID: 1448661841945101897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_21
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 136
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3d26478f19f4590800000000000000
+      internalID: -7687765542607596588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_22
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 138
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07b00a57b3b28c50800000000000000
+      internalID: 6666087998532138762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_23
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 133
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdaa0621b10e1fe0800000000000000
+      internalID: -1216532988984382020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_24
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 134
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d609744181d9067d0800000000000000
+      internalID: -2927167031045812115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_25
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 118
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d65b01a611f043d0800000000000000
+      internalID: -3224312253703825707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_26
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 124
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b87100c4b09c970800000000000000
+      internalID: 8775557769955085169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_27
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba8664a713925350800000000000000
+      internalID: 6004022982990006960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_28
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 118
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e878f0d71f869cd30800000000000000
+      internalID: 4452205093027022734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_29
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 125
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919f64fb99e474af0800000000000000
+      internalID: -412274418635048679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_30
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 118
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe83df62dea38ee90800000000000000
+      internalID: -6996277230884275985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_31
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 118
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2763d8d1eb9c3780800000000000000
+      internalID: -8701908985678960851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 36 eat_32
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73e56d3946b85580800000000000000
+      internalID: -8838113843035643013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Food 36 eat_0: 7624024527478467227
+      Food 36 eat_1: -4651269481750183267
+      Food 36 eat_10: -5274224407248299777
+      Food 36 eat_11: -4330428454324478307
+      Food 36 eat_12: -1843486977399748504
+      Food 36 eat_13: -8946920669803984226
+      Food 36 eat_14: -4321360080889744970
+      Food 36 eat_15: -617226862059076625
+      Food 36 eat_16: 5132491466535200606
+      Food 36 eat_17: -4593558834417469180
+      Food 36 eat_18: -8054265701109991836
+      Food 36 eat_19: 8889744643191296389
+      Food 36 eat_2: -5501408731111534646
+      Food 36 eat_20: 1448661841945101897
+      Food 36 eat_21: -7687765542607596588
+      Food 36 eat_22: 6666087998532138762
+      Food 36 eat_23: -1216532988984382020
+      Food 36 eat_24: -2927167031045812115
+      Food 36 eat_25: -3224312253703825707
+      Food 36 eat_26: 8775557769955085169
+      Food 36 eat_27: 6004022982990006960
+      Food 36 eat_28: 4452205093027022734
+      Food 36 eat_29: -412274418635048679
+      Food 36 eat_3: 7456126598873075388
+      Food 36 eat_30: -6996277230884275985
+      Food 36 eat_31: -8701908985678960851
+      Food 36 eat_32: -8838113843035643013
+      Food 36 eat_4: -5993595326964850279
+      Food 36 eat_5: 2579781941582757352
+      Food 36 eat_6: -3715353223921909210
+      Food 36 eat_7: -697223440887497445
+      Food 36 eat_8: -3323858150482983720
+      Food 36 eat_9: -7909748579815734911
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
