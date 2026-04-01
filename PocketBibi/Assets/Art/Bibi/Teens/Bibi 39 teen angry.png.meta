@@ -144,12 +144,12 @@ TextureImporter:
       name: Bibi 39 teen angry_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 344
-        width: 455
-        height: 316
+        x: 244
+        y: 318
+        width: 207
+        height: 351
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -166,12 +166,12 @@ TextureImporter:
       name: Bibi 39 teen angry_1
       rect:
         serializedVersion: 2
-        x: 466
-        y: 350
+        x: 465
+        y: 351
         width: 212
         height: 310
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -193,7 +193,7 @@ TextureImporter:
         width: 11
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -210,12 +210,12 @@ TextureImporter:
       name: Bibi 39 teen angry_3
       rect:
         serializedVersion: 2
-        x: 236
-        y: 14
+        x: 240
+        y: 7
         width: 224
         height: 320
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -232,12 +232,12 @@ TextureImporter:
       name: Bibi 39 teen angry_4
       rect:
         serializedVersion: 2
-        x: 7
-        y: 14
-        width: 227
+        x: 9
+        y: 17
+        width: 228
         height: 311
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -259,7 +259,7 @@ TextureImporter:
         width: 212
         height: 311
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -276,7 +276,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 976515f3d8c3d10448c28556d4bfa101
     internalID: 0
     vertices: []
     indices: 
