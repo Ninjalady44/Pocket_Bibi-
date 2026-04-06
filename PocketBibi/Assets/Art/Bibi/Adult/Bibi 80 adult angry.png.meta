@@ -135,12 +135,12 @@ TextureImporter:
       name: Bibi 80 adult angry_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 348
-        width: 1043
-        height: 332
+        x: 386
+        y: 345
+        width: 346
+        height: 347
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -157,12 +157,12 @@ TextureImporter:
       name: Bibi 80 adult angry_1
       rect:
         serializedVersion: 2
-        x: 15
+        x: 732
         y: 1
-        width: 1028
-        height: 334
+        width: 311
+        height: 343
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -184,7 +184,7 @@ TextureImporter:
         width: 7
         height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -201,7 +201,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 328926a56c0be1549a19f70f28236ea4
     internalID: 0
     vertices: []
     indices: 
