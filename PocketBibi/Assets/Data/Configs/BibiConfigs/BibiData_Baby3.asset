@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f6b445cb72cf1f49921ab0c264ad591, type: 3}
+  m_Name: BibiData_Baby3
+  m_EditorClassIdentifier: Assembly-CSharp::PocketBibi.BibiData
+  _eEvolutionState: 1
+  _bibiSprite: {fileID: -74298803951190787, guid: 92d134c8be1de2e49966c93de316c01d, type: 3}
+  _animController: {fileID: 0}
+  _bibiEvolutionsConfig: []
