@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: BibiData_Baby1
   m_EditorClassIdentifier: Assembly-CSharp::PocketBibi.BibiData
   _eEvolutionState: 1
-  _bibiSprite: {fileID: -8945438146341193663, guid: e1047239991600540b1fc32dae3c9df9, type: 3}
+  _bibiSprite: {fileID: -531307590921061074, guid: 8655f6d89dd08c7478bf256c80f04631, type: 3}
   _animController: {fileID: 9100000, guid: b6b9f8f59e1996d4d889e554757c7342, type: 2}
   _bibiEvolutionsConfig: []
