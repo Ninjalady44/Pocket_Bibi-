@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 65b6cdff7b37f4048bc6ea6f0db0ab14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3449826504761603936
+    second: Food 45 pizza piece_0
+  - first:
+      213: -3343042423118017820
+    second: Food 45 pizza piece_1
+  - first:
+      213: -3496056024383036958
+    second: Food 45 pizza piece_2
+  - first:
+      213: 7881692186493606825
+    second: Food 45 pizza piece_3
+  - first:
+      213: -3476976297866313658
+    second: Food 45 pizza piece_4
+  - first:
+      213: -5465024643139620095
+    second: Food 45 pizza piece_5
+  - first:
+      213: -8467008689964722854
+    second: Food 45 pizza piece_6
+  - first:
+      213: 5494070222968562531
+    second: Food 45 pizza piece_7
+  - first:
+      213: 416664078924685644
+    second: Food 45 pizza piece_8
+  - first:
+      213: -5749734074143373096
+    second: Food 45 pizza piece_9
+  - first:
+      213: -8982827069360881400
+    second: Food 45 pizza piece_10
+  - first:
+      213: 8563819271072727435
+    second: Food 45 pizza piece_11
+  - first:
+      213: -2213881624626668730
+    second: Food 45 pizza piece_12
+  - first:
+      213: -4769485640755109730
+    second: Food 45 pizza piece_13
+  - first:
+      213: 2868494813053932888
+    second: Food 45 pizza piece_14
+  - first:
+      213: 7700606673060047783
+    second: Food 45 pizza piece_15
+  - first:
+      213: 7139425484222751652
+    second: Food 45 pizza piece_16
+  - first:
+      213: 3818694711050160484
+    second: Food 45 pizza piece_17
+  - first:
+      213: -1983006127493525529
+    second: Food 45 pizza piece_18
+  - first:
+      213: 746264172797517074
+    second: Food 45 pizza piece_19
+  - first:
+      213: -7652707327701451133
+    second: Food 45 pizza piece_20
+  - first:
+      213: 3134852960102471651
+    second: Food 45 pizza piece_21
+  - first:
+      213: 1468012471215018436
+    second: Food 45 pizza piece_22
+  - first:
+      213: 944140530138937607
+    second: Food 45 pizza piece_23
+  - first:
+      213: 5987996210668196285
+    second: Food 45 pizza piece_24
+  - first:
+      213: 8982583205608096829
+    second: Food 45 pizza piece_25
+  - first:
+      213: 2854129267435442275
+    second: Food 45 pizza piece_26
+  - first:
+      213: 7432608085479051948
+    second: Food 45 pizza piece_27
+  - first:
+      213: 2132745629466609708
+    second: Food 45 pizza piece_28
+  - first:
+      213: 1106763701431471792
+    second: Food 45 pizza piece_29
+  - first:
+      213: -4666738536097209082
+    second: Food 45 pizza piece_30
+  - first:
+      213: 3047655802163831954
+    second: Food 45 pizza piece_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Food 45 pizza piece_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 419
+        width: 137
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067fa099dee30ef20800000000000000
+      internalID: 3449826504761603936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 422
+        width: 144
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea4dfcd0a02b91d0800000000000000
+      internalID: -3343042423118017820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 438
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1e8c791938b7fc0800000000000000
+      internalID: -3496056024383036958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 434
+        width: 143
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab5cecd845616d60800000000000000
+      internalID: 7881692186493606825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_4
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 441
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640c9399a7c4fbfc0800000000000000
+      internalID: -3476976297866313658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_5
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 428
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10338e0ca055824b0800000000000000
+      internalID: -5465024643139620095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_6
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 431
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55d184e4742f7a80800000000000000
+      internalID: -8467008689964722854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_7
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 426
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363a71b42cbde3c40800000000000000
+      internalID: 5494070222968562531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_8
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 416
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41a8fea5c948c500800000000000000
+      internalID: 416664078924685644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 118
+        width: 116
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d889bda257d430b0800000000000000
+      internalID: -5749734074143373096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 129
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8014bfb9f56965380800000000000000
+      internalID: -8982827069360881400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_11
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 155
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b814fe4014cc8d670800000000000000
+      internalID: 8563819271072727435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_12
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bdc5d5466b641e0800000000000000
+      internalID: -2213881624626668730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_13
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 148
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90277d54126fcdb0800000000000000
+      internalID: -4769485640755109730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_14
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 139
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8555124a5d0fec720800000000000000
+      internalID: 2868494813053932888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_15
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 129
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab2fb638fc0eda60800000000000000
+      internalID: 7700606673060047783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_16
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 135
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3e77fc6a5541360800000000000000
+      internalID: 7139425484222751652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_17
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 131
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469cecd7b9abef430800000000000000
+      internalID: 3818694711050160484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_18
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 142
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef4357fe62fa74e0800000000000000
+      internalID: -1983006127493525529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_19
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 131
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d5230bf434b5a00800000000000000
+      internalID: 746264172797517074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 124
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e73523b3f1cc590800000000000000
+      internalID: -7652707327701451133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_21
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 125
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e75df5782c318b20800000000000000
+      internalID: 3134852960102471651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_22
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 120
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c15d90909d6f5410800000000000000
+      internalID: 1468012471215018436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_23
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 123
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709faf45fc24a1d00800000000000000
+      internalID: 944140530138937607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_24
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 127
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1534de3d2a91350800000000000000
+      internalID: 5987996210668196285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_25
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 131
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3409af65db88ac70800000000000000
+      internalID: 8982583205608096829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36019886277eb9720800000000000000
+      internalID: 2854129267435442275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_27
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 116
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2dca19cade52760800000000000000
+      internalID: 7432608085479051948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_28
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 120
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28cf98a9d8099d10800000000000000
+      internalID: 2132745629466609708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_29
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 110
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be8e1af8b30c5f00800000000000000
+      internalID: 1106763701431471792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_30
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 117
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605ac40e60a6c3fb0800000000000000
+      internalID: -4666738536097209082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 45 pizza piece_31
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 111
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29422ad0ec27b4a20800000000000000
+      internalID: 3047655802163831954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Food 45 pizza piece_0: 3449826504761603936
+      Food 45 pizza piece_1: -3343042423118017820
+      Food 45 pizza piece_10: -8982827069360881400
+      Food 45 pizza piece_11: 8563819271072727435
+      Food 45 pizza piece_12: -2213881624626668730
+      Food 45 pizza piece_13: -4769485640755109730
+      Food 45 pizza piece_14: 2868494813053932888
+      Food 45 pizza piece_15: 7700606673060047783
+      Food 45 pizza piece_16: 7139425484222751652
+      Food 45 pizza piece_17: 3818694711050160484
+      Food 45 pizza piece_18: -1983006127493525529
+      Food 45 pizza piece_19: 746264172797517074
+      Food 45 pizza piece_2: -3496056024383036958
+      Food 45 pizza piece_20: -7652707327701451133
+      Food 45 pizza piece_21: 3134852960102471651
+      Food 45 pizza piece_22: 1468012471215018436
+      Food 45 pizza piece_23: 944140530138937607
+      Food 45 pizza piece_24: 5987996210668196285
+      Food 45 pizza piece_25: 8982583205608096829
+      Food 45 pizza piece_26: 2854129267435442275
+      Food 45 pizza piece_27: 7432608085479051948
+      Food 45 pizza piece_28: 2132745629466609708
+      Food 45 pizza piece_29: 1106763701431471792
+      Food 45 pizza piece_3: 7881692186493606825
+      Food 45 pizza piece_30: -4666738536097209082
+      Food 45 pizza piece_31: 3047655802163831954
+      Food 45 pizza piece_4: -3476976297866313658
+      Food 45 pizza piece_5: -5465024643139620095
+      Food 45 pizza piece_6: -8467008689964722854
+      Food 45 pizza piece_7: 5494070222968562531
+      Food 45 pizza piece_8: 416664078924685644
+      Food 45 pizza piece_9: -5749734074143373096
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

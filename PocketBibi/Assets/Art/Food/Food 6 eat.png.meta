@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: b8105825fa720b64c840d5e6adf8b5da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8706063729936537973
+    second: Food 6 eat_0
+  - first:
+      213: 8094530112956926068
+    second: Food 6 eat_1
+  - first:
+      213: 8735660426502851798
+    second: Food 6 eat_2
+  - first:
+      213: 7039261993928212301
+    second: Food 6 eat_3
+  - first:
+      213: -2251153565480924757
+    second: Food 6 eat_4
+  - first:
+      213: -8665385787204229748
+    second: Food 6 eat_5
+  - first:
+      213: 6885716410765950652
+    second: Food 6 eat_6
+  - first:
+      213: -7908281921019723127
+    second: Food 6 eat_7
+  - first:
+      213: -5064647834503093476
+    second: Food 6 eat_8
+  - first:
+      213: 2616473131018794618
+    second: Food 6 eat_9
+  - first:
+      213: 2830390793341881227
+    second: Food 6 eat_10
+  - first:
+      213: 3967334862357415109
+    second: Food 6 eat_11
+  - first:
+      213: 2972884150686845772
+    second: Food 6 eat_12
+  - first:
+      213: 1535461353944264953
+    second: Food 6 eat_13
+  - first:
+      213: 5120993540002165713
+    second: Food 6 eat_14
+  - first:
+      213: 7606762500827832414
+    second: Food 6 eat_15
+  - first:
+      213: -4887956024784780305
+    second: Food 6 eat_16
+  - first:
+      213: -1596441552970425257
+    second: Food 6 eat_17
+  - first:
+      213: 8636130857794668904
+    second: Food 6 eat_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Food 6 eat_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 436
+        width: 217
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57997cee5d622d870800000000000000
+      internalID: 8706063729936537973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 6 eat_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 437
+        width: 229
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4780086404c855070800000000000000
+      internalID: 8094530112956926068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 6 eat_2
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 495
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcc328dfdc4b3970800000000000000
+      internalID: 8735660426502851798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 6 eat_3
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 438
+        width: 185
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fbff4ec7b70b160800000000000000
+      internalID: 7039261993928212301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 6 eat_4
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 510
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9c7a262cb42c0e0800000000000000
+      internalID: -2251153565480924757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 6 eat_5
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 478
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8529f7a98d5eb780800000000000000
+      internalID: -8665385787204229748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 6 eat_6
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 496
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe38cfe79afe8f50800000000000000
+      internalID: 6885716410765950652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 6 eat_7
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 485
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982c9f12e73204290800000000000000
+      internalID: -7908281921019723127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 6 eat_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 175
+        width: 194
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13edffc0a1c6b9b0800000000000000
+      internalID: -5064647834503093476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 6 eat_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 216
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76bab233749f4420800000000000000
+      internalID: 2616473131018794618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 6 eat_10
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 175
+        width: 175
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bcda43e61974720800000000000000
+      internalID: 2830390793341881227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 6 eat_11
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 231
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c446d7990ece0730800000000000000
+      internalID: 3967334862357415109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 6 eat_12
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 208
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b0410526ec14920800000000000000
+      internalID: 2972884150686845772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 6 eat_13
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 201
+        width: 130
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0303857fd0f4510800000000000000
+      internalID: 1535461353944264953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 6 eat_14
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 199
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d336e01e7c611740800000000000000
+      internalID: 5120993540002165713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 6 eat_15
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 195
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50ea903136a09960800000000000000
+      internalID: 7606762500827832414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 6 eat_16
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 205
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe309f894ed7a2cb0800000000000000
+      internalID: -4887956024784780305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 6 eat_17
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 201
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c568aaddc48d9e0800000000000000
+      internalID: -1596441552970425257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food 6 eat_18
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 195
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86904ac4243b9d770800000000000000
+      internalID: 8636130857794668904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Food 6 eat_0: 8706063729936537973
+      Food 6 eat_1: 8094530112956926068
+      Food 6 eat_10: 2830390793341881227
+      Food 6 eat_11: 3967334862357415109
+      Food 6 eat_12: 2972884150686845772
+      Food 6 eat_13: 1535461353944264953
+      Food 6 eat_14: 5120993540002165713
+      Food 6 eat_15: 7606762500827832414
+      Food 6 eat_16: -4887956024784780305
+      Food 6 eat_17: -1596441552970425257
+      Food 6 eat_18: 8636130857794668904
+      Food 6 eat_2: 8735660426502851798
+      Food 6 eat_3: 7039261993928212301
+      Food 6 eat_4: -2251153565480924757
+      Food 6 eat_5: -8665385787204229748
+      Food 6 eat_6: 6885716410765950652
+      Food 6 eat_7: -7908281921019723127
+      Food 6 eat_8: -5064647834503093476
+      Food 6 eat_9: 2616473131018794618
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

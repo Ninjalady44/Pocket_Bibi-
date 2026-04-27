@@ -138,12 +138,12 @@ TextureImporter:
       name: Bibi 80 adult eat_0
       rect:
         serializedVersion: 2
-        x: 15
-        y: 361
-        width: 1050
-        height: 320
+        x: 394
+        y: 353
+        width: 353
+        height: 334
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -160,12 +160,12 @@ TextureImporter:
       name: Bibi 80 adult eat_1
       rect:
         serializedVersion: 2
-        x: 13
-        y: 3
-        width: 1052
-        height: 330
+        x: 743
+        y: 362
+        width: 322
+        height: 333
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -187,7 +187,7 @@ TextureImporter:
         width: 27
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -209,7 +209,7 @@ TextureImporter:
         width: 26
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -226,7 +226,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: cf404d6cd681e9d48a3328f2057ced46
     internalID: 0
     vertices: []
     indices: 
