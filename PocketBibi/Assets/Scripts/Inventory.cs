@@ -66,16 +66,25 @@ namespace PocketBibi
             inventory.Add(item);
         }
 
-        public void RemoveFromInventory()
+        public void RemoveFromInventory(List<ItemData> inventory, ItemData item)
         {
+            for (int i = 0; i < inventory.Count; i++)
+            {
+                if (inventory[i].name == item.name)
+                {
+                    inventory.RemoveAt(i);
+                    break;
+                }
+            }
 
+            DisplayInventroy(inventory);
         }
 
         public void DisplayInventroy(List<ItemData> inventory)
         {
-            for(int i = 0; i < _inventorySlots.Length; i++)
+            for (int i = 0; i < _inventorySlots.Length; i++)
             {
-                if(inventory.Count - 1 >= i && i + _currentInventoryIndex < inventory.Count)
+                if (inventory.Count - 1 >= i && i + _currentInventoryIndex < inventory.Count)
                 {
                     _inventorySlots[i].image.sprite = inventory[i + _currentInventoryIndex].ItemSprite;
                     _inventorySlots[i].gameObject.SetActive(true);
@@ -90,8 +99,6 @@ namespace PocketBibi
             ShowDownButton();
         }
 
-        #region Public Functions/Methods for use with Buttons
-
         private void ShowUpButton()
         {
             _upArrowBttn.SetActive(_currentInventoryIndex >= 5);
@@ -101,6 +108,8 @@ namespace PocketBibi
         {
             _downArrowBttn.SetActive(_currentInventoryIndex + 5 < _currentInventory.Count);
         }
+
+        #region Public Functions/Methods for use with Buttons
 
         public void FoodButton()
         {
@@ -162,6 +171,11 @@ namespace PocketBibi
                     break;
                 }
             }
+        }
+
+        public void ExitButton()
+        {
+            gameObject.SetActive(false);
         }
 
         #endregion
