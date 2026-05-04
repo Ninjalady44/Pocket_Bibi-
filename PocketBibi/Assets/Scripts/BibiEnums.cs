@@ -45,4 +45,7 @@ namespace PocketBibi
         BATHROOM,
         KITCHEN
     }
+
+    public enum ItemType { Food, Toy, Veggie, Fish, Tresure }
+    public enum InventroyState { Buy, Sell, Use}
 }

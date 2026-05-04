@@ -32,45 +32,53 @@ namespace PocketBibi
 
         #region Private Variables/Fields used in this Class Only
 
-        private List<ItemData> _foodInventory;
-        private List<ItemData> _fishInventory;
-        private List<ItemData> _veggiesInventory;
-        private List<ItemData> _toysInventory;
-        private List<ItemData> _tresuresInventory;
-        private List<ItemData> _currentInventory;
+        private List<Item> _foodInventory;
+        private List<Item> _fishInventory;
+        private List<Item> _veggiesInventory;
+        private List<Item> _toysInventory;
+        private List<Item> _tresuresInventory;
+        private List<Item> _currentInventory;
         private int _currentInventoryIndex;
 
         #endregion
 
+        #region Private Initialization Functions/Methods
+
         private void Start()
         {
-            _fishInventory = new List<ItemData>();
-            _toysInventory = new List<ItemData>();
-            _foodInventory = new List<ItemData>();
-            _tresuresInventory = new List<ItemData>();
-            _veggiesInventory = new List<ItemData>();
+            _fishInventory = new List<Item>();
+            _toysInventory = new List<Item>();
+            _foodInventory = new List<Item>();
+            _tresuresInventory = new List<Item>();
+            _veggiesInventory = new List<Item>();
             _currentInventoryIndex = 0;
 
             var temp = Resources.LoadAll<ItemData>("Data/Configs/FoodConfigs");
 
             for (int i = 0; i < temp.Length; i++)
             {
-                _foodInventory.Add(temp[i]);
+                var item = new Item(temp[i]);
+                item.AddItem();
+                _foodInventory.Add(item);
             }
 
             FoodButton();
         }
 
-        public void AddItemToInventory(List<ItemData> inventory, ItemData item)
+        #endregion
+
+        #region Public Functions/Methods
+
+        public void AddItemToInventory(List<Item> inventory, Item item)
         {
             inventory.Add(item);
         }
 
-        public void RemoveFromInventory(List<ItemData> inventory, ItemData item)
+        public void RemoveFromInventory(List<Item> inventory, Item item)
         {
             for (int i = 0; i < inventory.Count; i++)
             {
-                if (inventory[i].name == item.name)
+                if (inventory[i].ItemConfig.name == item.ItemConfig.name)
                 {
                     inventory.RemoveAt(i);
                     break;
@@ -80,13 +88,14 @@ namespace PocketBibi
             DisplayInventroy(inventory);
         }
 
-        public void DisplayInventroy(List<ItemData> inventory)
+        public void DisplayInventroy(List<Item> inventory)
         {
             for (int i = 0; i < _inventorySlots.Length; i++)
             {
                 if (inventory.Count - 1 >= i && i + _currentInventoryIndex < inventory.Count)
                 {
-                    _inventorySlots[i].image.sprite = inventory[i + _currentInventoryIndex].ItemSprite;
+                    _inventorySlots[i].image.sprite = inventory[i + _currentInventoryIndex].ItemConfig.ItemSprite;
+                    _itemAmountText[i].text = inventory[i].ItemAmount.ToString();
                     _inventorySlots[i].gameObject.SetActive(true);
                 }
                 else
@@ -108,6 +117,8 @@ namespace PocketBibi
         {
             _downArrowBttn.SetActive(_currentInventoryIndex + 5 < _currentInventory.Count);
         }
+
+        #endregion
 
         #region Public Functions/Methods for use with Buttons
 
@@ -165,9 +176,9 @@ namespace PocketBibi
         {
             for(int i = 0; i < _currentInventory.Count; i++)
             {
-                if( _currentInventory[i].ItemSprite == _inventorySlots[buttonNumber].image.sprite)
+                if( _currentInventory[i].ItemConfig.ItemSprite == _inventorySlots[buttonNumber].image.sprite)
                 {
-                    Debug.Log(_currentInventory[i].name);
+                    Debug.Log(_currentInventory[i].ItemConfig.name);
                     break;
                 }
             }

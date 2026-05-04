@@ -38,7 +38,11 @@ namespace PocketBibi
 
         #endregion
 
+        #region Public Getters/Accessors
+
         public GameObject[] Screens => _screens;
+
+        #endregion
 
         #region Public Functions/Methods
 

@@ -19,11 +19,19 @@ namespace PocketBibi
     [CreateAssetMenu(fileName = "GameData", menuName = "ScriptableObjects/GameData")]
     public class GameData : ScriptableObject
     {
+        #region Private Variables/Fields Exposed to Inspector for Editing
+
         [SerializeField, Min(1)] private float _splashScreenTimer = 1;
         [SerializeField] private float[] _textSpeed;
 
+        #endregion
+
+        #region Public Getters/Accessors
+
         public float SplashScreenTimer => _splashScreenTimer;
         public float[] TextSpeed => _textSpeed;
+
+        #endregion
     }
 }
 
