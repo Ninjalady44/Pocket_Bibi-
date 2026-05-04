@@ -27,6 +27,7 @@ namespace PocketBibi
         [SerializeField] private TextMeshProUGUI[] _itemAmountText = null;
         [SerializeField] private GameObject _upArrowBttn = null;
         [SerializeField] private GameObject _downArrowBttn = null;
+        [SerializeField] private InfoWindow _infoWindow = null;
 
         #endregion
 
@@ -41,6 +42,8 @@ namespace PocketBibi
         private int _currentInventoryIndex;
 
         #endregion
+
+        public List<Item> FoodInventory => _foodInventory;
 
         #region Private Initialization Functions/Methods
 
@@ -57,7 +60,7 @@ namespace PocketBibi
 
             for (int i = 0; i < temp.Length; i++)
             {
-                var item = new Item(temp[i]);
+                var item = new FoodItem(temp[i]);
                 item.AddItem();
                 _foodInventory.Add(item);
             }
@@ -178,7 +181,9 @@ namespace PocketBibi
             {
                 if( _currentInventory[i].ItemConfig.ItemSprite == _inventorySlots[buttonNumber].image.sprite)
                 {
-                    Debug.Log(_currentInventory[i].ItemConfig.name);
+                    //Debug.Log(_currentInventory[i].ItemConfig.name);
+                    _infoWindow.DisplayItemInfo(_currentInventory[i].ItemConfig.ItemSprite, _currentInventory[i].ItemConfig.ItemName, "", _currentInventory[i], 
+                        _currentInventory[i].ItemAmount);
                     break;
                 }
             }

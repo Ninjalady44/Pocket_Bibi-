@@ -27,6 +27,7 @@ namespace PocketBibi
 
         [SerializeField] private BibiData[] _eggs = null;
         [SerializeField] private Bibi _bibiPrefab = null;
+        [SerializeField] private Inventory _inventory = null;
 
         #endregion
 
@@ -54,6 +55,7 @@ namespace PocketBibi
 
         public Bibi PlayerBibi => _bibi;
         public BibiData[] Eggs => _eggs;
+        public Inventory Inventory => _inventory;
 
         #endregion
 

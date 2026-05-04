@@ -14,12 +14,13 @@
 
 namespace PocketBibi
 {
-    public class Item
+    public abstract class Item
     {
         private const int MAX_ITEM_AMOUNT = 9;
 
         protected ItemData _itemConfig = null;
         protected int _itemAmount = 0;
+        protected int _index = 0;
 
         public ItemData ItemConfig => _itemConfig;
         public int ItemAmount => _itemAmount;
@@ -27,5 +28,6 @@ namespace PocketBibi
         public Item(ItemData itemConfig) { _itemConfig = itemConfig; }
         public void AddItem() { _itemAmount += 1; if (_itemAmount > MAX_ITEM_AMOUNT) { _itemAmount = MAX_ITEM_AMOUNT; } }
         public void RemoveItem() { _itemAmount -= 1; if (_itemAmount < 0) { _itemAmount = 0; } }
+        abstract public void Use();
     }
 }
