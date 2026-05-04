@@ -14,7 +14,7 @@
 
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "ItemConfig", menuName = "ScriptableObjects/ItemConfig")]
+[CreateAssetMenu(fileName = "ItemConfig_", menuName = "ScriptableObjects/ItemConfig")]
 public class ItemData : ScriptableObject
 {
     [SerializeField] private Sprite _itemSprite = null;

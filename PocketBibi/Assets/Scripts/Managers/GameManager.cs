@@ -47,7 +47,7 @@ namespace PocketBibi
         private void Start()
         {
             _currentDateTime = DateTime.Now;
-            Debug.Log(_currentDateTime.Minute);
+            //Debug.Log(_currentDateTime.Minute);
         }
 
         #endregion
