@@ -28,6 +28,7 @@ namespace PocketBibi
         [SerializeField] private GameObject _upArrowBttn = null;
         [SerializeField] private GameObject _downArrowBttn = null;
         [SerializeField] private InfoWindow _infoWindow = null;
+        [SerializeField] private GameScreen _gameScreen = null;
 
         #endregion
 
@@ -192,6 +193,7 @@ namespace PocketBibi
         public void ExitButton()
         {
             gameObject.SetActive(false);
+            _gameScreen.InSideButton();
         }
 
         #endregion

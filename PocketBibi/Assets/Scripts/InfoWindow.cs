@@ -27,7 +27,6 @@ namespace PocketBibi
         [SerializeField] private TextMeshProUGUI _itemDescription = null;
         [SerializeField] private TextMeshProUGUI _itemAmount = null;
         [SerializeField] private Button _useButton = null;
-        [SerializeField] private GameScreen _gameScreen = null;
 
         #endregion
 
@@ -64,7 +63,6 @@ namespace PocketBibi
 
         public void BackButton()
         {
-            _gameScreen.InSideButton();
             gameObject.SetActive(false);
         }
 
