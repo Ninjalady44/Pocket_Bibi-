@@ -35,6 +35,7 @@ namespace PocketBibi
         #region Private Variables/Fields used in this Class Only
 
         private GameObject _currentScreen;
+        private Inventory _inventory;
 
         #endregion
 
@@ -57,6 +58,7 @@ namespace PocketBibi
             }
 
             _screens[(int)GameScreens.BEDROOM].SetActive(true);
+            _inventory = PlayerManager.Instance.Inventory;
         }
 
         public void OnEnable()
@@ -115,6 +117,12 @@ namespace PocketBibi
         {
             _careButtonAnimator.SetBool(BUTTONS_ON, false);
             _statusSettingButton.SetActive(true);
+        }
+
+        public void FoodButton()
+        {
+            _careButtonAnimator.SetBool(BUTTONS_ON, false);
+            _inventory.gameObject.SetActive(true);
         }
 
         #endregion
