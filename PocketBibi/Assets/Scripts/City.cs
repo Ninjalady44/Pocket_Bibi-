@@ -13,12 +13,22 @@
  ****************************************************************************************/
 
 using UnityEngine;
+using UnityEngine.UI;
 
 namespace PocketBibi
 {
     public class City : MonoBehaviour
     {
+        [SerializeField] private Image _bibi;
         [SerializeField] private Transform[] _buildingLocations;
+
+        private void OnEnable()
+        {
+            if(PlayerManager.Instance.PlayerBibi.BibiSprite != null)
+            {
+                _bibi.sprite = PlayerManager.Instance.PlayerBibi.BibiSprite;
+            }
+        }
 
         public void _arcadeButton() { }
         public void _fishButton() { }
